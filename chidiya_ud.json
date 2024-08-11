@@ -1,4 +1,6 @@
-[
+{
+	"isAdsEnabled"=false,
+	"words"= [
     {"en_word": "Owl", "hi_word": "उल्लू", "val": "1"},
     {"en_word": "Pigeon", "hi_word": "कबूतर", "val": "1"},
     {"en_word": "Crow", "hi_word": "कौवा", "val": "1"},
@@ -50,3 +52,4 @@
     {"en_word": "Ostrich", "hi_word": "शुतुरमुर्ग", "val": "1"},
     {"en_word": "Helicopter", "hi_word": "हेलीकॉप्टर", "val": "1"}
   ]
+}
