@@ -23,7 +23,7 @@
     {"en_word": "Cat", "hi_word": "बिल्ली", "val": "-1"},
     {"en_word": "Drone", "hi_word": "ड्रोन", "val": "1"},
     {"en_word": "Butterfly", "hi_word": "तितली", "val": "1"},
-    {"en_word": "Cloud", "hi_word": "बादल", "val": "-1"},
+    {"en_word": "Cloud", "hi_word": "बादल", "val": "1"},
     {"en_word": "Coconut", "hi_word": "नारियल", "val": "-1"},
     {"en_word": "Cow", "hi_word": "गाय", "val": "-1"},
     {"en_word": "Deer", "hi_word": "हिरन", "val": "-1"},
