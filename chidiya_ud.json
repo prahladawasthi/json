@@ -1,5 +1,5 @@
 {
-	"isAdsEnabled" : false,
+	"isAdsEnabled" : true,
 	"words" : [
     {"en_word": "Owl", "hi_word": "उल्लू", "val": "1"},
     {"en_word": "Pigeon", "hi_word": "कबूतर", "val": "1"},
