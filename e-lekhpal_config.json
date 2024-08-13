@@ -5,7 +5,37 @@
     "sliderTexts": "Updated Application, New Suggestion box, Help us with your Ideas,All Information at one place",
     "sliderUrls": " , , , ",
     "adminList": "",
-    "bhulekhList": [{"btnText":"UP Bhulekha", "btnUrl":"https://upbhulekh.gov.in" }],
-    "bhunakshaList" : [],
-    "edistrictList" : []
+    "bhulekhList": [
+        {
+            "aspectRatio": "2.6",
+            "btnText": "Punjab",
+            "btnUrl": "http://plrs.org.in/",
+            "photoUrl": "https://images.unsplash.com/photo-1587899765642-3f8e3ea67852?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1031&q=80",
+            "post": " ",
+            "subtitle": "Punjab Land Record Society",
+            "title": "Punjab"
+        },
+        {
+            "aspectRatio": "3",
+            "btnText": "Uttar Pradesh",
+            "btnUrl": "http://upbhulekh.gov.in/",
+            "photoUrl": "https://plus.unsplash.com/premium_photo-1661885523029-fc960a2bb4f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "post": " ",
+            "subtitle": " Bhulekh",
+            "title": "Uttar Pradesh"
+        },
+        {
+            "aspectRatio": "2.6",
+            "btnText": "Goa",
+            "btnUrl": "https://egov.goa.nic.in/",
+            "photoUrl": "https://images.unsplash.com/photo-1587922546307-776227941871?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            "post": " ",
+            "subtitle": "Goa Land Records",
+            "title": "Goa"
+        }
+    ],
+    "bhunakshaList": [
+    ],
+    "edistrictList": [
+    ]
 }
