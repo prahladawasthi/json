@@ -37,5 +37,34 @@
     "bhunakshaList": [
     ],
     "edistrictList": [
+    ],
+    "homePageBtn": [
+        {
+            "aspectRatio": "2.6",
+            "btnText": "Janaushadhi",
+            "btnUrl": "http://janaushadhi.gov.in/index.aspx",
+            "photoUrl": "https://3.bp.blogspot.com/--WPbGFR8_Ng/WYrl_FFi5DI/AAAAAAAATvQ/-a2kTdx9Xy87nLKEeO2m03RSffjQEIMGACLcBGAs/s1600/Jan%2BAushadhi%2B%2BStore%2BBranding%2Blogo.png",
+            "post": " ",
+            "subtitle": "",
+            "title": "Janaushadhi"
+        },
+        {
+            "aspectRatio": "2.6",
+            "btnText": "Ujjwala Yojana",
+            "btnUrl": "https://www.pmuy.gov.in",
+            "photoUrl": "https://uxdt.nic.in/wp-content/uploads/2020/06/Ujjwala-Yojna_Preview.png",
+            "post": " ",
+            "subtitle": "",
+            "title": "Ujjwala Yojana"
+        },
+        {
+            "aspectRatio": "2.6",
+            "btnText": "Fasal Bima",
+            "btnUrl": "https://pmfby.gov.in",
+            "photoUrl": "https://static.mygov.in/static/s3fs-public/mygov_147896462333113614.jpg",
+            "post": " ",
+            "subtitle": "",
+            "title": "Fasal Bima"
+        }
     ]
 }
