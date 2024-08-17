@@ -265,19 +265,25 @@
     ],
     "homePageBtn": [
         {
+            "title-en": "Janaushadhi",
+            "title-hi": "जनऔषधि",
             "btnUrl": "http://janaushadhi.gov.in/index.aspx",
-            "post": "The Jan Aushadhi initiative makes available quality drugs at affordable prices through dedicated stores selling generic medicines which are available at lesser prices but are equivalent in quality and efficacy as expensive branded drugs.",
-            "title": "Janaushadhi"
+            "post-en": "The Jan Aushadhi initiative makes available quality drugs at affordable prices through dedicated stores selling generic medicines which are available at lesser prices but are equivalent in quality and efficacy as expensive branded drugs.",
+            "post-hi": "जन औषधि पहल, जेनेरिक दवाइयां बेचने वाले समर्पित स्टोरों के माध्यम से किफायती मूल्य पर गुणवत्तापूर्ण दवाइयां उपलब्ध कराती है। ये दवाएं कम कीमत पर उपलब्ध होती हैं, लेकिन गुणवत्ता और प्रभावकारिता में महंगी ब्रांडेड दवाओं के बराबर होती हैं।"
         },
         {
             "btnUrl": "https://www.pmuy.gov.in",
-            "post": "The Ministry of Petroleum and Natural Gas (MOPNG), introduced the 'Pradhan Mantri Ujjwala Yojana' (PMUY) as a flagship scheme with an objective to make clean cooking fuel such as LPG available to the rural and deprived households which were otherwise using traditional cooking fuels such as firewood and coal.",
-            "title": "Ujjwala Yojana"
+            "post-en": "The Ministry of Petroleum and Natural Gas (MOPNG), introduced the 'Pradhan Mantri Ujjwala Yojana' (PMUY) as a flagship scheme with an objective to make clean cooking fuel such as LPG available to the rural and deprived households which were otherwise using traditional cooking fuels such as firewood and coal.",
+            "post-hi": "पेट्रोलियम एवं प्राकृतिक गैस मंत्रालय (एमओपीएनजी) ने एक प्रमुख योजना के रूप में 'प्रधानमंत्री उज्ज्वला योजना' (पीएमयूवाई) की शुरुआत की है, जिसका उद्देश्य ग्रामीण एवं वंचित परिवारों को एलपीजी जैसे स्वच्छ खाना पकाने के ईंधन उपलब्ध कराना है, जो अन्यथा लकड़ी और कोयले जैसे पारंपरिक खाना पकाने के ईंधन का उपयोग कर रहे थे।",
+            "title-en": "Ujjwala Yojana",
+            "title-hi": "उज्ज्वला योजना"
         },
         {
             "btnUrl": "https://pmfby.gov.in",
-            "post": "The Pradhan Mantri fasal bima yojana launched on 18 February 2016 by Prime Minister Narendra Modi is an insurance service for farmers for their yields.",
-            "title": "Fasal Bima"
+            "post-en": "The Pradhan Mantri fasal bima yojana launched on 18 February 2016 by Prime Minister Narendra Modi is an insurance service for farmers for their yields.",
+            "post-hi": "प्रधानमंत्री नरेन्द्र मोदी द्वारा 18 फरवरी 2016 को शुरू की गई प्रधानमंत्री फसल बीमा योजना किसानों को उनकी उपज के लिए एक बीमा सेवा है।",
+            "title-en": "Fasal Bima",
+            "title-hi": "फसल बीमा"
         }
     ]
 }
