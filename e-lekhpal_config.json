@@ -35,6 +35,87 @@
         }
     ],
     "bhunakshaList": [
+        {
+            "aspectRatio": "2.6",
+            "btnText": "Chattisgarh",
+            "btnUrl": "https://bhunaksha.cg.nic.in/",
+            "photoUrl": "https://images.unsplash.com/photo-1627475320102-d73fcb4eb427?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "post": " ",
+            "subtitle": "Capital : Raipur",
+            "title": "Chattisgarh"
+        },
+        {
+            "aspectRatio": "2.6",
+            "btnText": "Delhi",
+            "btnUrl": "https://gsdl.org.in/revenue/",
+            "photoUrl": "https://images.unsplash.com/photo-1576519465852-4d119fcccf33?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1203&q=80",
+            "post": " ",
+            "subtitle": "Bhu Naksha for delhi",
+            "title": "Delhi"
+        },
+        {
+            "aspectRatio": "2.6",
+            "btnText": "Odisha",
+            "btnUrl": "https://bhunakshaodisha.nic.in/",
+            "photoUrl": "https://images.unsplash.com/photo-1617217139357-b77ae58ad4b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
+            "post": " ",
+            "subtitle": "Capital : Bhubaneswar",
+            "title": "Odisha"
+        },
+        {
+            "aspectRatio": "2.6",
+            "btnText": "Himachal Pradesh",
+            "btnUrl": "https://bhunakshahp.nic.in/",
+            "photoUrl": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "post": " ",
+            "subtitle": "Capital : Shimla/Dharamshala",
+            "title": "Himachal Pradesh"
+        },
+        {
+            "aspectRatio": "2.6",
+            "btnText": "Jharkhand",
+            "btnUrl": "https://jharbhunaksha.jharkhand.gov.in/",
+            "photoUrl": "https://images.unsplash.com/photo-1625387891389-a4b440ae958e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
+            "post": " ",
+            "subtitle": "Capital : Ranchi",
+            "title": "Jharkhand"
+        },
+        {
+            "aspectRatio": "2.6",
+            "btnText": "Bihar ",
+            "btnUrl": "https://bhunaksha.bihar.gov.in/10/index.jsp",
+            "photoUrl": "https://images.unsplash.com/photo-1629705991555-46d94cbcf753?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1033&q=80",
+            "post": " ",
+            "subtitle": "Capital : Patna",
+            "title": "Bihar"
+        },
+        {
+            "aspectRatio": "2.6",
+            "btnText": "Uttarakhand",
+            "btnUrl": "https://bhunaksha.uk.gov.in/05/index.html",
+            "photoUrl": "https://images.unsplash.com/photo-1511754863001-18d44abd0a93?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "post": " ",
+            "subtitle": "Capital : Dehradoon",
+            "title": "Uttarakhand"
+        },
+        {
+            "aspectRatio": "2.6",
+            "btnText": "Uttar Pradesh Bhunaksha",
+            "btnUrl": "https://upbhunaksha.gov.in/",
+            "photoUrl": "https://plus.unsplash.com/premium_photo-1661885523029-fc960a2bb4f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "post": " ",
+            "subtitle": " Capital : Lucknow",
+            "title": "Uttar Pradesh"
+        },
+        {
+            "aspectRatio": "2.6",
+            "btnText": "Kerala",
+            "btnUrl": "https://emaps.kerala.gov.in/bhunaksha/kl/homenew.html",
+            "photoUrl": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
+            "post": " ",
+            "subtitle": "Capital : Thiruvananthapuram",
+            "title": "Kerala"
+        }
     ],
     "edistrictList": [
     ],
