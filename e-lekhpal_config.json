@@ -287,5 +287,19 @@
             "title-en": "Fasal Bima",
             "title-hi": "फसल बीमा"
         }
+    ],
+    "homePageImgBtn": [
+        {
+            "title-en": "test",
+            "title-hi": "test-hindi",
+            "subtitle-en": "subtitle-en",
+            "subtitle-hi": "subtitle-hindi",
+            "btnUrl": "http://janaushadhi.gov.in/index.aspx",
+            "btnText-en": "btnText-en",
+            "btnText-hi": "Karnataka-hi",
+            "post-en": "The Jan Aushadhi initiative makes available quality drugs at affordable prices through dedicated stores selling generic medicines which are available at lesser prices but are equivalent in quality and efficacy as expensive branded drugs.",
+            "post-hi": "जन औषधि पहल, जेनेरिक दवाइयां बेचने वाले समर्पित स्टोरों के माध्यम से किफायती मूल्य पर गुणवत्तापूर्ण दवाइयां उपलब्ध कराती है। ये दवाएं कम कीमत पर उपलब्ध होती हैं, लेकिन गुणवत्ता और प्रभावकारिता में महंगी ब्रांडेड दवाओं के बराबर होती हैं।",
+            "aspectRatio": "2.6"
+        }
     ]
 }
