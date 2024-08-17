@@ -288,7 +288,8 @@
             "title-hi": "फसल बीमा"
         }
     ],
-    "homePageImgBtn": [
+    "homePageImgBtn": [],
+    "homePageImgBtnTest": [
         {
             "title-en": "test",
             "title-hi": "test-hindi",
