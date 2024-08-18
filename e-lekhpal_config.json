@@ -9,15 +9,6 @@
     "adminList": "",
     "bhulekhList": [
         {
-            "aspectRatio": "2.6",
-            "btnText": "Punjab",
-            "btnUrl": "http://plrs.org.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1587899765642-3f8e3ea67852?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1031&q=80",
-            "post": " ",
-            "subtitle": "Punjab Land Record Society",
-            "title": "Punjab"
-        },
-        {
             "aspectRatio": "3",
             "btnText": "Uttar Pradesh",
             "btnUrl": "http://upbhulekh.gov.in/",
@@ -25,80 +16,6 @@
             "post": " ",
             "subtitle": " Bhulekh",
             "title": "Uttar Pradesh"
-        },
-        {
-            "aspectRatio": "2.6",
-            "btnText": "Goa",
-            "btnUrl": "https://egov.goa.nic.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1587922546307-776227941871?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
-            "post": " ",
-            "subtitle": "Goa Land Records",
-            "title": "Goa"
-        }
-    ],
-    "bhunakshaList": [
-        {
-            "aspectRatio": "2.6",
-            "btnText": "Punjab",
-            "btnUrl": "http://plrs.org.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1587899765642-3f8e3ea67852?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1031&q=80",
-            "post": " ",
-            "subtitle": "Punjab Land Record Society",
-            "title": "Punjab"
-        },
-        {
-            "aspectRatio": "2.6",
-            "btnText": "Goa",
-            "btnUrl": "https://egov.goa.nic.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1587922546307-776227941871?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
-            "post": " ",
-            "subtitle": "Goa Land Records",
-            "title": "Goa"
-        },
-        {
-            "aspectRatio": "2.6",
-            "btnText": "Kerala ",
-            "btnUrl": "http://erekha.kerala.gov.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
-            "post": " ",
-            "subtitle": "E-Rekha",
-            "title": "Kerala "
-        },
-        {
-            "aspectRatio": "2.6",
-            "btnText": "Kerala ",
-            "btnUrl": "http://erekha.kerala.gov.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
-            "post": " ",
-            "subtitle": "E-Rekha",
-            "title": "Kerala "
-        },
-        {
-            "aspectRatio": "2.6",
-            "btnText": "Manipur",
-            "btnUrl": "https://louchapathap.nic.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1587635861480-414767bd0198?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-            "post": " ",
-            "subtitle": "Louchapathap",
-            "title": "Manipur"
-        },
-        {
-            "aspectRatio": "3",
-            "btnText": "Uttar Pradesh",
-            "btnUrl": "http://upbhulekh.gov.in/",
-            "photoUrl": "https://plus.unsplash.com/premium_photo-1661885523029-fc960a2bb4f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-            "post": " ",
-            "subtitle": " Bhulekh",
-            "title": "Uttar Pradesh"
-        },
-        {
-            "aspectRatio": "2.6",
-            "btnText": "Andhra Pradesh",
-            "btnUrl": "https://meebhoomi.ap.gov.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1564933356-a0c8922d8926?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
-            "post": " ",
-            "subtitle": "Meebhoomi",
-            "title": "Andhra Pradesh"
         },
         {
             "aspectRatio": "3",
@@ -108,160 +25,9 @@
             "post": " ",
             "subtitle": " Bhulekh/Devbhoomi",
             "title": "Uttarakhand"
-        },
-        {
-            "aspectRatio": "2.6",
-            "btnText": "Haryana",
-            "btnUrl": "https://jamabandi.nic.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1605469237567-a39930679526?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-            "post": " ",
-            "subtitle": "Jamabandi",
-            "title": "Haryana"
-        },
-        {
-            "aspectRatio": "2.6",
-            "btnText": "West Bengal",
-            "btnUrl": "https://banglarbhumi.gov.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1589041127168-9b1915731dc3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-            "post": " ",
-            "subtitle": "Banglabhumi",
-            "title": "West Bengal"
-        },
-        {
-            "aspectRatio": "2.6",
-            "btnText": "Tripura",
-            "btnUrl": "https://jami.tripura.gov.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1575569795407-0d54ebdbf069?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
-            "post": " ",
-            "subtitle": "Jami Tripura",
-            "title": "Tripura"
-        },
-        {
-            "aspectRatio": "2.6",
-            "btnText": "Sikkim",
-            "btnUrl": "http://www.sikkimlrdm.gov.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1634400001131-d04275db2076?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-            "post": " ",
-            "subtitle": "Land Revenue and Disaster Management",
-            "title": "Sikkim"
-        },
-        {
-            "aspectRatio": "2.6",
-            "btnText": "Maharashtra",
-            "btnUrl": "https://bhulekh.mahabhumi.gov.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1595658658481-d53d3f999875?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
-            "post": " ",
-            "subtitle": "Bhulekh Mahabhumi",
-            "title": "Maharashtra"
-        },
-        {
-            "aspectRatio": "2.6",
-            "btnText": "Bihar",
-            "btnUrl": "http://bhumijankari.bihar.gov.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1629705991555-46d94cbcf753?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1033&q=80",
-            "post": " ",
-            "subtitle": "Bhulekh",
-            "title": "Bihar"
-        },
-        {
-            "aspectRatio": "2.6",
-            "btnText": "Telangana",
-            "btnUrl": "https://dharani.telangana.gov.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1470075446540-4391a96ec621?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
-            "post": " ",
-            "subtitle": "Dharani",
-            "title": "Telangana"
-        },
-        {
-            "aspectRatio": "2.6",
-            "btnText": "Assam",
-            "btnUrl": "https://revenueassam.nic.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1615472910606-9d4f7291944f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=874&q=80",
-            "post": " ",
-            "subtitle": "Dharitree ",
-            "title": "Assam"
-        },
-        {
-            "aspectRatio": "2.6",
-            "btnText": "Himachal Pradesh",
-            "btnUrl": "http://admis.hp.nic.in/himbhoomi/",
-            "photoUrl": "https://images.unsplash.com/photo-1625387891389-a4b440ae958e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
-            "post": " ",
-            "subtitle": "Himbhoomi",
-            "title": "Himachal Pradesh"
-        },
-        {
-            "aspectRatio": "2.6",
-            "btnText": "Jharkhand",
-            "btnUrl": "https://jharbhoomi.nic.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
-            "post": " ",
-            "subtitle": "Jharbhoomi",
-            "title": "Jharkhand"
-        },
-        {
-            "aspectRatio": "2.6",
-            "btnText": "Madhya Pradesh",
-            "btnUrl": "https://mpbhulekh.gov.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1598940124575-966b8261f114?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-            "post": " ",
-            "subtitle": "Bhulekh",
-            "title": "Madhya Pradesh"
-        },
-        {
-            "aspectRatio": "2.6",
-            "btnText": "Tamil Nadu",
-            "btnUrl": "Patta Chitta ",
-            "photoUrl": "https://images.unsplash.com/photo-1573043576848-56250cd36770?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1034&q=80",
-            "post": " ",
-            "subtitle": "Patta Chitta ",
-            "title": "Tamil Nadu"
-        },
-        {
-            "aspectRatio": "2.6",
-            "btnText": "Odisha",
-            "btnUrl": "http://bhulekh.ori.nic.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1617217139357-b77ae58ad4b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
-            "post": " ",
-            "subtitle": "Bhulekh",
-            "title": "Odisha"
-        },
-        {
-            "aspectRatio": "2.6",
-            "btnText": "Rajasthan",
-            "btnUrl": "http://apnakhata.raj.nic.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1616693139578-f1c17deb0d4f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80",
-            "post": " ",
-            "subtitle": "Apna Katha/E-Dharti",
-            "title": "Rajasthan"
-        },
-        {
-            "aspectRatio": "2.6",
-            "btnText": "Chhattisgarh",
-            "btnUrl": "https://bhuiyan.cg.nic.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1627475320102-d73fcb4eb427?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-            "post": " ",
-            "subtitle": "Bhuiyan",
-            "title": "Chhattisgarh"
-        },
-        {
-            "aspectRatio": "2.6",
-            "btnText": "Gujarat",
-            "btnUrl": "https://anyror.gujarat.gov.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1581836850314-3b668c2aa540?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
-            "post": " ",
-            "subtitle": "AnyRoR",
-            "title": "Gujarat"
-        },
-        {
-            "aspectRatio": "2.6",
-            "btnText": "Karnataka",
-            "btnUrl": "https://www.landrecords.karnataka.gov.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1580294647332-8a399cd9ed45?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
-            "post": " ",
-            "subtitle": "Bhoomi",
-            "title": "Karnataka"
         }
+    ],
+    "bhunakshaList": [
     ],
     "edistrictList": [
     ],
@@ -288,20 +54,8 @@
             "title-hi": "फसल बीमा"
         }
     ],
-    "homePageImgBtn": [],
+    "homePageImgBtn": [
+    ],
     "homePageImgBtnTest": [
-        {
-            "title-en": "test",
-            "title-hi": "test-hindi",
-            "subtitle-en": "subtitle-en",
-            "subtitle-hi": "subtitle-hindi",
-            "btnUrl": "http://janaushadhi.gov.in/index.aspx",
-            "photoUrl": "https://images.unsplash.com/photo-1587899765642-3f8e3ea67852?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1031&q=80",
-            "btnText-en": "btnText-en",
-            "btnText-hi": "Karnataka-hi",
-            "post-en": "The Jan Aushadhi initiative makes available quality drugs at affordable prices through dedicated stores selling generic medicines which are available at lesser prices but are equivalent in quality and efficacy as expensive branded drugs.",
-            "post-hi": "जन औषधि पहल, जेनेरिक दवाइयां बेचने वाले समर्पित स्टोरों के माध्यम से किफायती मूल्य पर गुणवत्तापूर्ण दवाइयां उपलब्ध कराती है। ये दवाएं कम कीमत पर उपलब्ध होती हैं, लेकिन गुणवत्ता और प्रभावकारिता में महंगी ब्रांडेड दवाओं के बराबर होती हैं।",
-            "aspectRatio": "2.6"
-        }
     ]
 }
