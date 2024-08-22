@@ -4,5 +4,15 @@
     "sliderImages": "https://images.unsplash.com/photo-1581287053822-fd7bf4f4bfec?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=901&q=80,https://images.unsplash.com/photo-1597276144232-6f56f1a7f2e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80,https://images.unsplash.com/photo-1512314889357-e157c22f938d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80,https://images.unsplash.com/photo-1618588590706-bac3c25b3d41?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
     "sliderTexts": "Updated Application, New Suggestion box, Help us with your Ideas,All Information at one place",
     "sliderUrls": " , , , ",
-    "adminList": ""
+    "adminList": "",
+    "streamLists": [
+        {
+            "name": "Free TV",
+            "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"
+        },
+        {
+            "name": "IPTV",
+            "url": "https://iptv-org.github.io/iptv/index.m3u"
+        }
+    ]
 }
