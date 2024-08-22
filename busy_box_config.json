@@ -5,7 +5,7 @@
     "sliderTexts": "Updated Application, New Suggestion box, Help us with your Ideas,All Information at one place",
     "sliderUrls": " , , , ",
     "adminList": "",
-    "streamLists": [
+    "streamListsOld": [
         {
             "name": "Free TV",
             "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"
