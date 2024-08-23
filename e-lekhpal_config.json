@@ -38,6 +38,19 @@
     "bhunakshaList": [
     ],
     "edistrictList": [
+        {
+            "title-en": "e-District - Delhi",
+            "title-hi": "ई -डिस्ट्रिक्ट - दिल्ली",
+            "subtitle-en": " ",
+            "subtitle-hi": "द ",
+            "btnUrl": "https://edistrict.delhigovt.nic.in",
+            "photoUrl": "https://images.unsplash.com/photo-1667849521212-e9843b89f322?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "btnText-en": "e-District - Delhi",
+            "btnText-hi": "ई -डिस्ट्रिक्ट - दिल्ली",
+            "post-en": "",
+            "post-hi": "",
+            "aspectRatio": "3"
+        }
     ],
     "homePageBtn": [
         {
