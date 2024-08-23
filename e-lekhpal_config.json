@@ -57,5 +57,18 @@
     "homePageImgBtn": [
     ],
     "homePageImgBtnTest": [
+        {
+            "title-en": "Board Of Revenue, U.P",
+            "title-hi": "राजस्व परिषद , उत्तर प्रदेश",
+            "subtitle-en": "",
+            "subtitle-hi": "",
+            "btnUrl": "https://bor.up.nic.in/",
+            "photoUrl": "https://bor.up.nic.in/home/assets/images/upgovlogo.jpeg",
+            "btnText-en": "Board Of Revenue",
+            "btnText-hi": "राजस्व परिषद",
+            "post-en": "",
+            "post-hi": "",
+            "aspectRatio": "2.6"
+        }
     ]
 }
