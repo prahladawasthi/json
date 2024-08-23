@@ -9,22 +9,30 @@
     "adminList": "",
     "bhulekhList": [
         {
-            "aspectRatio": "3",
-            "btnText": "Uttar Pradesh",
+            "title-en": "Uttar Pradesh",
+            "title-hi": "उत्तर प्रदेश",
+            "subtitle-en": "Bhulekh",
+            "subtitle-hi": "भूलेख",
             "btnUrl": "http://upbhulekh.gov.in/",
             "photoUrl": "https://plus.unsplash.com/premium_photo-1661885523029-fc960a2bb4f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-            "post": " ",
-            "subtitle": " Bhulekh",
-            "title": "Uttar Pradesh"
+            "btnText-en": "Uttar Pradesh - Bhulekh",
+            "btnText-hi": "उत्तर प्रदेश - भूलेख",
+            "post-en": "",
+            "post-hi": "",
+            "aspectRatio": "3"
         },
         {
-            "aspectRatio": "3",
-            "btnText": "Uttarakhand",
+            "title-en": "Uttarakhand",
+            "title-hi": "उत्तर प्रदेश",
+            "subtitle-en": "Devbhoomi Bhulekh",
+            "subtitle-hi": "देवभूमि भूलेख",
             "btnUrl": "http://bhulekh.uk.gov.in/",
             "photoUrl": "https://images.unsplash.com/photo-1511754863001-18d44abd0a93?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-            "post": " ",
-            "subtitle": " Bhulekh/Devbhoomi",
-            "title": "Uttarakhand"
+            "btnText-en": "Uttarakhand - Bhulekh",
+            "btnText-hi": "उत्तर प्रदेश - भूलेख",
+            "post-en": "",
+            "post-hi": "",
+            "aspectRatio": "3"
         }
     ],
     "bhunakshaList": [
