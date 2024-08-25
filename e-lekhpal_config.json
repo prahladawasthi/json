@@ -57,7 +57,7 @@
             "btnText-hi": "गोवा  - भूलेख",
             "post-en": " Access to land records, property details, and other related information",
             "post-hi": " भूमि रिकॉर्ड, संपत्ति विवरण और अन्य संबंधित जानकारी",
-            "btnUrl": "https://dslr.goa.gov.in/Bhunaksha.aspx",
+            "btnUrl": "https://goaonline.gov.in/Appln/UIL/propertyregister?_Key=&_Mode=&_cscKey=&__cscKey=",
             "photoUrl": "https://images.unsplash.com/photo-1541738679621-172e4575a81d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
@@ -180,6 +180,31 @@
     ],
     "bhunakshaList": [
         {
+            "title-en": "Uttar Pradesh",
+            "title-hi": "उत्तर प्रदेश",
+            "subtitle-en": "Uttar Pradesh - Bhunaksha",
+            "subtitle-hi": "उत्तर प्रदेश - भू नक्शा",
+            "aspectRatio": "3",
+            "btnText-en": "Uttar Pradesh - Bhunaksha",
+            "btnText-hi": "उत्तर प्रदेश - भू नक्शा",
+            "post-en": " Access to land records, property details, and other related information",
+            "post-hi": " भूमि रिकॉर्ड, संपत्ति विवरण और अन्य संबंधित जानकारी",
+            "btnUrl": "https://bhunaksha.uk.gov.in/",
+            "photoUrl": "https://plus.unsplash.com/premium_photo-1661885523029-fc960a2bb4f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        },
+        {
+            "title-en": "Uttarakhand",
+            "title-hi": "उत्तराखंड",
+            "subtitle-en": "Uttarakhand - Bhunaksha",
+            "subtitle-hi": "उत्तराखंड - भू नक्शा",
+            "aspectRatio": "3",
+            "btnText-en": "Uttarakhand - Bhunaksha",
+            "btnText-hi": "उत्तराखंड - भू नक्शा",
+            "post-en": " Access to land records, property details, and other related information",
+            "post-hi": " भूमि रिकॉर्ड, संपत्ति विवरण और अन्य संबंधित जानकारी",
+            "btnUrl": "https://upbhunaksha.gov.in/",
+            "photoUrl": "https://images.unsplash.com/photo-1511754863001-18d44abd0a93?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        },{
             "title-en": "Goa",
             "title-hi": "गोवा",
             "subtitle-en": "Goa - Bhunaksha",
@@ -203,19 +228,6 @@
             "photoUrl": "https://images.unsplash.com/photo-1667849521212-e9843b89f322?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "btnText-en": "e-District - Delhi",
             "btnText-hi": "ई -डिस्ट्रिक्ट - दिल्ली",
-            "post-en": "",
-            "post-hi": "",
-            "aspectRatio": "3"
-        },
-        {
-            "title-en": "Goa",
-            "title-hi": "गोवा",
-            "subtitle-en": "Goa - e-District",
-            "subtitle-hi": "गोवा - ई -डिस्ट्रिक्ट ",
-            "btnUrl": "https://goaonline.gov.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1541738679621-172e4575a81d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "btnText-en": "e-District - Goa",
-            "btnText-hi": "ई-डिस्ट्रिक्ट - गोवा",
             "post-en": "",
             "post-hi": "",
             "aspectRatio": "3"
