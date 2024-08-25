@@ -23,19 +23,45 @@
         },
         {
             "title-en": "Uttarakhand",
-            "title-hi": "उत्तर प्रदेश",
+            "title-hi": "उत्तराखंड",
             "subtitle-en": "Devbhoomi Bhulekh",
             "subtitle-hi": "देवभूमि भूलेख",
             "btnUrl": "http://bhulekh.uk.gov.in/",
             "photoUrl": "https://images.unsplash.com/photo-1511754863001-18d44abd0a93?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
             "btnText-en": "Uttarakhand - Bhulekh",
-            "btnText-hi": "उत्तर प्रदेश - भूलेख",
+            "btnText-hi": "उत्तराखंड - भूलेख",
+            "post-en": "",
+            "post-hi": "",
+            "aspectRatio": "3"
+        },
+        {
+            "title-en": "Goa",
+            "title-hi": "गोवा ",
+            "subtitle-en": "Goa Bhulekh",
+            "subtitle-hi": "गोवा - भूलेख",
+            "btnUrl": "https://goaonline.gov.in/Appln/UIL/propertyregister?_Key=&_Mode=&_cscKey=&__cscKey=",
+            "photoUrl": "https://images.unsplash.com/photo-1541738679621-172e4575a81d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "btnText-en": "Goa - Bhulekh",
+            "btnText-hi": "गोवा  - भूलेख",
             "post-en": "",
             "post-hi": "",
             "aspectRatio": "3"
         }
     ],
     "bhunakshaList": [
+        {
+            "title-en": "Goa",
+            "title-hi": "गोवा",
+            "subtitle-en": "Goa - Bhunaksha",
+            "subtitle-hi": "गोवा - भू नक्शा ",
+            "btnUrl": "https://dslr.goa.gov.in/Bhunaksha.aspx",
+            "photoUrl": "https://images.unsplash.com/photo-1541738679621-172e4575a81d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "btnText-en": "Goa - Bhunaksha",
+            "btnText-hi": "गोवा  - भू नक्शा ",
+            "post-en": "",
+            "post-hi": "",
+            "aspectRatio": "3"
+        }
     ],
     "edistrictList": [
         {
@@ -47,6 +73,19 @@
             "photoUrl": "https://images.unsplash.com/photo-1667849521212-e9843b89f322?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "btnText-en": "e-District - Delhi",
             "btnText-hi": "ई -डिस्ट्रिक्ट - दिल्ली",
+            "post-en": "",
+            "post-hi": "",
+            "aspectRatio": "3"
+        },
+        {
+            "title-en": "Goa",
+            "title-hi": "गोवा",
+            "subtitle-en": "Goa - e-District",
+            "subtitle-hi": "गोवा - ई -डिस्ट्रिक्ट ",
+            "btnUrl": "https://goaonline.gov.in/",
+            "photoUrl": "https://images.unsplash.com/photo-1541738679621-172e4575a81d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "btnText-en": "Goa - e-District",
+            "btnText-hi": "गोवा  - ई-डिस्ट्रिक्ट ",
             "post-en": "",
             "post-hi": "",
             "aspectRatio": "3"
