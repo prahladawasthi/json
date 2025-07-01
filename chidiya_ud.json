@@ -1,7 +1,21 @@
 {
+	"supportedApps": [
+        {
+            "title": "e-Lekhpal",
+	    "subTitle": "Contains information about land records and more.",
+	    "icon": "https://lh3.googleusercontent.com/lN4F1o4o5Pb7SO5rVNXVWiqTXSY-OlpAe6sPAfS4emuHfLmikbP_GIKrowX-QsxINSo",		
+            "url": "https://play.google.com/store/apps/details?id=in.co.lekhpal.lekhpalsangh"
+        },
+         {
+            "title": "Busy Box",
+	    "subTitle": "A fun-packed collection of mini-games in one sleek app",
+	    "icon": "https://lh3.googleusercontent.com/YDXXT1I6tCKr45MV02rsRmq6XPyEPva7dzbACKBaKPn-q7issvbsHVJosA9tXwrBgQuq",		
+            "url": "https://play.google.com/store/apps/details?id=com.blogspot.busyboxapp.busybox"
+        },
+    ],
 	"isAdsEnabled" : true,
 	"words" : [
-   {"en_word": "Sparrow", "hi_word": "गौरैया", "icon": "🐦", "val": "1"},
+    {"en_word": "Sparrow", "hi_word": "गौरैया", "icon": "🐦", "val": "1"},
     {"en_word": "Crow", "hi_word": "कौआ", "icon": "🐦", "val": "1"},
     {"en_word": "Peacock", "hi_word": "मोर", "icon": "🦚", "val": "1"},
     {"en_word": "Fly", "hi_word": "मक्खी", "icon": "🪰", "val": "1"},
