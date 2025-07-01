@@ -1,5 +1,5 @@
 {
-	"supportedApps": [
+	"supportedApps" : [
         {
             "title": "e-Lekhpal",
 	    "subTitle": "Contains information about land records and more.",
@@ -11,7 +11,7 @@
 	    "subTitle": "A fun-packed collection of mini-games in one sleek app",
 	    "icon": "https://lh3.googleusercontent.com/YDXXT1I6tCKr45MV02rsRmq6XPyEPva7dzbACKBaKPn-q7issvbsHVJosA9tXwrBgQuq",		
             "url": "https://play.google.com/store/apps/details?id=com.blogspot.busyboxapp.busybox"
-        },
+        }
     ],
 	"isAdsEnabled" : true,
 	"words" : [
