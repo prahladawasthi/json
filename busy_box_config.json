@@ -1,18 +1,17 @@
 {
-    "homeTitle": "Busy Box",
-    "homeDesc": "Welcome to Busy Box",
-    "sliderImages": "https://images.unsplash.com/photo-1581287053822-fd7bf4f4bfec?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=901&q=80,https://images.unsplash.com/photo-1597276144232-6f56f1a7f2e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80,https://images.unsplash.com/photo-1512314889357-e157c22f938d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80,https://images.unsplash.com/photo-1618588590706-bac3c25b3d41?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-    "sliderTexts": "Updated Application, New Suggestion box, Help us with your Ideas,All Information at one place",
-    "sliderUrls": " , , , ",
-    "adminList": "",
-    "streamListsOld": [
+    "supportedApps" : [
         {
-            "name": "Free TV",
-            "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"
+            "title": "e-Lekhpal",
+	    "subTitle": "Contains information about land records and more.",
+	    "icon": "https://lh3.googleusercontent.com/lN4F1o4o5Pb7SO5rVNXVWiqTXSY-OlpAe6sPAfS4emuHfLmikbP_GIKrowX-QsxINSo",		
+            "url": "https://play.google.com/store/apps/details?id=in.co.lekhpal.lekhpalsangh"
         },
-        {
-            "name": "IPTV",
-            "url": "https://iptv-org.github.io/iptv/index.m3u"
+         {
+            "title": "Busy Box",
+	    "subTitle": "A fun-packed collection of mini-games in one sleek app",
+	    "icon": "https://lh3.googleusercontent.com/YDXXT1I6tCKr45MV02rsRmq6XPyEPva7dzbACKBaKPn-q7issvbsHVJosA9tXwrBgQuq",		
+            "url": "https://play.google.com/store/apps/details?id=com.blogspot.busyboxapp.busybox"
         }
-    ]
+    ],
+	"isAdsEnabled" : true
 }
