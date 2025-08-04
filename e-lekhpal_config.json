@@ -21,19 +21,7 @@
             "btnUrl": "https://upbhulekh.gov.in",
             "photoUrl": "https://plus.unsplash.com/premium_photo-1661885523029-fc960a2bb4f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
         },
-        {
-            "title-en": "Uttarakhand",
-            "title-hi": "उत्तराखंड",
-            "subtitle-en": "Uttarakhand - Bhulekh",
-            "subtitle-hi": "उत्तराखंड - भूलेख",
-            "aspectRatio": "3",
-            "btnText-en": "Uttarakhand - Bhulekh",
-            "btnText-hi": "उत्तराखंड - भूलेख",
-            "post-en": " Access to land records, property details, and other related information",
-            "post-hi": " भूमि रिकॉर्ड, संपत्ति विवरण और अन्य संबंधित जानकारी",
-            "btnUrl": "https://www.bhulekh.uk.gov.in",
-            "photoUrl": "https://images.unsplash.com/photo-1511754863001-18d44abd0a93?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
-        },
+        
         {
             "title-en": "Chhattisgarh",
             "title-hi": "छत्तीसगढ",
@@ -57,47 +45,8 @@
             "btnText-hi": "गोवा  - भूलेख",
             "post-en": " Access to land records, property details, and other related information",
             "post-hi": " भूमि रिकॉर्ड, संपत्ति विवरण और अन्य संबंधित जानकारी",
-            "btnUrl": "https://goaonline.gov.in/Appln/UIL/propertyregister?_Key=&_Mode=&_cscKey=&__cscKey=",
+            "btnUrl": "https://goaonline.gov.in/",
             "photoUrl": "https://images.unsplash.com/photo-1541738679621-172e4575a81d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-        },
-        {
-            "title-en": "Gujarat",
-            "title-hi": "गुजरात",
-            "subtitle-en": "Gujarat - Bhulekh",
-            "subtitle-hi": "गुजरात  - भूलेख",
-            "aspectRatio": "3",
-            "btnText-en": "Gujarat - Bhulekh",
-            "btnText-hi": "गुजरात  - भूलेख",
-            "post-en": " Access to land records, property details, and other related information",
-            "post-hi": " भूमि रिकॉर्ड, संपत्ति विवरण और अन्य संबंधित जानकारी",
-            "btnUrl": "https://anyror.gujarat.gov.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1581836850314-3b668c2aa540?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
-        },
-        {
-            "title-en": "Madhya Pradesh",
-            "title-hi": "मध्य प्रदेश",
-            "subtitle-en": "Madhya Pradesh - Bhulekh",
-            "subtitle-hi": "मध्य प्रदेश - भूलेख",
-            "aspectRatio": "3",
-            "btnText-en": "Madhya Pradesh - Bhulekh",
-            "btnText-hi": "मध्य प्रदेश - भूलेख",
-            "post-en": " Access to land records, property details, and other related information",
-            "post-hi": " भूमि रिकॉर्ड, संपत्ति विवरण और अन्य संबंधित जानकारी",
-            "btnUrl": "https://mpbhulekh.gov.in/mpbhulekh.do",
-            "photoUrl": "https://images.unsplash.com/photo-1598940124575-966b8261f114?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
-        },
-        {
-            "title-en": "Meghalaya",
-            "title-hi": "मेघालय",
-            "subtitle-en": "Meghalaya - Bhulekh",
-            "subtitle-hi": "मेघालय - भूलेख",
-            "aspectRatio": "3",
-            "btnText-en": "Meghalaya - Bhulekh",
-            "btnText-hi": "मेघालय - भूलेख",
-            "post-en": " Access to land records, property details, and other related information",
-            "post-hi": " भूमि रिकॉर्ड, संपत्ति विवरण और अन्य संबंधित जानकारी",
-            "btnUrl": "https://meghalaya.gov.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1593813738953-fb3c93e0769d?q=80&w=1854&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
             "title-en": "Mizoram",
@@ -135,7 +84,7 @@
             "btnText-hi": "ओडिशा - भूलेख",
             "post-en": " Access to land records, property details, and other related information",
             "post-hi": " भूमि रिकॉर्ड, संपत्ति विवरण और अन्य संबंधित जानकारी",
-            "btnUrl": "https://bhulekh.ori.nic.in/RoRView.aspx",
+            "btnUrl": "https://bhulekh.ori.nic.in/",
             "photoUrl": "https://images.unsplash.com/photo-1617217139357-b77ae58ad4b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80"
         },
         {
@@ -150,32 +99,6 @@
             "post-hi": " भूमि रिकॉर्ड, संपत्ति विवरण और अन्य संबंधित जानकारी",
             "btnUrl": "https://www.plrs.org.in/",
             "photoUrl": "https://images.unsplash.com/photo-1587899765642-3f8e3ea67852?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1031&q=80"
-        },
-        {
-            "title-en": "Telangana",
-            "title-hi": "तेलंगाना",
-            "subtitle-en": "Telangana - Bhulekh",
-            "subtitle-hi": "तेलंगाना - भूलेख",
-            "aspectRatio": "3",
-            "btnText-en": "Telangana - Bhulekh",
-            "btnText-hi": "तेलंगाना - भूलेख",
-            "post-en": " Access to land records, property details, and other related information",
-            "post-hi": " भूमि रिकॉर्ड, संपत्ति विवरण और अन्य संबंधित जानकारी",
-            "btnUrl": "https://dharani.telangana.gov.in/homePage?lang=en",
-            "photoUrl": "https://images.unsplash.com/photo-1470075446540-4391a96ec621?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
-        },
-        {
-            "title-en": "West Bengal",
-            "title-hi": "पश्चिम बंगाल",
-            "subtitle-en": "West Bengal - Bhulekh",
-            "subtitle-hi": "पश्चिम बंगाल - भूलेख",
-            "aspectRatio": "3",
-            "btnText-en": "West Bengal - Bhulekh",
-            "btnText-hi": "पश्चिम बंगाल - भूलेख",
-            "post-en": " Access to land records, property details, and other related information",
-            "post-hi": " भूमि रिकॉर्ड, संपत्ति विवरण और अन्य संबंधित जानकारी",
-            "btnUrl": "https://banglarbhumi.gov.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1589041127168-9b1915731dc3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
         }
     ],
     "bhunakshaList": [
@@ -192,19 +115,7 @@
             "btnUrl": "https://upbhunaksha.gov.in/",
             "photoUrl": "https://plus.unsplash.com/premium_photo-1661885523029-fc960a2bb4f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
         },
-        {
-            "title-en": "Uttarakhand",
-            "title-hi": "उत्तराखंड",
-            "subtitle-en": "Uttarakhand - Bhunaksha",
-            "subtitle-hi": "उत्तराखंड - भू नक्शा",
-            "aspectRatio": "3",
-            "btnText-en": "Uttarakhand - Bhunaksha",
-            "btnText-hi": "उत्तराखंड - भू नक्शा",
-            "post-en": " Access to land records, property details, and other related information",
-            "post-hi": " भूमि रिकॉर्ड, संपत्ति विवरण और अन्य संबंधित जानकारी",
-            "btnUrl": "https://bhunaksha.uk.gov.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1511754863001-18d44abd0a93?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
-        },{
+       {
             "title-en": "Goa",
             "title-hi": "गोवा",
             "subtitle-en": "Goa - Bhunaksha",
@@ -219,19 +130,7 @@
         }
     ],
     "edistrictList": [
-        {
-            "title-en": "e-District - Delhi",
-            "title-hi": "ई -डिस्ट्रिक्ट - दिल्ली",
-            "subtitle-en": " ",
-            "subtitle-hi": "",
-            "btnUrl": "https://edistrict.delhigovt.nic.in",
-            "photoUrl": "https://images.unsplash.com/photo-1667849521212-e9843b89f322?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "btnText-en": "e-District - Delhi",
-            "btnText-hi": "ई -डिस्ट्रिक्ट - दिल्ली",
-            "post-en": "",
-            "post-hi": "",
-            "aspectRatio": "3"
-        }
+       
     ],
     "homePageBtn": [
         {
@@ -247,14 +146,8 @@
             "post-hi": "पेट्रोलियम एवं प्राकृतिक गैस मंत्रालय (एमओपीएनजी) ने एक प्रमुख योजना के रूप में 'प्रधानमंत्री उज्ज्वला योजना' (पीएमयूवाई) की शुरुआत की है, जिसका उद्देश्य ग्रामीण एवं वंचित परिवारों को एलपीजी जैसे स्वच्छ खाना पकाने के ईंधन उपलब्ध कराना है, जो अन्यथा लकड़ी और कोयले जैसे पारंपरिक खाना पकाने के ईंधन का उपयोग कर रहे थे।",
             "title-en": "Ujjwala Yojana",
             "title-hi": "उज्ज्वला योजना"
-        },
-        {
-            "btnUrl": "https://pmfby.gov.in",
-            "post-en": "The Pradhan Mantri fasal bima yojana launched on 18 February 2016 by Prime Minister Narendra Modi is an insurance service for farmers for their yields.",
-            "post-hi": "प्रधानमंत्री नरेन्द्र मोदी द्वारा 18 फरवरी 2016 को शुरू की गई प्रधानमंत्री फसल बीमा योजना किसानों को उनकी उपज के लिए एक बीमा सेवा है।",
-            "title-en": "Fasal Bima",
-            "title-hi": "फसल बीमा"
         }
+        
     ],
     "homePageImgBtn": [
         {
