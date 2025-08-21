@@ -133,13 +133,7 @@
        
     ],
     "homePageBtn": [
-        {
-            "title-en": "Janaushadhi",
-            "title-hi": "जनऔषधि",
-            "btnUrl": "http://janaushadhi.gov.in/index.aspx",
-            "post-en": "The Jan Aushadhi initiative makes available quality drugs at affordable prices through dedicated stores selling generic medicines which are available at lesser prices but are equivalent in quality and efficacy as expensive branded drugs.",
-            "post-hi": "जन औषधि पहल, जेनेरिक दवाइयां बेचने वाले समर्पित स्टोरों के माध्यम से किफायती मूल्य पर गुणवत्तापूर्ण दवाइयां उपलब्ध कराती है। ये दवाएं कम कीमत पर उपलब्ध होती हैं, लेकिन गुणवत्ता और प्रभावकारिता में महंगी ब्रांडेड दवाओं के बराबर होती हैं।"
-        },
+       
         {
             "btnUrl": "https://www.pmuy.gov.in",
             "post-en": "The Ministry of Petroleum and Natural Gas (MOPNG), introduced the 'Pradhan Mantri Ujjwala Yojana' (PMUY) as a flagship scheme with an objective to make clean cooking fuel such as LPG available to the rural and deprived households which were otherwise using traditional cooking fuels such as firewood and coal.",
@@ -162,6 +156,20 @@
             "post-en": "",
             "post-hi": "",
             "aspectRatio": "2.6"
+        }
+    ],
+    "supportedApps" : [
+        {
+            "title": "Chidiya Ud",
+	    "subTitle": "The game is a childhood favorite and can be played with friends",
+	    "icon": "https://lh3.googleusercontent.com/jlv7VKAc9IxIrauc1tdSwyqNQTutHpvm_S_Ct7A_LicRxQAjurgrQTCLwm7Uwf-aXd_f",		
+            "url": "https://play.google.com/store/apps/details?id=com.blogspot.busyboxapp.busybox"
+        },
+         {
+            "title": "Busy Box",
+	    "subTitle": "A fun-packed collection of mini-games in one sleek app",
+	    "icon": "https://lh3.googleusercontent.com/YDXXT1I6tCKr45MV02rsRmq6XPyEPva7dzbACKBaKPn-q7issvbsHVJosA9tXwrBgQuq",		
+            "url": "https://play.google.com/store/apps/details?id=com.blogspot.busyboxapp.busybox"
         }
     ]
 }
