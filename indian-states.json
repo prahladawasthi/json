@@ -1,0 +1,659 @@
+{
+  "India_Admin_Divisions": {
+    "states": [
+      {
+        "name_en": "Andhra Pradesh",
+        "name_hi": "आंध्र प्रदेश",
+        "capital_en": "Amaravati",
+        "capital_hi": "अमरावती",
+        "website": "https://www.ap.gov.in/"
+      },
+      {
+        "name_en": "Arunachal Pradesh",
+        "name_hi": "अरुणाचल प्रदेश",
+        "capital_en": "Itanagar",
+        "capital_hi": "ईटानगर",
+        "website": "https://arunachalpradesh.gov.in/"
+      },
+      {
+        "name_en": "Assam",
+        "name_hi": "असम",
+        "capital_en": "Dispur",
+        "capital_hi": "दिसपुर",
+        "website": "https://assam.gov.in/"
+      },
+      {
+        "name_en": "Bihar",
+        "name_hi": "बिहार",
+        "capital_en": "Patna",
+        "capital_hi": "पटना",
+        "website": "https://state.bihar.gov.in/"
+      },
+      {
+        "name_en": "Chhattisgarh",
+        "name_hi": "छत्तीसगढ़",
+        "capital_en": "Raipur",
+        "capital_hi": "रायपुर",
+        "website": "https://cgstate.gov.in/"
+      },
+      {
+        "name_en": "Goa",
+        "name_hi": "गोवा",
+        "capital_en": "Panaji",
+        "capital_hi": "पणजी",
+        "website": "https://www.goa.gov.in/"
+      },
+      {
+        "name_en": "Gujarat",
+        "name_hi": "गुजरात",
+        "capital_en": "Gandhinagar",
+        "capital_hi": "गांधीनगर",
+        "website": "https://gujaratindia.gov.in/"
+      },
+      {
+        "name_en": "Haryana",
+        "name_hi": "हरियाणा",
+        "capital_en": "Chandigarh",
+        "capital_hi": "चंडीगढ़",
+        "website": "https://haryana.gov.in/"
+      },
+      {
+        "name_en": "Himachal Pradesh",
+        "name_hi": "हिमाचल प्रदेश",
+        "capital_en": "Shimla",
+        "capital_hi": "शिमला",
+        "website": "https://himachal.nic.in/"
+      },
+      {
+        "name_en": "Jharkhand",
+        "name_hi": "झारखंड",
+        "capital_en": "Ranchi",
+        "capital_hi": "रांची",
+        "website": "https://www.jharkhand.gov.in/"
+      },
+      {
+        "name_en": "Karnataka",
+        "name_hi": "कर्नाटक",
+        "capital_en": "Bengaluru",
+        "capital_hi": "बेंगलुरु",
+        "website": "https://karnataka.gov.in/"
+      },
+      {
+        "name_en": "Kerala",
+        "name_hi": "केरल",
+        "capital_en": "Thiruvananthapuram",
+        "capital_hi": "तिरुवनंतपुरम",
+        "website": "https://kerala.gov.in/"
+      },
+      {
+        "name_en": "Madhya Pradesh",
+        "name_hi": "मध्य प्रदेश",
+        "capital_en": "Bhopal",
+        "capital_hi": "भोपाल",
+        "website": "https://www.mp.gov.in/"
+      },
+      {
+        "name_en": "Maharashtra",
+        "name_hi": "महाराष्ट्र",
+        "capital_en": "Mumbai",
+        "capital_hi": "मुंबई",
+        "website": "https://maharashtra.gov.in/"
+      },
+      {
+        "name_en": "Manipur",
+        "name_hi": "मणिपुर",
+        "capital_en": "Imphal",
+        "capital_hi": "इंफाल",
+        "website": "https://manipur.gov.in/"
+      },
+      {
+        "name_en": "Meghalaya",
+        "name_hi": "मेघालय",
+        "capital_en": "Shillong",
+        "capital_hi": "शिलांग",
+        "website": "https://meghalaya.gov.in/"
+      },
+      {
+        "name_en": "Mizoram",
+        "name_hi": "मिज़ोरम",
+        "capital_en": "Aizawl",
+        "capital_hi": "आइज़ोल",
+        "website": "https://mizoram.gov.in/"
+      },
+      {
+        "name_en": "Nagaland",
+        "name_hi": "नगालैंड",
+        "capital_en": "Kohima",
+        "capital_hi": "कोहिमा",
+        "website": "https://nagaland.gov.in/"
+      },
+      {
+        "name_en": "Odisha",
+        "name_hi": "ओडिशा",
+        "capital_en": "Bhubaneswar",
+        "capital_hi": "भुवनेश्वर",
+        "website": "https://odisha.gov.in/"
+      },
+      {
+        "name_en": "Punjab",
+        "name_hi": "पंजाब",
+        "capital_en": "Chandigarh",
+        "capital_hi": "चंडीगढ़",
+        "website": "https://punjab.gov.in/"
+      },
+      {
+        "name_en": "Rajasthan",
+        "name_hi": "राजस्थान",
+        "capital_en": "Jaipur",
+        "capital_hi": "जयपुर",
+        "website": "https://rajasthan.gov.in/"
+      },
+      {
+        "name_en": "Sikkim",
+        "name_hi": "सिक्किम",
+        "capital_en": "Gangtok",
+        "capital_hi": "गंगटोक",
+        "website": "https://sikkim.gov.in/"
+      },
+      {
+        "name_en": "Tamil Nadu",
+        "name_hi": "तमिलनाडु",
+        "capital_en": "Chennai",
+        "capital_hi": "चेन्नई",
+        "website": "https://www.tn.gov.in/"
+      },
+      {
+        "name_en": "Telangana",
+        "name_hi": "तेलंगाना",
+        "capital_en": "Hyderabad",
+        "capital_hi": "हैदराबाद",
+        "website": "https://telangana.gov.in/"
+      },
+      {
+        "name_en": "Tripura",
+        "name_hi": "त्रिपुरा",
+        "capital_en": "Agartala",
+        "capital_hi": "अगरतला",
+        "website": "https://tripura.gov.in/"
+      },
+      {
+        "name_en": "Uttar Pradesh",
+        "name_hi": "उत्तर प्रदेश",
+        "capital_en": "Lucknow",
+        "capital_hi": "लखनऊ",
+        "website": "https://www.up.gov.in/",
+        "districts": [
+          {
+            "name_en": "Agra",
+            "name_hi": "आगरा",
+            "website": "https://agra.nic.in"
+          },
+          {
+            "name_en": "Aligarh",
+            "name_hi": "अलीगढ़",
+            "website": "https://aligarh.nic.in"
+          },
+          {
+            "name_en": "Ambedkar Nagar",
+            "name_hi": "अंबेडकर नगर",
+            "website": "https://ambedkarnagar.nic.in"
+          },
+          {
+            "name_en": "Amethi",
+            "name_hi": "अमेठी",
+            "website": "https://amethi.nic.in"
+          },
+          {
+            "name_en": "Amroha",
+            "name_hi": "अमरौहा",
+            "website": "https://amroha.nic.in"
+          },
+          {
+            "name_en": "Auraiya",
+            "name_hi": "औऱैया",
+            "website": "https://auraiya.nic.in"
+          },
+          {
+            "name_en": "Ayodhya",
+            "name_hi": "अयोध्या",
+            "website": null
+          },
+          {
+            "name_en": "Azamgarh",
+            "name_hi": "आजमगढ़",
+            "website": "https://azamgarh.nic.in"
+          },
+          {
+            "name_en": "Baghpat",
+            "name_hi": "बागपत",
+            "website": "https://bagpat.nic.in"
+          },
+          {
+            "name_en": "Bahraich",
+            "name_hi": "बहराइच",
+            "website": "https://bahraich.nic.in"
+          },
+          {
+            "name_en": "Ballia",
+            "name_hi": "बलिया",
+            "website": "https://ballia.nic.in"
+          },
+          {
+            "name_en": "Balrampur",
+            "name_hi": "बलरामपुर",
+            "website": null
+          },
+          {
+            "name_en": "Banda",
+            "name_hi": "बाँदा",
+            "website": null
+          },
+          {
+            "name_en": "Barabanki",
+            "name_hi": "बाराबंकी",
+            "website": null
+          },
+          {
+            "name_en": "Bareilly",
+            "name_hi": "बरेली",
+            "website": null
+          },
+          {
+            "name_en": "Basti",
+            "name_hi": "बस्ती",
+            "website": null
+          },
+          {
+            "name_en": "Bhadohi (Sant Ravidas Nagar)",
+            "name_hi": "भदोही (संत रविदास नगर)",
+            "website": null
+          },
+          {
+            "name_en": "Bijnor",
+            "name_hi": "बिजनौर",
+            "website": null
+          },
+          {
+            "name_en": "Budaun",
+            "name_hi": "बदायूँ",
+            "website": null
+          },
+          {
+            "name_en": "Bulandshahr",
+            "name_hi": "बुलंदशहर",
+            "website": null
+          },
+          {
+            "name_en": "Chandauli",
+            "name_hi": "चंदौली",
+            "website": null
+          },
+          {
+            "name_en": "Chitrakoot",
+            "name_hi": "चित्रकूट",
+            "website": null
+          },
+          {
+            "name_en": "Deoria",
+            "name_hi": "देवरिया",
+            "website": null
+          },
+          {
+            "name_en": "Etah",
+            "name_hi": "एटा",
+            "website": null
+          },
+          {
+            "name_en": "Etawah",
+            "name_hi": "इटावा",
+            "website": null
+          },
+          {
+            "name_en": "Farrukhabad",
+            "name_hi": "फ़र्रुख़ाबाद",
+            "website": null
+          },
+          {
+            "name_en": "Fatehpur",
+            "name_hi": "फ़तेहपुर",
+            "website": null
+          },
+          {
+            "name_en": "Firozabad",
+            "name_hi": "फिरोज़ाबाद",
+            "website": null
+          },
+          {
+            "name_en": "Gautam Buddh Nagar",
+            "name_hi": "गौतम बुद्ध नगर",
+            "website": null
+          },
+          {
+            "name_en": "Ghaziabad",
+            "name_hi": "गाज़ियाबाद",
+            "website": null
+          },
+          {
+            "name_en": "Ghazipur",
+            "name_hi": "गाजीपुर",
+            "website": null
+          },
+          {
+            "name_en": "Gonda",
+            "name_hi": "गोण्डा",
+            "website": null
+          },
+          {
+            "name_en": "Gorakhpur",
+            "name_hi": "गोरखपुर",
+            "website": null
+          },
+          {
+            "name_en": "Hamirpur",
+            "name_hi": "हमीरपुर",
+            "website": null
+          },
+          {
+            "name_en": "Hapur",
+            "name_hi": "हापुड़",
+            "website": null
+          },
+          {
+            "name_en": "Hardoi",
+            "name_hi": "हरदोई",
+            "website": null
+          },
+          {
+            "name_en": "Hathras",
+            "name_hi": "हाथरस",
+            "website": null
+          },
+          {
+            "name_en": "Jalaun",
+            "name_hi": "जालौन",
+            "website": null
+          },
+          {
+            "name_en": "Jaunpur",
+            "name_hi": "जौनपुर",
+            "website": null
+          },
+          {
+            "name_en": "Jhansi",
+            "name_hi": "झाँसी",
+            "website": null
+          },
+          {
+            "name_en": "Kannauj",
+            "name_hi": "कन्नौज",
+            "website": null
+          },
+          {
+            "name_en": "Kanpur Dehat",
+            "name_hi": "कानपुर देहात",
+            "website": null
+          },
+          {
+            "name_en": "Kanpur Nagar",
+            "name_hi": "कानपुर नगर",
+            "website": null
+          },
+          {
+            "name_en": "Kasganj",
+            "name_hi": "कासगंज",
+            "website": null
+          },
+          {
+            "name_en": "Kaushambi",
+            "name_hi": "कौशाम्बी",
+            "website": null
+          },
+          {
+            "name_en": "Kushinagar",
+            "name_hi": "कुशीनगर",
+            "website": null
+          },
+          {
+            "name_en": "Lakhimpur Kheri",
+            "name_hi": "लखीमपुर खीरी",
+            "website": null
+          },
+          {
+            "name_en": "Lalitpur",
+            "name_hi": "ललितपुर",
+            "website": null
+          },
+          {
+            "name_en": "Lucknow",
+            "name_hi": "लखनऊ",
+            "website": null
+          },
+          {
+            "name_en": "Maharajganj",
+            "name_hi": "महराजगंज",
+            "website": null
+          },
+          {
+            "name_en": "Mahoba",
+            "name_hi": "महोबा",
+            "website": null
+          },
+          {
+            "name_en": "Mainpuri",
+            "name_hi": "मैनपुरी",
+            "website": null
+          },
+          {
+            "name_en": "Mathura",
+            "name_hi": "मथुरा",
+            "website": null
+          },
+          {
+            "name_en": "Mau",
+            "name_hi": "मऊ",
+            "website": null
+          },
+          {
+            "name_en": "Meerut",
+            "name_hi": "मेरठ",
+            "website": null
+          },
+          {
+            "name_en": "Mirzapur",
+            "name_hi": "मिर्जापुर",
+            "website": null
+          },
+          {
+            "name_en": "Moradabad",
+            "name_hi": "मुरादाबाद",
+            "website": null
+          },
+          {
+            "name_en": "Muzaffarnagar",
+            "name_hi": "मुज़फ़्फ़रनगर",
+            "website": null
+          },
+          {
+            "name_en": "Pilibhit",
+            "name_hi": "पिलीभित",
+            "website": null
+          },
+          {
+            "name_en": "Pratapgarh",
+            "name_hi": "प्रतापगढ़",
+            "website": null
+          },
+          {
+            "name_en": "Prayagraj",
+            "name_hi": "प्रयागराज",
+            "website": null
+          },
+          {
+            "name_en": "Rae Bareli",
+            "name_hi": "रायबरेली",
+            "website": null
+          },
+          {
+            "name_en": "Rampur",
+            "name_hi": "रम्पुर",
+            "website": null
+          },
+          {
+            "name_en": "Saharanpur",
+            "name_hi": "सहारनपुर",
+            "website": null
+          },
+          {
+            "name_en": "Sambhal",
+            "name_hi": "संभल",
+            "website": null
+          },
+          {
+            "name_en": "Sant Kabir Nagar",
+            "name_hi": "संत कबीर नगर",
+            "website": null
+          },
+          {
+            "name_en": "Sant Ravidas Nagar (Bhadohi)",
+            "name_hi": "संत रविदास नगर (भदोही)",
+            "website": null
+          },
+          {
+            "name_en": "Shahjahanpur",
+            "name_hi": "शाहजहाँपुर",
+            "website": null
+          },
+          {
+            "name_en": "Shamli",
+            "name_hi": "शामली",
+            "website": null
+          },
+          {
+            "name_en": "Shravasti",
+            "name_hi": "श्रामती",
+            "website": null
+          },
+          {
+            "name_en": "Siddharthnagar",
+            "name_hi": "सिद्धार्थनगर",
+            "website": null
+          },
+          {
+            "name_en": "Sitapur",
+            "name_hi": "सीतापुर",
+            "website": null
+          },
+          {
+            "name_en": "Sonbhadra",
+            "name_hi": "सोनभद्र",
+            "website": null
+          },
+          {
+            "name_en": "Sultanpur",
+            "name_hi": "सुल्तानपुर",
+            "website": null
+          },
+          {
+            "name_en": "Unnao",
+            "name_hi": "उन्नाव",
+            "website": null
+          },
+          {
+            "name_en": "Varanasi",
+            "name_hi": "वाराणसी",
+            "website": null
+          },
+          {
+            "name_en": "Maha Kumbh Mela (Prayagraj area)",
+            "name_hi": "महाकुंभ मेला (प्रयागराज क्षेत्र)",
+            "website": null
+          }
+        ]
+      },
+      {
+        "name_en": "Uttarakhand",
+        "name_hi": "उत्तराखंड",
+        "capital_en": "Dehradun",
+        "capital_hi": "देहरादून",
+        "website": "https://uk.gov.in/"
+      },
+      {
+        "name_en": "West Bengal",
+        "name_hi": "पश्चिम बंगाल",
+        "capital_en": "Kolkata",
+        "capital_hi": "कोलकाता",
+        "website": "https://wb.gov.in/"
+      }
+    ],
+    "union_territories": [
+      {
+        "name_en": "Andaman and Nicobar Islands",
+        "name_hi": "अंडमान और निकोबार द्वीप समूह",
+        "capital_en": "Port Blair",
+        "capital_hi": "पोर्ट ब्लेयर",
+        "website": "https://ani.nic.in/"
+      },
+      {
+        "name_en": "Chandigarh",
+        "name_hi": "चंडीगढ़",
+        "capital_en": "Chandigarh",
+        "capital_hi": "चंडीगढ़",
+        "website": "https://chandigarh.gov.in/"
+      },
+      {
+        "name_en": "Dadra and Nagar Haveli and Daman and Diu",
+        "name_hi": "दादरा और नगर हवेली और दमन और दीव",
+        "capital_en": "Daman",
+        "capital_hi": "दमन",
+        "website": "https://dnhdd.guv.in/"
+      },
+      {
+        "name_en": "Delhi",
+        "name_hi": "दिल्ली",
+        "capital_en": "New Delhi",
+        "capital_hi": "नई दिल्ली",
+        "website": "https://delhi.gov.in/"
+      },
+      {
+        "name_en": "Jammu and Kashmir",
+        "name_hi": "जम्मू और कश्मीर",
+        "capital_en": {
+          "summer": "Srinagar",
+          "winter": "Jammu"
+        },
+        "capital_hi": {
+          "summer": "श्रीनगर",
+          "winter": "जम्मू"
+        },
+        "website": "https://jk.gov.in/"
+      },
+      {
+        "name_en": "Ladakh",
+        "name_hi": "लद्दाख",
+        "capital_en": {
+          "summer": "Leh",
+          "winter": "Kargil"
+        },
+        "capital_hi": {
+          "summer": "लेह",
+          "winter": "कारगिल"
+        },
+        "website": "https://ladakh.gov.in/"
+      },
+      {
+        "name_en": "Lakshadweep",
+        "name_hi": "लक्षद्वीप",
+        "capital_en": "Kavaratti",
+        "capital_hi": "कवरेत्ती",
+        "website": "https://lakshadweep.gov.in/"
+      },
+      {
+        "name_en": "Puducherry",
+        "name_hi": "पुडुचेरी",
+        "capital_en": "Puducherry",
+        "capital_hi": "पुडुचेरी",
+        "website": "https://puducherry.gov.in/"
+      }
+    ]
+  }
+}
