@@ -2,12 +2,48 @@
     "IndianStates": {
         "states": [
             {
+                "name_en": "Andhra Pradesh",
+                "name_hi": "आंध्र प्रदेश",
+                "capital_en": "Amaravati",
+                "capital_hi": "अमरावती",
+                "links": {
+                    "website": "https://ap.gov.in/"
+                }
+            },
+            {
                 "name_en": "Arunachal Pradesh",
                 "name_hi": "अरुणाचल प्रदेश",
                 "capital_en": "Itanagar",
                 "capital_hi": "ईटानगर",
                 "links": {
                     "website": "https://arunachalpradesh.gov.in/"
+                }
+            },
+            {
+                "name_en": "Assam",
+                "name_hi": "असम",
+                "capital_en": "Dispur",
+                "capital_hi": "दिसपुर",
+                "links": {
+                    "website": "https://assam.gov.in/"
+                }
+            },
+            {
+                "name_en": "Bihar",
+                "name_hi": "बिहार",
+                "capital_en": "Patna",
+                "capital_hi": "पटना",
+                "links": {
+                    "website": "https://state.bihar.gov.in/"
+                }
+            },
+            {
+                "name_en": "Chhattisgarh",
+                "name_hi": "छत्तीसगढ़",
+                "capital_en": "Raipur",
+                "capital_hi": "रायपुर",
+                "links": {
+                    "website": "https://cgstate.gov.in/"
                 }
             },
             {
@@ -20,11 +56,183 @@
                 }
             },
             {
+                "name_en": "Gujarat",
+                "name_hi": "गुजरात",
+                "capital_en": "Gandhinagar",
+                "capital_hi": "गांधीनगर",
+                "links": {
+                    "website": "https://gujaratindia.gov.in/"
+                }
+            },
+            {
+                "name_en": "Haryana",
+                "name_hi": "हरियाणा",
+                "capital_en": "Chandigarh",
+                "capital_hi": "चंडीगढ़",
+                "links": {
+                    "website": "https://haryana.gov.in/"
+                }
+            },
+            {
+                "name_en": "Himachal Pradesh",
+                "name_hi": "हिमाचल प्रदेश",
+                "capital_en": "Shimla",
+                "capital_hi": "शिमला",
+                "links": {
+                    "website": "https://himachal.nic.in/"
+                }
+            },
+            {
+                "name_en": "Jharkhand",
+                "name_hi": "झारखंड",
+                "capital_en": "Ranchi",
+                "capital_hi": "रांची",
+                "links": {
+                    "website": "https://jharkhand.gov.in/"
+                }
+            },
+            {
+                "name_en": "Karnataka",
+                "name_hi": "कर्नाटक",
+                "capital_en": "Bengaluru",
+                "capital_hi": "बेंगलुरु",
+                "links": {
+                    "website": "https://karnataka.gov.in/"
+                }
+            },
+            {
+                "name_en": "Kerala",
+                "name_hi": "केरल",
+                "capital_en": "Thiruvananthapuram",
+                "capital_hi": "तिरुवनंतपुरम",
+                "links": {
+                    "website": "https://kerala.gov.in/"
+                }
+            },
+            {
+                "name_en": "Madhya Pradesh",
+                "name_hi": "मध्य प्रदेश",
+                "capital_en": "Bhopal",
+                "capital_hi": "भोपाल",
+                "links": {
+                    "website": "https://mp.gov.in/"
+                }
+            },
+            {
+                "name_en": "Maharashtra",
+                "name_hi": "महाराष्ट्र",
+                "capital_en": "Mumbai",
+                "capital_hi": "मुंबई",
+                "links": {
+                    "website": "https://maharashtra.gov.in/"
+                }
+            },
+            {
+                "name_en": "Manipur",
+                "name_hi": "मणिपुर",
+                "capital_en": "Imphal",
+                "capital_hi": "इंफाल",
+                "links": {
+                    "website": "https://manipur.gov.in/"
+                }
+            },
+            {
+                "name_en": "Meghalaya",
+                "name_hi": "मेघालय",
+                "capital_en": "Shillong",
+                "capital_hi": "शिलांग",
+                "links": {
+                    "website": "https://meghalaya.gov.in/"
+                }
+            },
+            {
+                "name_en": "Mizoram",
+                "name_hi": "मिज़ोरम",
+                "capital_en": "Aizawl",
+                "capital_hi": "आइजोल",
+                "links": {
+                    "website": "https://mizoram.gov.in/"
+                }
+            },
+            {
+                "name_en": "Nagaland",
+                "name_hi": "नगालैंड",
+                "capital_en": "Kohima",
+                "capital_hi": "कोहिमा",
+                "links": {
+                    "website": "https://nagaland.gov.in/"
+                }
+            },
+            {
+                "name_en": "Odisha",
+                "name_hi": "ओडिशा",
+                "capital_en": "Bhubaneswar",
+                "capital_hi": "भुवनेश्वर",
+                "links": {
+                    "website": "https://odisha.gov.in/"
+                }
+            },
+            {
+                "name_en": "Punjab",
+                "name_hi": "पंजाब",
+                "capital_en": "Chandigarh",
+                "capital_hi": "चंडीगढ़",
+                "links": {
+                    "website": "https://punjab.gov.in/"
+                }
+            },
+            {
+                "name_en": "Rajasthan",
+                "name_hi": "राजस्थान",
+                "capital_en": "Jaipur",
+                "capital_hi": "जयपुर",
+                "links": {
+                    "website": "https://rajasthan.gov.in/"
+                }
+            },
+            {
+                "name_en": "Sikkim",
+                "name_hi": "सिक्किम",
+                "capital_en": "Gangtok",
+                "capital_hi": "गंगटोक",
+                "links": {
+                    "website": "https://sikkim.gov.in/"
+                }
+            },
+            {
+                "name_en": "Tamil Nadu",
+                "name_hi": "तमिलनाडु",
+                "capital_en": "Chennai",
+                "capital_hi": "चेन्नई",
+                "links": {
+                    "website": "https://tn.gov.in/"
+                }
+            },
+            {
+                "name_en": "Telangana",
+                "name_hi": "तेलंगाना",
+                "capital_en": "Hyderabad",
+                "capital_hi": "हैदराबाद",
+                "links": {
+                    "website": "https://telangana.gov.in/"
+                }
+            },
+            {
+                "name_en": "Tripura",
+                "name_hi": "त्रिपुरा",
+                "capital_en": "Agartala",
+                "capital_hi": "अगरतला",
+                "links": {
+                    "website": "https://tripura.gov.in/"
+                }
+            },
+            {
                 "name_en": "Uttar Pradesh",
                 "name_hi": "उत्तर प्रदेश",
                 "capital_en": "Lucknow",
                 "capital_hi": "लखनऊ",
                 "links": {
+                    "website": "https://up.gov.in/"
                 },
                 "districts": [
                     {
@@ -553,6 +761,15 @@
                         }
                     }
                 ]
+            },
+            {
+                "name_en": "Uttarakhand",
+                "name_hi": "उत्तराखंड",
+                "capital_en": "Dehradun",
+                "capital_hi": "देहरादून",
+                "links": {
+                    "website": "https://uk.gov.in/"
+                }
             },
             {
                 "name_en": "West Bengal",
