@@ -22,6 +22,19 @@
             "photoUrl": "https://plus.unsplash.com/premium_photo-1661885523029-fc960a2bb4f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
         },
         {
+            "title-en": "Gujarat",
+            "title-hi": "गुजरात",
+            "subtitle-en": "Gujarat - Bhulekh",
+            "subtitle-hi": "गुजरात - भूलेख",
+            "aspectRatio": "3",
+            "btnText-en": "Gujarat - Bhulekh",
+            "btnText-hi": "गुजरात - भूलेख",
+            "post-en": " Access to land records, property details, and other related information",
+            "post-hi": " भूमि रिकॉर्ड, संपत्ति विवरण और अन्य संबंधित जानकारी",
+            "btnUrl": "https://anyror.gujarat.gov.in/",
+            "photoUrl": "https://images.unsplash.com/photo-1734120113512-799d0b21525a?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+		{
             "title-en": "Rajasthan",
             "title-hi": "राजस्थान",
             "subtitle-en": "Rajasthan - Bhulekh",
@@ -32,7 +45,7 @@
             "post-en": " Access to land records, property details, and other related information",
             "post-hi": " भूमि रिकॉर्ड, संपत्ति विवरण और अन्य संबंधित जानकारी",
             "btnUrl": "https://apnakhata.rajasthan.gov.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1695395550316-8995ae9d35ff?q=80&w=1156&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            "photoUrl": "https://images.unsplash.com/photo-1616693139578-f1c17deb0d4f?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
             "title-en": "Chhattisgarh",
@@ -138,8 +151,9 @@
             "post-en": " Access to land records, property details, and other related information",
             "post-hi": " भूमि रिकॉर्ड, संपत्ति विवरण और अन्य संबंधित जानकारी",
             "btnUrl": "https://bhunaksha.rajasthan.gov.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1695395550316-8995ae9d35ff?q=80&w=1156&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            "photoUrl": "https://images.unsplash.com/photo-1616693139578-f1c17deb0d4f?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
+		
        {
             "title-en": "Goa",
             "title-hi": "गोवा",
