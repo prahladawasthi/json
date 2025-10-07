@@ -195,6 +195,19 @@
             "post-en": "",
             "post-hi": "",
             "aspectRatio": "2.6"
+        },
+		{
+            "title-en": "State / UT Government",
+            "title-hi": "राज्य / केंद्र शासित प्रदेश सरकार",
+            "subtitle-en": "",
+            "subtitle-hi": "",
+            "btnUrl": "https://igod.gov.in/sg/states",
+            "photoUrl": "https://igod.gov.in/assets/images/state-uts.png",
+            "btnText-en": "State / UT",
+            "btnText-hi": "राज्य / केंद्र शासित प्रदेश ",
+            "post-en": "",
+            "post-hi": "",
+            "aspectRatio": "2.6"
         }
     ],
     "supportedApps" : [
