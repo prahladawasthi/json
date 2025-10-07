@@ -184,6 +184,18 @@
     ],
     "homePageImgBtn": [
         {
+            "title-en": "Indian Government Websites",
+            "title-hi": "भारत सरकार की वेबसाइटें",
+            "subtitle-en": "",
+            "subtitle-hi": "",
+            "btnUrl": "https://igod.gov.in",
+            "photoUrl": "https://igod.gov.in/assets/images/goi-banner1.jpg",
+            "btnText-en": "Indian Government Websites",
+            "btnText-hi": "भारत सरकार की वेबसाइटें",
+            "post-en": "A one-point source to access Indian Government Websites at all levels and from all sectors",
+            "post-hi": "सभी स्तरों और सभी क्षेत्रों से भारत सरकार की वेबसाइटों तक पहुँचने के लिए एक-बिंदु स्रोत",
+            "aspectRatio": "2.6"
+        },{
             "title-en": "Board Of Revenue, U.P",
             "title-hi": "राजस्व परिषद , उत्तर प्रदेश",
             "subtitle-en": "",
