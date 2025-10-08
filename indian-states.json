@@ -16,7 +16,7 @@
                 "capital_en": "Itanagar",
                 "capital_hi": "ईटानगर",
                 "links": {
-                    "website": "https://arunachalpradesh.gov.in/"
+                    //"website": "https://arunachalpradesh.gov.in/"
                 }
             },
             {
@@ -52,7 +52,7 @@
                 "capital_en": "Panaji",
                 "capital_hi": "पणजी",
                 "links": {
-                    "website": "https://www.goa.gov.in/"
+                    //"website": "https://www.goa.gov.in/"
                 }
             },
             {
@@ -106,7 +106,7 @@
                 "capital_en": "Thiruvananthapuram",
                 "capital_hi": "तिरुवनंतपुरम",
                 "links": {
-                    "website": "https://kerala.gov.in/"
+                    //"website": "https://kerala.gov.in/"
                 }
             },
             {
@@ -124,7 +124,7 @@
                 "capital_en": "Mumbai",
                 "capital_hi": "मुंबई",
                 "links": {
-                    "website": "https://maharashtra.gov.in/"
+                    //"website": "https://maharashtra.gov.in/"
                 }
             },
             {
@@ -133,7 +133,7 @@
                 "capital_en": "Imphal",
                 "capital_hi": "इंफाल",
                 "links": {
-                    "website": "https://manipur.gov.in/"
+                    //"website": "https://manipur.gov.in/"
                 }
             },
             {
@@ -160,7 +160,7 @@
                 "capital_en": "Kohima",
                 "capital_hi": "कोहिमा",
                 "links": {
-                    "website": "https://nagaland.gov.in/"
+                    //"website": "https://nagaland.gov.in/"
                 }
             },
             {
@@ -187,7 +187,7 @@
                 "capital_en": "Jaipur",
                 "capital_hi": "जयपुर",
                 "links": {
-                    "website": "https://rajasthan.gov.in/"
+                    //"website": "https://rajasthan.gov.in/"
                 }
             },
             {
@@ -196,7 +196,7 @@
                 "capital_en": "Gangtok",
                 "capital_hi": "गंगटोक",
                 "links": {
-                    "website": "https://sikkim.gov.in/"
+                    //"website": "https://sikkim.gov.in/"
                 }
             },
             {
@@ -223,7 +223,7 @@
                 "capital_en": "Agartala",
                 "capital_hi": "अगरतला",
                 "links": {
-                    "website": "https://tripura.gov.in/"
+                    //"website": "https://tripura.gov.in/"
                 }
             },
             {
@@ -239,56 +239,56 @@
                         "name_en": "Agra",
                         "name_hi": "आगरा",
                         "links": {
-                            "website": "https://agra.nic.in"
+                            //"website": "https://agra.nic.in"
                         }
                     },
                     {
                         "name_en": "Aligarh",
                         "name_hi": "अलीगढ़",
                         "links": {
-                            "website": "https://aligarh.nic.in"
+                            //"website": "https://aligarh.nic.in"
                         }
                     },
                     {
                         "name_en": "Ambedkar Nagar",
                         "name_hi": "अम्बेडकर नगर",
                         "links": {
-                            "website": "https://ambedkarnagar.nic.in"
+                            //"website": "https://ambedkarnagar.nic.in"
                         }
                     },
                     {
                         "name_en": "Amethi",
                         "name_hi": "अमेठी",
                         "links": {
-                            "website": "https://amethi.nic.in"
+                            //"website": "https://amethi.nic.in"
                         }
                     },
                     {
                         "name_en": "Amroha",
                         "name_hi": "अमरोहा",
                         "links": {
-                            "website": "https://amroha.nic.in"
+                            //"website": "https://amroha.nic.in"
                         }
                     },
                     {
                         "name_en": "Auraiya",
                         "name_hi": "औरैया",
                         "links": {
-                            "website": "https://auraiya.nic.in"
+                            //"website": "https://auraiya.nic.in"
                         }
                     },
                     {
                         "name_en": "Ayodhya",
                         "name_hi": "अयोध्या",
                         "links": {
-                            "website": "https://ayodhya.nic.in"
+                            //"website": "https://ayodhya.nic.in"
                         }
                     },
                     {
                         "name_en": "Azamgarh",
                         "name_hi": "आज़मगढ़",
                         "links": {
-                            "website": "https://azamgarh.nic.in"
+                            //"website": "https://azamgarh.nic.in"
                         }
                     },
                     {
@@ -302,70 +302,70 @@
                         "name_en": "Bahraich",
                         "name_hi": "बहराइच",
                         "links": {
-                            "website": "https://bahraich.nic.in"
+                            //"website": "https://bahraich.nic.in"
                         }
                     },
                     {
                         "name_en": "Ballia",
                         "name_hi": "बलिया",
                         "links": {
-                            "website": "https://ballia.nic.in"
+                            //"website": "https://ballia.nic.in"
                         }
                     },
                     {
                         "name_en": "Balrampur",
                         "name_hi": "बलरामपुर",
                         "links": {
-                            "website": "https://balrampur.nic.in"
+                            //"website": "https://balrampur.nic.in"
                         }
                     },
                     {
                         "name_en": "Banda",
                         "name_hi": "बाँदा",
                         "links": {
-                            "website": "https://banda.nic.in"
+                            //"website": "https://banda.nic.in"
                         }
                     },
                     {
                         "name_en": "Barabanki",
                         "name_hi": "बाराबंकी",
                         "links": {
-                            "website": "https://barabanki.nic.in"
+                            //"website": "https://barabanki.nic.in"
                         }
                     },
                     {
                         "name_en": "Bareilly",
                         "name_hi": "बरेली",
                         "links": {
-                            "website": "https://bareilly.nic.in"
+                            //"website": "https://bareilly.nic.in"
                         }
                     },
                     {
                         "name_en": "Basti",
                         "name_hi": "बस्ती",
                         "links": {
-                            "website": "https://basti.nic.in"
+                            //"website": "https://basti.nic.in"
                         }
                     },
                     {
                         "name_en": "Bhadohi",
                         "name_hi": "भदोही",
                         "links": {
-                            "website": "https://bhadohi.nic.in"
+                            //"website": "https://bhadohi.nic.in"
                         }
                     },
                     {
                         "name_en": "Bijnor",
                         "name_hi": "बिजनौर",
                         "links": {
-                            "website": "https://bijnor.nic.in"
+                            //"website": "https://bijnor.nic.in"
                         }
                     },
                     {
                         "name_en": "Budaun",
                         "name_hi": "बदायूं",
                         "links": {
-                            "website": "https://budaun.nic.in"
+                            //"website": "https://budaun.nic.in"
                         }
                     },
                     {
@@ -379,315 +379,315 @@
                         "name_en": "Chandauli",
                         "name_hi": "चन्दौली",
                         "links": {
-                            "website": "https://chandauli.nic.in"
+                            //"website": "https://chandauli.nic.in"
                         }
                     },
                     {
                         "name_en": "Chitrakoot",
                         "name_hi": "चित्रकूट",
                         "links": {
-                            "website": "https://chitrakoot.nic.in"
+                            //"website": "https://chitrakoot.nic.in"
                         }
                     },
                     {
                         "name_en": "Deoria",
                         "name_hi": "देवरिया",
                         "links": {
-                            "website": "https://deoria.nic.in"
+                            //"website": "https://deoria.nic.in"
                         }
                     },
                     {
                         "name_en": "Etah",
                         "name_hi": "एटा",
                         "links": {
-                            "website": "https://etah.nic.in"
+                            //"website": "https://etah.nic.in"
                         }
                     },
                     {
                         "name_en": "Etawah",
                         "name_hi": "इटावा",
                         "links": {
-                            "website": "https://etawah.nic.in"
+                            //"website": "https://etawah.nic.in"
                         }
                     },
                     {
                         "name_en": "Farrukhabad",
                         "name_hi": "फ़र्रुख़ाबाद",
                         "links": {
-                            "website": "https://farrukhabad.nic.in"
+                            //"website": "https://farrukhabad.nic.in"
                         }
                     },
                     {
                         "name_en": "Fatehpur",
                         "name_hi": "फ़तेहपुर",
                         "links": {
-                            "website": "https://fatehpur.nic.in"
+                            //"website": "https://fatehpur.nic.in"
                         }
                     },
                     {
                         "name_en": "Firozabad",
                         "name_hi": "फ़िरोज़ाबाद",
                         "links": {
-                            "website": "https://firozabad.nic.in"
+                            //"website": "https://firozabad.nic.in"
                         }
                     },
                     {
                         "name_en": "Gautam Buddha Nagar",
                         "name_hi": "गौतम बुद्ध नगर",
                         "links": {
-                            "website": "https://gbnagar.nic.in/"
+                            //"website": "https://gautambuddhanagar.nic.in"
                         }
                     },
                     {
                         "name_en": "Ghaziabad",
                         "name_hi": "गाज़ियाबाद",
                         "links": {
-                            "website": "https://ghaziabad.nic.in"
+                            //"website": "https://ghaziabad.nic.in"
                         }
                     },
                     {
                         "name_en": "Ghazipur",
                         "name_hi": "गाज़ीपुर",
                         "links": {
-                            "website": "https://ghazipur.nic.in"
+                            //"website": "https://ghazipur.nic.in"
                         }
                     },
                     {
                         "name_en": "Gonda",
                         "name_hi": "गोण्डा",
                         "links": {
-                            "website": "https://gonda.nic.in"
+                            //"website": "https://gonda.nic.in"
                         }
                     },
                     {
                         "name_en": "Gorakhpur",
                         "name_hi": "गोरखपुर",
                         "links": {
-                            "website": "https://gorakhpur.nic.in"
+                            //"website": "https://gorakhpur.nic.in"
                         }
                     },
                     {
                         "name_en": "Hamirpur",
                         "name_hi": "हमीरपुर",
                         "links": {
-                            "website": "https://hamirpur.nic.in"
+                            //"website": "https://hamirpur.nic.in"
                         }
                     },
                     {
                         "name_en": "Hapur",
                         "name_hi": "हापुड़",
                         "links": {
-                            "website": "https://hapur.nic.in"
+                            //"website": "https://hapur.nic.in"
                         }
                     },
                     {
                         "name_en": "Hardoi",
                         "name_hi": "हरदोई",
                         "links": {
-                            "website": "https://hardoi.nic.in"
+                            //"website": "https://hardoi.nic.in"
                         }
                     },
                     {
                         "name_en": "Hathras",
                         "name_hi": "हाथरस",
                         "links": {
-                            "website": "https://hathras.nic.in"
+                            //"website": "https://hathras.nic.in"
                         }
                     },
                     {
                         "name_en": "Jalaun",
                         "name_hi": "जालौन",
                         "links": {
-                            "website": "https://jalaun.nic.in"
+                            //"website": "https://jalaun.nic.in"
                         }
                     },
                     {
                         "name_en": "Jaunpur",
                         "name_hi": "जौनपुर",
                         "links": {
-                            "website": "https://jaunpur.nic.in"
+                            //"website": "https://jaunpur.nic.in"
                         }
                     },
                     {
                         "name_en": "Jhansi",
                         "name_hi": "झाँसी",
                         "links": {
-                            "website": "https://jhansi.nic.in"
+                            //"website": "https://jhansi.nic.in"
                         }
                     },
                     {
                         "name_en": "Kannauj",
                         "name_hi": "कन्नौज",
                         "links": {
-                            "website": "https://kannauj.nic.in"
+                            //"website": "https://kannauj.nic.in"
                         }
                     },
                     {
                         "name_en": "Kanpur Dehat",
                         "name_hi": "कानपुर देहात",
                         "links": {
-                            "website": "https://kanpurdehat.nic.in"
+                            //"website": "https://kanpurdehat.nic.in"
                         }
                     },
                     {
                         "name_en": "Kanpur Nagar",
                         "name_hi": "कानपुर नगर",
                         "links": {
-                            "website": "https://kanpurnagar.nic.in"
+                            //"website": "https://kanpurnagar.nic.in"
                         }
                     },
                     {
                         "name_en": "Kasganj",
                         "name_hi": "कासगंज",
                         "links": {
-                            "website": "https://kasganj.nic.in"
+                            //"website": "https://kasganj.nic.in"
                         }
                     },
                     {
                         "name_en": "Kaushambi",
                         "name_hi": "कौशाम्बी",
                         "links": {
-                            "website": "https://kaushambi.nic.in"
+                            //"website": "https://kaushambi.nic.in"
                         }
                     },
                     {
                         "name_en": "Kheri",
                         "name_hi": "खीरी",
                         "links": {
-                            "website": "https://kheri.nic.in"
+                            //"website": "https://kheri.nic.in"
                         }
                     },
                     {
                         "name_en": "Kushinagar",
                         "name_hi": "कुशीनगर",
                         "links": {
-                            "website": "https://kushinagar.nic.in"
+                            //"website": "https://kushinagar.nic.in"
                         }
                     },
                     {
                         "name_en": "Lalitpur",
                         "name_hi": "ललितपुर",
                         "links": {
-                            "website": "https://lalitpur.nic.in"
+                            //"website": "https://lalitpur.nic.in"
                         }
                     },
                     {
                         "name_en": "Lucknow",
                         "name_hi": "लखनऊ",
                         "links": {
-                            "website": "https://lucknow.nic.in"
+                            //"website": "https://lucknow.nic.in"
                         }
                     },
                     {
                         "name_en": "Maharajganj",
                         "name_hi": "महराजगंज",
                         "links": {
-                            "website": "https://maharajganj.nic.in"
+                            //"website": "https://maharajganj.nic.in"
                         }
                     },
                     {
                         "name_en": "Mahoba",
                         "name_hi": "महोबा",
                         "links": {
-                            "website": "https://mahoba.nic.in"
+                            //"website": "https://mahoba.nic.in"
                         }
                     },
                     {
                         "name_en": "Mainpuri",
                         "name_hi": "मैनपुरी",
                         "links": {
-                            "website": "https://mainpuri.nic.in"
+                            //"website": "https://mainpuri.nic.in"
                         }
                     },
                     {
                         "name_en": "Mathura",
                         "name_hi": "मथुरा",
                         "links": {
-                            "website": "https://mathura.nic.in"
+                            //"website": "https://mathura.nic.in"
                         }
                     },
                     {
                         "name_en": "Mau",
                         "name_hi": "मऊ",
                         "links": {
-                            "website": "https://mau.nic.in"
+                            //"website": "https://mau.nic.in"
                         }
                     },
                     {
                         "name_en": "Meerut",
                         "name_hi": "मेरठ",
                         "links": {
-                            "website": "https://meerut.nic.in"
+                            //"website": "https://meerut.nic.in"
                         }
                     },
                     {
                         "name_en": "Mirzapur",
                         "name_hi": "मिर्ज़ापुर",
                         "links": {
-                            "website": "https://mirzapur.nic.in"
+                            //"website": "https://mirzapur.nic.in"
                         }
                     },
                     {
                         "name_en": "Moradabad",
                         "name_hi": "मुरादाबाद",
                         "links": {
-                            "website": "https://moradabad.nic.in"
+                            //"website": "https://moradabad.nic.in"
                         }
                     },
                     {
                         "name_en": "Muzaffarnagar",
                         "name_hi": "मुज़फ़्फ़रनगर",
                         "links": {
-                            "website": "https://muzaffarnagar.nic.in"
+                            //"website": "https://muzaffarnagar.nic.in"
                         }
                     },
                     {
                         "name_en": "Pilibhit",
                         "name_hi": "पीलीभीत",
                         "links": {
-                            "website": "https://pilibhit.nic.in"
+                            //"website": "https://pilibhit.nic.in"
                         }
                     },
                     {
                         "name_en": "Pratapgarh",
                         "name_hi": "प्रतापगढ़",
                         "links": {
-                            "website": "https://pratapgarh.nic.in"
+                            //"website": "https://pratapgarh.nic.in"
                         }
                     },
                     {
                         "name_en": "Prayagraj",
                         "name_hi": "प्रयागराज",
                         "links": {
-                            "website": "https://prayagraj.nic.in"
+                            //"website": "https://prayagraj.nic.in"
                         }
                     },
                     {
                         "name_en": "Raebareli",
                         "name_hi": "रायबरेली",
                         "links": {
-                            "website": "https://raebareli.nic.in"
+                            //"website": "https://raebareli.nic.in"
                         }
                     },
                     {
                         "name_en": "Rampur",
                         "name_hi": "रामपुर",
                         "links": {
-                            "website": "https://rampur.nic.in"
+                            //"website": "https://rampur.nic.in"
                         }
                     },
                     {
                         "name_en": "Saharanpur",
                         "name_hi": "सहारनपुर",
                         "links": {
-                            "website": "https://saharanpur.nic.in"
+                            //"website": "https://saharanpur.nic.in"
                         }
                     },
                     {
                         "name_en": "Sambhal",
                         "name_hi": "संभल",
                         "links": {
-                            "website": "https://sambhal.nic.in"
+                            //"website": "https://sambhal.nic.in"
                         }
                     },
                     {
@@ -701,63 +701,63 @@
                         "name_en": "Shahjahanpur",
                         "name_hi": "शाहजहाँपुर",
                         "links": {
-                            "website": "https://shahjahanpur.nic.in"
+                            //"website": "https://shahjahanpur.nic.in"
                         }
                     },
                     {
                         "name_en": "Shamli",
                         "name_hi": "शामली",
                         "links": {
-                            "website": "https://shamli.nic.in"
+                            //"website": "https://shamli.nic.in"
                         }
                     },
                     {
                         "name_en": "Shravasti",
                         "name_hi": "श्रावस्ती",
                         "links": {
-                            "website": "https://shravasti.nic.in"
+                            //"website": "https://shravasti.nic.in"
                         }
                     },
                     {
                         "name_en": "Siddharthnagar",
                         "name_hi": "सिद्धार्थनगर",
                         "links": {
-                            "website": "https://siddharthnagar.nic.in"
+                            //"website": "https://siddharthnagar.nic.in"
                         }
                     },
                     {
                         "name_en": "Sitapur",
                         "name_hi": "सीतापुर",
                         "links": {
-                            "website": "https://sitapur.nic.in"
+                            //"website": "https://sitapur.nic.in"
                         }
                     },
                     {
                         "name_en": "Sonbhadra",
                         "name_hi": "सोनभद्र",
                         "links": {
-                            "website": "https://sonbhadra.nic.in"
+                            //"website": "https://sonbhadra.nic.in"
                         }
                     },
                     {
                         "name_en": "Sultanpur",
                         "name_hi": "सुल्तानपुर",
                         "links": {
-                            "website": "https://sultanpur.nic.in"
+                            //"website": "https://sultanpur.nic.in"
                         }
                     },
                     {
                         "name_en": "Unnao",
                         "name_hi": "उन्नाव",
                         "links": {
-                            "website": "https://unnao.nic.in"
+                            //"website": "https://unnao.nic.in"
                         }
                     },
                     {
                         "name_en": "Varanasi",
                         "name_hi": "वाराणसी",
                         "links": {
-                            "website": "https://varanasi.nic.in"
+                            //"website": "https://varanasi.nic.in"
                         }
                     }
                 ]
