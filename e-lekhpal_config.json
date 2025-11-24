@@ -21,19 +21,6 @@
             "btnUrl": "https://upbhulekh.gov.in/",
             "photoUrl": "https://plus.unsplash.com/premium_photo-1661885523029-fc960a2bb4f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
         },
-		{
-            "title-en": "Rajasthan",
-            "title-hi": "राजस्थान",
-            "subtitle-en": "Rajasthan - Bhulekh",
-            "subtitle-hi": "राजस्थान - भूलेख",
-            "aspectRatio": "3",
-            "btnText-en": "Rajasthan - Bhulekh",
-            "btnText-hi": "राजस्थान - भूलेख",
-            "post-en": " Access to land records, property details, and other related information",
-            "post-hi": " भूमि रिकॉर्ड, संपत्ति विवरण और अन्य संबंधित जानकारी",
-            "btnUrl": "https://apnakhata.rajasthan.gov.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1616693139578-f1c17deb0d4f?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-        },
         {
             "title-en": "Chhattisgarh",
             "title-hi": "छत्तीसगढ",
@@ -101,46 +88,11 @@
             "btnUrl": "https://upbhunaksha.gov.in/",
             "photoUrl": "https://plus.unsplash.com/premium_photo-1661885523029-fc960a2bb4f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
         },
-		{
-            "title-en": "Rajasthan",
-            "title-hi": "राजस्थान",
-            "subtitle-en": "Rajasthan - Bhunaksha",
-            "subtitle-hi": "राजस्थान - भू नक्शा",
-            "aspectRatio": "3",
-            "btnText-en": "Rajasthan - Bhunaksha",
-            "btnText-hi": "राजस्थान - भू नक्शा",
-            "post-en": " Access to land records, property details, and other related information",
-            "post-hi": " भूमि रिकॉर्ड, संपत्ति विवरण और अन्य संबंधित जानकारी",
-            "btnUrl": "https://bhunaksha.rajasthan.gov.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1616693139578-f1c17deb0d4f?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-        },
-		
-       {
-            "title-en": "Goa",
-            "title-hi": "गोवा",
-            "subtitle-en": "Goa - Bhunaksha",
-            "subtitle-hi": "गोवा - भू नक्शा ",
-            "btnUrl": "https://dslr.goa.gov.in/Bhunaksha.aspx",
-            "photoUrl": "https://images.unsplash.com/photo-1541738679621-172e4575a81d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "btnText-en": "Goa - Bhunaksha",
-            "btnText-hi": "गोवा  - भू नक्शा ",
-            "post-en": "",
-            "post-hi": "",
-            "aspectRatio": "3"
-        }
     ],
     "edistrictList": [
        
     ],
     "homePageBtn": [
-       
-        {
-            "btnUrl": "https://www.pmuy.gov.in",
-            "post-en": "The Ministry of Petroleum and Natural Gas (MOPNG), introduced the 'Pradhan Mantri Ujjwala Yojana' (PMUY) as a flagship scheme with an objective to make clean cooking fuel such as LPG available to the rural and deprived households which were otherwise using traditional cooking fuels such as firewood and coal.",
-            "post-hi": "पेट्रोलियम एवं प्राकृतिक गैस मंत्रालय (एमओपीएनजी) ने एक प्रमुख योजना के रूप में 'प्रधानमंत्री उज्ज्वला योजना' (पीएमयूवाई) की शुरुआत की है, जिसका उद्देश्य ग्रामीण एवं वंचित परिवारों को एलपीजी जैसे स्वच्छ खाना पकाने के ईंधन उपलब्ध कराना है, जो अन्यथा लकड़ी और कोयले जैसे पारंपरिक खाना पकाने के ईंधन का उपयोग कर रहे थे।",
-            "title-en": "Ujjwala Yojana",
-            "title-hi": "उज्ज्वला योजना"
-        }
         
     ],
     "homePageImgBtn": [
