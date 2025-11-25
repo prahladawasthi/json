@@ -35,32 +35,6 @@
             "photoUrl": "https://images.unsplash.com/photo-1627475320102-d73fcb4eb427?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
         },
         {
-            "title-en": "Goa",
-            "title-hi": "गोवा",
-            "subtitle-en": "Goa - Bhulekh",
-            "subtitle-hi": "गोवा  - भूलेख",
-            "aspectRatio": "3",
-            "btnText-en": "Goa - Bhulekh",
-            "btnText-hi": "गोवा  - भूलेख",
-            "post-en": " Access to land records, property details, and other related information",
-            "post-hi": " भूमि रिकॉर्ड, संपत्ति विवरण और अन्य संबंधित जानकारी",
-            "btnUrl": "https://goaonline.gov.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1541738679621-172e4575a81d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-        },
-        {
-            "title-en": "Mizoram",
-            "title-hi": "मिजोरम",
-            "subtitle-en": "Mizoram - Bhulekh",
-            "subtitle-hi": "मिजोरम - भूलेख",
-            "aspectRatio": "3",
-            "btnText-en": "Mizoram - Bhulekh",
-            "btnText-hi": "मिजोरम - भूलेख",
-            "post-en": " Access to land records, property details, and other related information",
-            "post-hi": " भूमि रिकॉर्ड, संपत्ति विवरण और अन्य संबंधित जानकारी",
-            "btnUrl": "https://mizoram.nic.in/",
-            "photoUrl": "https://images.unsplash.com/photo-1629406989647-ed5e7e39e721?q=80&w=1928&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-        },
-        {
             "title-en": "Punjab",
             "title-hi": "पंजाब",
             "subtitle-en": "Punjab - Bhulekh",
