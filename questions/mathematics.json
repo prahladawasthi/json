@@ -1,0 +1,602 @@
+[
+    {
+        "id": "m_1",
+        "text": "What is 25 + 37?",
+        "options": [
+            "62",
+            "52",
+            "72",
+            "42"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_2",
+        "text": "What is 89 - 34?",
+        "options": [
+            "55",
+            "65",
+            "45",
+            "75"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_3",
+        "text": "What is 12 × 8?",
+        "options": [
+            "96",
+            "86",
+            "106",
+            "76"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_4",
+        "text": "What is 20% of 150?",
+        "options": [
+            "30",
+            "25",
+            "35",
+            "40"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_5",
+        "text": "Area of square with side 9?",
+        "options": [
+            "81",
+            "91",
+            "71",
+            "101"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_6",
+        "text": "What is 144 ÷ 12?",
+        "options": [
+            "12",
+            "14",
+            "10",
+            "16"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_7",
+        "text": "Perimeter of rectangle with length 8 and width 5?",
+        "options": [
+            "26",
+            "24",
+            "28",
+            "30"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_8",
+        "text": "What is 15% of 200?",
+        "options": [
+            "30",
+            "25",
+            "35",
+            "40"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_9",
+        "text": "What is 7 × 9?",
+        "options": [
+            "63",
+            "56",
+            "72",
+            "54"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_10",
+        "text": "What is 100 - 47?",
+        "options": [
+            "53",
+            "63",
+            "43",
+            "73"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_11",
+        "text": "Area of rectangle with length 12 and width 7?",
+        "options": [
+            "84",
+            "74",
+            "94",
+            "64"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_12",
+        "text": "What is 25% of 80?",
+        "options": [
+            "20",
+            "15",
+            "25",
+            "30"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_13",
+        "text": "What is 13 × 6?",
+        "options": [
+            "78",
+            "68",
+            "88",
+            "58"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_14",
+        "text": "What is 156 ÷ 13?",
+        "options": [
+            "12",
+            "13",
+            "11",
+            "14"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_15",
+        "text": "Area of square with side 11?",
+        "options": [
+            "121",
+            "111",
+            "131",
+            "101"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_16",
+        "text": "What is 10% of 500?",
+        "options": [
+            "50",
+            "40",
+            "60",
+            "70"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_17",
+        "text": "What is 45 + 67?",
+        "options": [
+            "112",
+            "102",
+            "122",
+            "92"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_18",
+        "text": "What is 14 × 7?",
+        "options": [
+            "98",
+            "88",
+            "108",
+            "78"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_19",
+        "text": "Perimeter of square with side 15?",
+        "options": [
+            "60",
+            "50",
+            "70",
+            "80"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_20",
+        "text": "What is 30% of 120?",
+        "options": [
+            "36",
+            "26",
+            "46",
+            "56"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_21",
+        "text": "What is 225 ÷ 15?",
+        "options": [
+            "15",
+            "14",
+            "16",
+            "17"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_22",
+        "text": "What is 16 × 5?",
+        "options": [
+            "80",
+            "70",
+            "90",
+            "60"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_23",
+        "text": "Area of rectangle with length 15 and width 4?",
+        "options": [
+            "60",
+            "50",
+            "70",
+            "80"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_24",
+        "text": "What is 5% of 400?",
+        "options": [
+            "20",
+            "15",
+            "25",
+            "30"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_25",
+        "text": "What is 123 - 58?",
+        "options": [
+            "65",
+            "75",
+            "55",
+            "85"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_26",
+        "text": "Area of square with side 13?",
+        "options": [
+            "169",
+            "159",
+            "179",
+            "149"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_27",
+        "text": "What is 18 × 4?",
+        "options": [
+            "72",
+            "62",
+            "82",
+            "52"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_28",
+        "text": "What is 40% of 250?",
+        "options": [
+            "100",
+            "90",
+            "110",
+            "120"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_29",
+        "text": "What is 324 ÷ 18?",
+        "options": [
+            "18",
+            "17",
+            "19",
+            "16"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_30",
+        "text": "Perimeter of rectangle with length 10 and width 6?",
+        "options": [
+            "32",
+            "30",
+            "34",
+            "36"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_31",
+        "text": "What is 75 + 89?",
+        "options": [
+            "164",
+            "154",
+            "174",
+            "144"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_32",
+        "text": "What is 17 × 6?",
+        "options": [
+            "102",
+            "92",
+            "112",
+            "82"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_33",
+        "text": "Area of rectangle with length 20 and width 3?",
+        "options": [
+            "60",
+            "50",
+            "70",
+            "80"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_34",
+        "text": "What is 12% of 300?",
+        "options": [
+            "36",
+            "26",
+            "46",
+            "56"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_35",
+        "text": "What is 200 - 87?",
+        "options": [
+            "113",
+            "123",
+            "103",
+            "133"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_36",
+        "text": "Area of square with side 14?",
+        "options": [
+            "196",
+            "186",
+            "206",
+            "176"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_37",
+        "text": "What is 19 × 5?",
+        "options": [
+            "95",
+            "85",
+            "105",
+            "75"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_38",
+        "text": "What is 50% of 180?",
+        "options": [
+            "90",
+            "80",
+            "100",
+            "110"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_39",
+        "text": "What is 420 ÷ 21?",
+        "options": [
+            "20",
+            "19",
+            "21",
+            "18"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_40",
+        "text": "Perimeter of square with side 18?",
+        "options": [
+            "72",
+            "62",
+            "82",
+            "52"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_41",
+        "text": "What is 56 + 78?",
+        "options": [
+            "134",
+            "124",
+            "144",
+            "114"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_42",
+        "text": "What is 15 × 8?",
+        "options": [
+            "120",
+            "110",
+            "130",
+            "100"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_43",
+        "text": "Area of rectangle with length 18 and width 5?",
+        "options": [
+            "90",
+            "80",
+            "100",
+            "110"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_44",
+        "text": "What is 8% of 250?",
+        "options": [
+            "20",
+            "15",
+            "25",
+            "30"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_45",
+        "text": "What is 175 - 96?",
+        "options": [
+            "79",
+            "89",
+            "69",
+            "99"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_46",
+        "text": "Area of square with side 16?",
+        "options": [
+            "256",
+            "246",
+            "266",
+            "236"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_47",
+        "text": "What is 11 × 9?",
+        "options": [
+            "99",
+            "89",
+            "109",
+            "79"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_48",
+        "text": "What is 35% of 200?",
+        "options": [
+            "70",
+            "60",
+            "80",
+            "90"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_49",
+        "text": "What is 540 ÷ 27?",
+        "options": [
+            "20",
+            "19",
+            "21",
+            "18"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_50",
+        "text": "Perimeter of rectangle with length 14 and width 8?",
+        "options": [
+            "44",
+            "42",
+            "46",
+            "48"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    }
+]
