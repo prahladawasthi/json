@@ -1,0 +1,2155 @@
+[
+    {
+        "id": "rd_1",
+        "text": "Head of Revenue Dept in District?",
+        "options": [
+            "DM",
+            "SDM",
+            "Tehsildar",
+            "Lekhpal"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_2",
+        "text": "Khasra contains how many columns?",
+        "options": [
+            "21",
+            "22",
+            "16",
+            "12"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_3",
+        "text": "Khatauni contains how many columns?",
+        "options": [
+            "13",
+            "12",
+            "14",
+            "10"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_4",
+        "text": "Who maintains land records?",
+        "options": [
+            "Lekhpal",
+            "Amin",
+            "Kanoongo",
+            "BDO"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_5",
+        "text": "Length of Gunter Chain?",
+        "options": [
+            "66 ft",
+            "100 ft",
+            "33 ft",
+            "50 ft"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_6",
+        "text": "1 Acre = ? Bigha (approx in UP)",
+        "options": [
+            "1.6",
+            "2.5",
+            "3.0",
+            "1.0"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_7",
+        "text": "Full form of SDM?",
+        "options": [
+            "Sub Divisional Magistrate",
+            "State District Manager",
+            "Senior Dept Manager",
+            "None"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_8",
+        "text": "Revenue year starts?",
+        "options": [
+            "1 July",
+            "1 April",
+            "1 Jan",
+            "1 Oct"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_9",
+        "text": "Green Revolution related to?",
+        "options": [
+            "Agriculture",
+            "Milk",
+            "Fish",
+            "Eggs"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_10",
+        "text": "White Revolution related to?",
+        "options": [
+            "Milk",
+            "Water",
+            "Cotton",
+            "Rice"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_11",
+        "text": "Blue Revolution related to?",
+        "options": [
+            "Fish",
+            "Water",
+            "Milk",
+            "Agriculture"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_12",
+        "text": "Yellow Revolution related to?",
+        "options": [
+            "Oilseeds",
+            "Milk",
+            "Fish",
+            "Agriculture"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_13",
+        "text": "What is Panchayati Raj?",
+        "options": [
+            "Local self-government",
+            "State government",
+            "Central government",
+            "None"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_14",
+        "text": "73rd Amendment is related to?",
+        "options": [
+            "Panchayati Raj",
+            "Municipalities",
+            "Education",
+            "Health"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_15",
+        "text": "74th Amendment is related to?",
+        "options": [
+            "Municipalities",
+            "Panchayati Raj",
+            "Education",
+            "Health"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_16",
+        "text": "Gram Sabha consists of?",
+        "options": [
+            "All voters of village",
+            "Elected members",
+            "Sarpanch only",
+            "BDO"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_17",
+        "text": "Gram Panchayat head is called?",
+        "options": [
+            "Sarpanch",
+            "Pradhan",
+            "Mukhiya",
+            "All of these"
+        ],
+        "correctOptionIndex": 3,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_18",
+        "text": "Block level Panchayat is called?",
+        "options": [
+            "Panchayat Samiti",
+            "Gram Panchayat",
+            "Zila Parishad",
+            "Gram Sabha"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_19",
+        "text": "District level Panchayat is called?",
+        "options": [
+            "Zila Parishad",
+            "Panchayat Samiti",
+            "Gram Panchayat",
+            "Gram Sabha"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_20",
+        "text": "BDO stands for?",
+        "options": [
+            "Block Development Officer",
+            "Block District Officer",
+            "Block Divisional Officer",
+            "None"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_21",
+        "text": "MGNREGA full form?",
+        "options": [
+            "Mahatma Gandhi National Rural Employment Guarantee Act",
+            "Mahatma Gandhi National Rural Education Guarantee Act",
+            "None",
+            "Both"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_22",
+        "text": "MGNREGA provides how many days of employment?",
+        "options": [
+            "100 days",
+            "90 days",
+            "120 days",
+            "150 days"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_23",
+        "text": "PMAY stands for?",
+        "options": [
+            "Pradhan Mantri Awas Yojana",
+            "Pradhan Mantri Arogya Yojana",
+            "None",
+            "Both"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_24",
+        "text": "PMGSY stands for?",
+        "options": [
+            "Pradhan Mantri Gram Sadak Yojana",
+            "Pradhan Mantri Gramin Sadak Yojana",
+            "Both",
+            "None"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_25",
+        "text": "SBM stands for?",
+        "options": [
+            "Swachh Bharat Mission",
+            "Swachh Bharat Movement",
+            "None",
+            "Both"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_26",
+        "text": "NRLM stands for?",
+        "options": [
+            "National Rural Livelihood Mission",
+            "National Rural Labour Mission",
+            "None",
+            "Both"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_27",
+        "text": "PMKSY stands for?",
+        "options": [
+            "Pradhan Mantri Krishi Sinchai Yojana",
+            "Pradhan Mantri Kisan Samman Yojana",
+            "None",
+            "Both"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_28",
+        "text": "PM-KISAN provides how much per year?",
+        "options": [
+            "Rs 6000",
+            "Rs 5000",
+            "Rs 7000",
+            "Rs 8000"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_29",
+        "text": "RKVY stands for?",
+        "options": [
+            "Rashtriya Krishi Vikas Yojana",
+            "Rashtriya Kisan Vikas Yojana",
+            "None",
+            "Both"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_30",
+        "text": "PMFBY stands for?",
+        "options": [
+            "Pradhan Mantri Fasal Bima Yojana",
+            "Pradhan Mantri Farmer Bima Yojana",
+            "None",
+            "Both"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_31",
+        "text": "What is Kharif crop?",
+        "options": [
+            "Monsoon crop",
+            "Winter crop",
+            "Summer crop",
+            "None"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_32",
+        "text": "What is Rabi crop?",
+        "options": [
+            "Winter crop",
+            "Monsoon crop",
+            "Summer crop",
+            "None"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_33",
+        "text": "Which is a Kharif crop?",
+        "options": [
+            "Rice",
+            "Wheat",
+            "Mustard",
+            "Barley"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_34",
+        "text": "Which is a Rabi crop?",
+        "options": [
+            "Wheat",
+            "Rice",
+            "Cotton",
+            "Jute"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_35",
+        "text": "MSP stands for?",
+        "options": [
+            "Minimum Support Price",
+            "Maximum Support Price",
+            "None",
+            "Both"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_36",
+        "text": "Who announces MSP?",
+        "options": [
+            "Government of India",
+            "State Government",
+            "RBI",
+            "NABARD"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_37",
+        "text": "NABARD stands for?",
+        "options": [
+            "National Bank for Agriculture and Rural Development",
+            "None",
+            "Both",
+            "National Bank for Agriculture and Regional Development"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_38",
+        "text": "Soil Health Card scheme launched in?",
+        "options": [
+            "2015",
+            "2014",
+            "2016",
+            "2017"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_39",
+        "text": "What is the primary duty of Lekhpal?",
+        "options": [
+            "Maintain land records",
+            "Collect tax",
+            "Law and order",
+            "None"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_40",
+        "text": "Tehsildar is head of?",
+        "options": [
+            "Tehsil",
+            "District",
+            "Block",
+            "Village"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_41",
+        "text": "Kanoongo supervises?",
+        "options": [
+            "Lekhpals",
+            "Tehsildars",
+            "BDOs",
+            "None"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_42",
+        "text": "What is Mutation?",
+        "options": [
+            "Change in land ownership",
+            "Land measurement",
+            "Land survey",
+            "None"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_43",
+        "text": "What is Jamabandi?",
+        "options": [
+            "Record of Rights",
+            "Land map",
+            "Mutation register",
+            "None"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_44",
+        "text": "What is Shajra?",
+        "options": [
+            "Village map",
+            "Record of Rights",
+            "Mutation register",
+            "None"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_45",
+        "text": "Revenue Circle is headed by?",
+        "options": [
+            "Tehsildar",
+            "Lekhpal",
+            "DM",
+            "SDM"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_46",
+        "text": "1 Bigha = ? Biswa (in UP)",
+        "options": [
+            "20",
+            "16",
+            "25",
+            "30"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_47",
+        "text": "1 Hectare = ? Acres",
+        "options": [
+            "2.47",
+            "2.5",
+            "3.0",
+            "2.0"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_48",
+        "text": "Land ceiling means?",
+        "options": [
+            "Maximum land holding limit",
+            "Minimum land holding",
+            "None",
+            "Both"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_49",
+        "text": "Consolidation of holdings means?",
+        "options": [
+            "Combining scattered land",
+            "Dividing land",
+            "None",
+            "Both"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+    {
+        "id": "rd_50",
+        "text": "Abadi land means?",
+        "options": [
+            "Residential land",
+            "Agricultural land",
+            "Forest land",
+            "None"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Rural Development"
+    },
+  
+    {
+        "id": "m_1",
+        "text": "What is 25 + 37?",
+        "options": [
+            "62",
+            "52",
+            "72",
+            "42"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_2",
+        "text": "What is 89 - 34?",
+        "options": [
+            "55",
+            "65",
+            "45",
+            "75"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_3",
+        "text": "What is 12 × 8?",
+        "options": [
+            "96",
+            "86",
+            "106",
+            "76"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_4",
+        "text": "What is 20% of 150?",
+        "options": [
+            "30",
+            "25",
+            "35",
+            "40"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_5",
+        "text": "Area of square with side 9?",
+        "options": [
+            "81",
+            "91",
+            "71",
+            "101"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_6",
+        "text": "What is 144 ÷ 12?",
+        "options": [
+            "12",
+            "14",
+            "10",
+            "16"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_7",
+        "text": "Perimeter of rectangle with length 8 and width 5?",
+        "options": [
+            "26",
+            "24",
+            "28",
+            "30"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_8",
+        "text": "What is 15% of 200?",
+        "options": [
+            "30",
+            "25",
+            "35",
+            "40"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_9",
+        "text": "What is 7 × 9?",
+        "options": [
+            "63",
+            "56",
+            "72",
+            "54"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_10",
+        "text": "What is 100 - 47?",
+        "options": [
+            "53",
+            "63",
+            "43",
+            "73"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_11",
+        "text": "Area of rectangle with length 12 and width 7?",
+        "options": [
+            "84",
+            "74",
+            "94",
+            "64"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_12",
+        "text": "What is 25% of 80?",
+        "options": [
+            "20",
+            "15",
+            "25",
+            "30"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_13",
+        "text": "What is 13 × 6?",
+        "options": [
+            "78",
+            "68",
+            "88",
+            "58"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_14",
+        "text": "What is 156 ÷ 13?",
+        "options": [
+            "12",
+            "13",
+            "11",
+            "14"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_15",
+        "text": "Area of square with side 11?",
+        "options": [
+            "121",
+            "111",
+            "131",
+            "101"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_16",
+        "text": "What is 10% of 500?",
+        "options": [
+            "50",
+            "40",
+            "60",
+            "70"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_17",
+        "text": "What is 45 + 67?",
+        "options": [
+            "112",
+            "102",
+            "122",
+            "92"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_18",
+        "text": "What is 14 × 7?",
+        "options": [
+            "98",
+            "88",
+            "108",
+            "78"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_19",
+        "text": "Perimeter of square with side 15?",
+        "options": [
+            "60",
+            "50",
+            "70",
+            "80"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_20",
+        "text": "What is 30% of 120?",
+        "options": [
+            "36",
+            "26",
+            "46",
+            "56"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_21",
+        "text": "What is 225 ÷ 15?",
+        "options": [
+            "15",
+            "14",
+            "16",
+            "17"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_22",
+        "text": "What is 16 × 5?",
+        "options": [
+            "80",
+            "70",
+            "90",
+            "60"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_23",
+        "text": "Area of rectangle with length 15 and width 4?",
+        "options": [
+            "60",
+            "50",
+            "70",
+            "80"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_24",
+        "text": "What is 5% of 400?",
+        "options": [
+            "20",
+            "15",
+            "25",
+            "30"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_25",
+        "text": "What is 123 - 58?",
+        "options": [
+            "65",
+            "75",
+            "55",
+            "85"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_26",
+        "text": "Area of square with side 13?",
+        "options": [
+            "169",
+            "159",
+            "179",
+            "149"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_27",
+        "text": "What is 18 × 4?",
+        "options": [
+            "72",
+            "62",
+            "82",
+            "52"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_28",
+        "text": "What is 40% of 250?",
+        "options": [
+            "100",
+            "90",
+            "110",
+            "120"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_29",
+        "text": "What is 324 ÷ 18?",
+        "options": [
+            "18",
+            "17",
+            "19",
+            "16"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_30",
+        "text": "Perimeter of rectangle with length 10 and width 6?",
+        "options": [
+            "32",
+            "30",
+            "34",
+            "36"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_31",
+        "text": "What is 75 + 89?",
+        "options": [
+            "164",
+            "154",
+            "174",
+            "144"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_32",
+        "text": "What is 17 × 6?",
+        "options": [
+            "102",
+            "92",
+            "112",
+            "82"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_33",
+        "text": "Area of rectangle with length 20 and width 3?",
+        "options": [
+            "60",
+            "50",
+            "70",
+            "80"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_34",
+        "text": "What is 12% of 300?",
+        "options": [
+            "36",
+            "26",
+            "46",
+            "56"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_35",
+        "text": "What is 200 - 87?",
+        "options": [
+            "113",
+            "123",
+            "103",
+            "133"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_36",
+        "text": "Area of square with side 14?",
+        "options": [
+            "196",
+            "186",
+            "206",
+            "176"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_37",
+        "text": "What is 19 × 5?",
+        "options": [
+            "95",
+            "85",
+            "105",
+            "75"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_38",
+        "text": "What is 50% of 180?",
+        "options": [
+            "90",
+            "80",
+            "100",
+            "110"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_39",
+        "text": "What is 420 ÷ 21?",
+        "options": [
+            "20",
+            "19",
+            "21",
+            "18"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_40",
+        "text": "Perimeter of square with side 18?",
+        "options": [
+            "72",
+            "62",
+            "82",
+            "52"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_41",
+        "text": "What is 56 + 78?",
+        "options": [
+            "134",
+            "124",
+            "144",
+            "114"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_42",
+        "text": "What is 15 × 8?",
+        "options": [
+            "120",
+            "110",
+            "130",
+            "100"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_43",
+        "text": "Area of rectangle with length 18 and width 5?",
+        "options": [
+            "90",
+            "80",
+            "100",
+            "110"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_44",
+        "text": "What is 8% of 250?",
+        "options": [
+            "20",
+            "15",
+            "25",
+            "30"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_45",
+        "text": "What is 175 - 96?",
+        "options": [
+            "79",
+            "89",
+            "69",
+            "99"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_46",
+        "text": "Area of square with side 16?",
+        "options": [
+            "256",
+            "246",
+            "266",
+            "236"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_47",
+        "text": "What is 11 × 9?",
+        "options": [
+            "99",
+            "89",
+            "109",
+            "79"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_48",
+        "text": "What is 35% of 200?",
+        "options": [
+            "70",
+            "60",
+            "80",
+            "90"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_49",
+        "text": "What is 540 ÷ 27?",
+        "options": [
+            "20",
+            "19",
+            "21",
+            "18"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+    {
+        "id": "m_50",
+        "text": "Perimeter of rectangle with length 14 and width 8?",
+        "options": [
+            "44",
+            "42",
+            "46",
+            "48"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "Mathematics"
+    },
+  
+    {
+        "id": "gk_1",
+        "text": "Capital of Uttar Pradesh?",
+        "options": [
+            "Lucknow",
+            "Kanpur",
+            "Agra",
+            "Varanasi"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_2",
+        "text": "Current Chief Minister of UP?",
+        "options": [
+            "Yogi Adityanath",
+            "Akhilesh Yadav",
+            "Mayawati",
+            "Rajnath Singh"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_3",
+        "text": "State Animal of UP?",
+        "options": [
+            "Swamp Deer",
+            "Tiger",
+            "Lion",
+            "Elephant"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_4",
+        "text": "State Bird of UP?",
+        "options": [
+            "Sarus Crane",
+            "Peacock",
+            "Parrot",
+            "Pigeon"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_5",
+        "text": "State Flower of UP?",
+        "options": [
+            "Palash",
+            "Rose",
+            "Lotus",
+            "Jasmine"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_6",
+        "text": "State Tree of UP?",
+        "options": [
+            "Ashoka",
+            "Banyan",
+            "Peepal",
+            "Neem"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_7",
+        "text": "Total Districts in UP?",
+        "options": [
+            "75",
+            "70",
+            "80",
+            "72"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_8",
+        "text": "Longest river in UP?",
+        "options": [
+            "Ganga",
+            "Yamuna",
+            "Gomti",
+            "Saryu"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_9",
+        "text": "Taj Mahal location?",
+        "options": [
+            "Agra",
+            "Delhi",
+            "Jaipur",
+            "Lucknow"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_10",
+        "text": "Kumbh Mela location in UP?",
+        "options": [
+            "Prayagraj",
+            "Varanasi",
+            "Haridwar",
+            "Mathura"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_11",
+        "text": "Which river flows through Varanasi?",
+        "options": [
+            "Ganga",
+            "Yamuna",
+            "Gomti",
+            "Saryu"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_12",
+        "text": "Largest city in UP by population?",
+        "options": [
+            "Lucknow",
+            "Kanpur",
+            "Ghaziabad",
+            "Agra"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_13",
+        "text": "Birthplace of Lord Krishna?",
+        "options": [
+            "Mathura",
+            "Vrindavan",
+            "Ayodhya",
+            "Varanasi"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_14",
+        "text": "Birthplace of Lord Rama?",
+        "options": [
+            "Ayodhya",
+            "Mathura",
+            "Varanasi",
+            "Prayagraj"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_15",
+        "text": "Which city is known as 'City of Nawabs'?",
+        "options": [
+            "Lucknow",
+            "Kanpur",
+            "Agra",
+            "Varanasi"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_16",
+        "text": "Which city is known as 'Manchester of India'?",
+        "options": [
+            "Kanpur",
+            "Lucknow",
+            "Agra",
+            "Varanasi"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_17",
+        "text": "Fatehpur Sikri is located near which city?",
+        "options": [
+            "Agra",
+            "Lucknow",
+            "Kanpur",
+            "Varanasi"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_18",
+        "text": "Dudhwa National Park is in which district?",
+        "options": [
+            "Lakhimpur Kheri",
+            "Pilibhit",
+            "Shahjahanpur",
+            "Bareilly"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_19",
+        "text": "Which is the largest district of UP by area?",
+        "options": [
+            "Lakhimpur Kheri",
+            "Sonbhadra",
+            "Allahabad",
+            "Lucknow"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_20",
+        "text": "Which is the smallest district of UP by area?",
+        "options": [
+            "Hapur",
+            "Shamli",
+            "Bhagpat",
+            "Gautam Buddha Nagar"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_21",
+        "text": "Who was the first Chief Minister of UP?",
+        "options": [
+            "Govind Ballabh Pant",
+            "Charan Singh",
+            "Sampurnanand",
+            "C.B. Gupta"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_22",
+        "text": "Who was the first woman Chief Minister of UP?",
+        "options": [
+            "Sucheta Kriplani",
+            "Mayawati",
+            "Indira Gandhi",
+            "Sonia Gandhi"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_23",
+        "text": "Who was the first Governor of UP?",
+        "options": [
+            "Sarojini Naidu",
+            "Sucheta Kriplani",
+            "Vijayalakshmi Pandit",
+            "Indira Gandhi"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_24",
+        "text": "Current Governor of UP?",
+        "options": [
+            "Anandiben Patel",
+            "Ram Naik",
+            "Kalyan Singh",
+            "B.L. Joshi"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_25",
+        "text": "High Court of UP is located in?",
+        "options": [
+            "Prayagraj",
+            "Lucknow",
+            "Kanpur",
+            "Agra"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_26",
+        "text": "Total Lok Sabha seats in UP?",
+        "options": [
+            "80",
+            "75",
+            "85",
+            "70"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_27",
+        "text": "Total Rajya Sabha seats in UP?",
+        "options": [
+            "31",
+            "30",
+            "32",
+            "28"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_28",
+        "text": "Total Vidhan Sabha seats in UP?",
+        "options": [
+            "403",
+            "400",
+            "405",
+            "410"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_29",
+        "text": "Total Vidhan Parishad seats in UP?",
+        "options": [
+            "100",
+            "95",
+            "105",
+            "90"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_30",
+        "text": "Which division has the most districts in UP?",
+        "options": [
+            "Azamgarh",
+            "Lucknow",
+            "Kanpur",
+            "Agra"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_31",
+        "text": "Literacy rate of UP (approx)?",
+        "options": [
+            "70%",
+            "65%",
+            "75%",
+            "80%"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_32",
+        "text": "Population of UP (approx)?",
+        "options": [
+            "20 crore",
+            "15 crore",
+            "25 crore",
+            "30 crore"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_33",
+        "text": "Sex ratio in UP (approx)?",
+        "options": [
+            "912",
+            "920",
+            "900",
+            "930"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_34",
+        "text": "Area of UP (approx)?",
+        "options": [
+            "2.4 lakh sq km",
+            "2.0 lakh sq km",
+            "2.8 lakh sq km",
+            "3.0 lakh sq km"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_35",
+        "text": "Which is the official language of UP?",
+        "options": [
+            "Hindi",
+            "Urdu",
+            "English",
+            "Sanskrit"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_36",
+        "text": "Which is the second official language of UP?",
+        "options": [
+            "Urdu",
+            "English",
+            "Sanskrit",
+            "Bhojpuri"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_37",
+        "text": "Noida is located in which district?",
+        "options": [
+            "Gautam Buddha Nagar",
+            "Ghaziabad",
+            "Lucknow",
+            "Kanpur"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_38",
+        "text": "Greater Noida is located in which district?",
+        "options": [
+            "Gautam Buddha Nagar",
+            "Ghaziabad",
+            "Lucknow",
+            "Kanpur"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_39",
+        "text": "Which airport is the largest in UP?",
+        "options": [
+            "Lucknow",
+            "Varanasi",
+            "Agra",
+            "Kanpur"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_40",
+        "text": "Which metro system is operational in UP?",
+        "options": [
+            "Lucknow Metro",
+            "Kanpur Metro",
+            "Agra Metro",
+            "Noida Metro"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_41",
+        "text": "Which expressway connects Delhi to Agra?",
+        "options": [
+            "Yamuna Expressway",
+            "Agra-Lucknow Expressway",
+            "Purvanchal Expressway",
+            "Bundelkhand Expressway"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_42",
+        "text": "Which expressway connects Agra to Lucknow?",
+        "options": [
+            "Agra-Lucknow Expressway",
+            "Yamuna Expressway",
+            "Purvanchal Expressway",
+            "Bundelkhand Expressway"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_43",
+        "text": "Purvanchal Expressway connects which cities?",
+        "options": [
+            "Lucknow to Ghazipur",
+            "Delhi to Agra",
+            "Agra to Lucknow",
+            "Kanpur to Varanasi"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_44",
+        "text": "Which university is the oldest in UP?",
+        "options": [
+            "Allahabad University",
+            "Lucknow University",
+            "BHU",
+            "AMU"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_45",
+        "text": "Banaras Hindu University is located in?",
+        "options": [
+            "Varanasi",
+            "Allahabad",
+            "Lucknow",
+            "Kanpur"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_46",
+        "text": "Aligarh Muslim University is located in?",
+        "options": [
+            "Aligarh",
+            "Lucknow",
+            "Kanpur",
+            "Agra"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_47",
+        "text": "IIT is located in which UP city?",
+        "options": [
+            "Kanpur",
+            "Lucknow",
+            "Varanasi",
+            "Allahabad"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_48",
+        "text": "AIIMS is located in which UP city?",
+        "options": [
+            "Rae Bareli",
+            "Lucknow",
+            "Kanpur",
+            "Varanasi"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_49",
+        "text": "Which is the state sport of UP?",
+        "options": [
+            "Hockey",
+            "Cricket",
+            "Football",
+            "Kabaddi"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+    {
+        "id": "gk_50",
+        "text": "Which festival is most celebrated in UP?",
+        "options": [
+            "Diwali",
+            "Holi",
+            "Eid",
+            "Dussehra"
+        ],
+        "correctOptionIndex": 0,
+        "subject": "General Knowledge"
+    },
+  
+  {
+    "id": "h_1",
+    "text": "Paryayvachi of 'Agni'?",
+    "options": ["Paavak", "Jal", "Vayu", "Dharti"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_2",
+    "text": "Paryayvachi of 'Amrit'?",
+    "options": ["Sudha", "Vish", "Garal", "Halahal"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_3",
+    "text": "Paryayvachi of 'Ashwa'?",
+    "options": ["Ghotak", "Gaj", "Sher", "Bhalu"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_4",
+    "text": "Paryayvachi of 'Akash'?",
+    "options": ["Gagan", "Patal", "Dharti", "Samudra"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_5",
+    "text": "Paryayvachi of 'Kamal'?",
+    "options": ["Pankaj", "Gulab", "Genda", "Surajmukhi"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_6",
+    "text": "Paryayvachi of 'Ganesh'?",
+    "options": ["Lambodar", "Mahesh", "Vishnu", "Brahma"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_7",
+    "text": "Paryayvachi of 'Ganga'?",
+    "options": ["Bhagirathi", "Yamuna", "Saraswati", "Narmada"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_8",
+    "text": "Paryayvachi of 'Chandrama'?",
+    "options": ["Shashi", "Surya", "Tara", "Badal"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_9",
+    "text": "Paryayvachi of 'Jal'?",
+    "options": ["Neer", "Kheer", "Teer", "Veer"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_10",
+    "text": "Paryayvachi of 'Prithvi'?",
+    "options": ["Vasundhara", "Akash", "Patal", "Vayu"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_11",
+    "text": "Vilom Shabd of 'Sukh'?",
+    "options": ["Dukh", "Aanand", "Khushi", "Harsha"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_12",
+    "text": "Vilom Shabd of 'Uchit'?",
+    "options": ["Anuchit", "Sahi", "Galat", "Theek"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_13",
+    "text": "Vilom Shabd of 'Vidwan'?",
+    "options": ["Murkh", "Gyani", "Pandit", "Buddhiman"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_14",
+    "text": "Vilom Shabd of 'Astitva'?",
+    "options": ["Anastitva", "Hona", "Rehna", "Jeena"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_15",
+    "text": "Vilom Shabd of 'Pratyaksh'?",
+    "options": ["Paroksh", "Saaf", "Spasht", "Dikhai"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_16",
+    "text": "Muhavara: 'Aankh ka tara' ka arth?",
+    "options": ["Bahut pyara", "Andha", "Dekhna", "Chamakna"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_17",
+    "text": "Muhavara: 'Haath dho kar peeche padna' ka arth?",
+    "options": ["Peeche lagana", "Haath dhona", "Bhaagna", "Ladna"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_18",
+    "text": "Muhavara: 'Naak katna' ka arth?",
+    "options": ["Badnaami hona", "Naak todna", "Maarna", "Hasna"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_19",
+    "text": "Muhavara: 'Kaan khade karna' ka arth?",
+    "options": ["Savdhaan hona", "Sunna", "Bolna", "Dekhna"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_20",
+    "text": "Muhavara: 'Paani pherna' ka arth?",
+    "options": ["Nishphal karna", "Paani dena", "Nahana", "Barsaat"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_21",
+    "text": "Sandhi: 'Mano + Rath' ki sandhi?",
+    "options": ["Manorath", "Manarath", "Manrath", "Manorat"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_22",
+    "text": "Sandhi: 'Maha + Atma' ki sandhi?",
+    "options": ["Mahatma", "Mahaatma", "Mahatama", "Mahatatma"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_23",
+    "text": "Sandhi: 'Sada + Eva' ki sandhi?",
+    "options": ["Sadaiva", "Sadeva", "Sadaev", "Sadeva"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_24",
+    "text": "Sandhi: 'Ati + Adhik' ki sandhi?",
+    "options": ["Atyadhik", "Atiadhik", "Atyadhika", "Atiadhika"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_25",
+    "text": "Sandhi: 'Param + Arth' ki sandhi?",
+    "options": ["Paramarth", "Paramath", "Paramartha", "Paramaarth"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_26",
+    "text": "Samas: 'Rajputra' mein kaun sa samas hai?",
+    "options": ["Tatpurush", "Dvandva", "Karmadharaya", "Bahuvrihi"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_27",
+    "text": "Samas: 'Neelkanth' mein kaun sa samas hai?",
+    "options": ["Bahuvrihi", "Tatpurush", "Dvandva", "Karmadharaya"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_28",
+    "text": "Samas: 'Mata-Pita' mein kaun sa samas hai?",
+    "options": ["Dvandva", "Tatpurush", "Bahuvrihi", "Karmadharaya"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_29",
+    "text": "Samas: 'Mahapurush' mein kaun sa samas hai?",
+    "options": ["Karmadharaya", "Tatpurush", "Dvandva", "Bahuvrihi"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_30",
+    "text": "Samas: 'Yathasambhav' mein kaun sa samas hai?",
+    "options": ["Avyayibhav", "Tatpurush", "Dvandva", "Bahuvrihi"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_31",
+    "text": "Ling: 'Kitab' ka ling?",
+    "options": ["Stri", "Puling", "Ubhayling", "Koi nahi"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_32",
+    "text": "Ling: 'Ghoda' ka ling?",
+    "options": ["Puling", "Stri", "Ubhayling", "Koi nahi"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_33",
+    "text": "Ling: 'Raat' ka ling?",
+    "options": ["Stri", "Puling", "Ubhayling", "Koi nahi"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_34",
+    "text": "Ling: 'Pankha' ka ling?",
+    "options": ["Puling", "Stri", "Ubhayling", "Koi nahi"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_35",
+    "text": "Ling: 'Deewar' ka ling?",
+    "options": ["Stri", "Puling", "Ubhayling", "Koi nahi"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_36",
+    "text": "Vachan: 'Ladka' ka bahuvachan?",
+    "options": ["Ladke", "Ladkon", "Ladkiyan", "Ladkaa"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_37",
+    "text": "Vachan: 'Roti' ka bahuvachan?",
+    "options": ["Rotiyan", "Rotis", "Roti", "Rotiya"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_38",
+    "text": "Vachan: 'Beti' ka bahuvachan?",
+    "options": ["Betiyan", "Betis", "Beti", "Betiya"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_39",
+    "text": "Vachan: 'Aankh' ka bahuvachan?",
+    "options": ["Aankhen", "Aankhon", "Aankh", "Aankhein"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_40",
+    "text": "Vachan: 'Gau' ka bahuvachan?",
+    "options": ["Gayen", "Gaus", "Gau", "Gauon"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_41",
+    "text": "Karak: 'Ram ne Ravan ko mara' - 'ko' kaun sa karak hai?",
+    "options": ["Karm", "Karta", "Sampradaan", "Apadan"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_42",
+    "text": "Karak: 'Guru ko pranam' - 'ko' kaun sa karak hai?",
+    "options": ["Sampradaan", "Karm", "Karta", "Apadan"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_43",
+    "text": "Karak: 'Ped se patta gira' - 'se' kaun sa karak hai?",
+    "options": ["Apadan", "Karan", "Sambandh", "Adhikaran"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_44",
+    "text": "Karak: 'Chaku se kata' - 'se' kaun sa karak hai?",
+    "options": ["Karan", "Apadan", "Sambandh", "Adhikaran"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_45",
+    "text": "Karak: 'Ghar mein' - 'mein' kaun sa karak hai?",
+    "options": ["Adhikaran", "Karan", "Apadan", "Sambandh"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_46",
+    "text": "Alankar: 'Charan kamal bandau hari rai' - kaun sa alankar hai?",
+    "options": ["Rupak", "Upma", "Utpreksha", "Anuprass"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_47",
+    "text": "Alankar: 'Piya bina piya tan jaise bina tan chaya' - kaun sa alankar hai?",
+    "options": ["Upma", "Rupak", "Utpreksha", "Anuprass"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_48",
+    "text": "Alankar: 'Maiya main to chandrak khilona laiho' - kaun sa alankar hai?",
+    "options": ["Utpreksha", "Upma", "Rupak", "Anuprass"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_49",
+    "text": "Alankar: 'Charu chandra ki chanchal kirne' - kaun sa alankar hai?",
+    "options": ["Anuprass", "Upma", "Rupak", "Utpreksha"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  },
+  {
+    "id": "h_50",
+    "text": "Alankar: 'Hathi jaise gambhir' - kaun sa alankar hai?",
+    "options": ["Upma", "Rupak", "Utpreksha", "Anuprass"],
+    "correctOptionIndex": 0,
+    "subject": "General Hindi"
+  }
+]
