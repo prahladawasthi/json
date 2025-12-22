@@ -3,7 +3,7 @@
     "homeTitle-hi": "ई-लेखपाल",
     "homeDesc-en": "We do not represent the government entity",
     "homeDesc-hi": "हम सरकारी संस्था का प्रतिनिधित्व नहीं करते",
-	"sliderImages": "https://images.unsplash.com/photo-1581287053822-fd7bf4f4bfec?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=901&q=80,https://images.unsplash.com/photo-1597276144232-6f56f1a7f2e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80,https://images.unsplash.com/photo-1512314889357-e157c22f938d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80,https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp-Fe0EVvEVbI7Gu2hF6Co2FTvDIkNPSRja1NH9j9l8nV_Q0IKJPCFodFJy0vnPMVUIVPfUTOyURERWbiGYYYshTTL0EDq_GYAv5AU-4V3OlXc_9xZZeR5-8AKH0yXGM9MpMC49zAef9qJChipBNSEbNaIRmpc4vNzLx4A-gVpkGV4iUTPAHsia-WBhei1/w616-h345/map.png,https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeAWtYXE5cbcVuEdiSEMBJhzr-Xwj-XHw2uZ8dHsRIBJTKfWDdICSDXCeCsMkwJEDO2TKTNin5UhIueu_eAzRcjbF3F0ysPosb0uO46nu91_Z3rTDkGsesoLYrGfptLC6zJZeflN4ITPkpqJGdYZQOJUb8UAtIjNa4b3wdb0hVoWE2wSTeobT2awdyR2BB/w646-h364/Unit%20Converter-Thumbnail.png",
+    "sliderImages": "https://images.unsplash.com/photo-1581287053822-fd7bf4f4bfec?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=901&q=80,https://images.unsplash.com/photo-1597276144232-6f56f1a7f2e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80,https://images.unsplash.com/photo-1512314889357-e157c22f938d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80,https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp-Fe0EVvEVbI7Gu2hF6Co2FTvDIkNPSRja1NH9j9l8nV_Q0IKJPCFodFJy0vnPMVUIVPfUTOyURERWbiGYYYshTTL0EDq_GYAv5AU-4V3OlXc_9xZZeR5-8AKH0yXGM9MpMC49zAef9qJChipBNSEbNaIRmpc4vNzLx4A-gVpkGV4iUTPAHsia-WBhei1/w616-h345/map.png,https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeAWtYXE5cbcVuEdiSEMBJhzr-Xwj-XHw2uZ8dHsRIBJTKfWDdICSDXCeCsMkwJEDO2TKTNin5UhIueu_eAzRcjbF3F0ysPosb0uO46nu91_Z3rTDkGsesoLYrGfptLC6zJZeflN4ITPkpqJGdYZQOJUb8UAtIjNa4b3wdb0hVoWE2wSTeobT2awdyR2BB/w646-h364/Unit%20Converter-Thumbnail.png",
     "sliderTexts": "Updated Application, New Suggestion box,Help us with your Ideas,मैप से दूरी और क्षेत्रफल मापें, लंबाई इकाइयों को बदलें ",
     "sliderUrls": " , , ,https://e-lekhpal.blogspot.com/2025/10/area-calculator.html,https://e-lekhpal.blogspot.com/2024/08/length-converter.html",
     "adminList": "",
@@ -64,7 +64,6 @@
         }
     ],
     "edistrictList": [
-       
     ],
     "homePageBtn": [
         {
@@ -120,12 +119,12 @@
                 }
             ]
         },
-		{
+        {
             "title-en": "Test 2",
             "title-hi": "भारत सरकार की वेबसाइटें",
             "subtitle-en": "Subt Test1",
             "subtitle-hi": "",
-			"btnUrl": "https://igod.gov.in/sg/states",
+            "btnUrl": "https://igod.gov.in/sg/states",
             "photoUrl": "https://images.unsplash.com/photo-1740477959010-c2e99bf4a5ff?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "btnText-en": "Indian Government Websites",
             "btnText-hi": "भारत सरकार की वेबसाइटें",
@@ -147,7 +146,8 @@
             "post-en": "A one-point source to access Indian Government Websites at all levels and from all sectors",
             "post-hi": "सभी स्तरों और सभी क्षेत्रों से भारत सरकार की वेबसाइटों तक पहुँचने के लिए एक-बिंदु स्रोत",
             "aspectRatio": "2.6"
-        },{
+        },
+        {
             "title-en": "Board Of Revenue, U.P",
             "title-hi": "राजस्व परिषद , उत्तर प्रदेश",
             "subtitle-en": "",
@@ -160,7 +160,7 @@
             "post-hi": "",
             "aspectRatio": "2.6"
         },
-		{
+        {
             "title-en": "State / UT Government",
             "title-hi": "राज्य / केंद्र शासित प्रदेश सरकार",
             "subtitle-en": "",
@@ -173,7 +173,7 @@
             "post-hi": "",
             "aspectRatio": "2.6"
         },
-		 {
+        {
             "title-en": "Test 1Uttar Pradesh",
             "title-hi": "उत्तर प्रदेश",
             "subtitle-en": "Uttar Pradesh - Bhulekh",
@@ -185,7 +185,7 @@
             "post-hi": " भूमि रिकॉर्ड, संपत्ति विवरण और अन्य संबंधित जानकारी",
             "btnUrl": "https://upbhulekh.gov.in/",
             "photoUrl": "https://plus.unsplash.com/premium_photo-1661885523029-fc960a2bb4f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-			 "links": [
+            "links": [
                 {
                     "title-en": "Indian Government Websites",
                     "title-hi": "भारत सरकार की वेबसाइटें",
@@ -227,17 +227,17 @@
             ]
         }
     ],
-    "supportedApps" : [
+    "supportedApps": [
         {
             "title": "Chidiya Ud",
-	    "subTitle": "The game is a childhood favorite and can be played with friends",
-	    "icon": "https://lh3.googleusercontent.com/jlv7VKAc9IxIrauc1tdSwyqNQTutHpvm_S_Ct7A_LicRxQAjurgrQTCLwm7Uwf-aXd_f",		
+            "subTitle": "The game is a childhood favorite and can be played with friends",
+            "icon": "https://lh3.googleusercontent.com/jlv7VKAc9IxIrauc1tdSwyqNQTutHpvm_S_Ct7A_LicRxQAjurgrQTCLwm7Uwf-aXd_f",
             "url": "https://play.google.com/store/apps/details?id=com.blogspot.chidiyaudapp.chidiya_ud"
         },
-         {
-            "title": "Busy Box",
-	    "subTitle": "A fun-packed collection of mini-games in one sleek app",
-	    "icon": "https://lh3.googleusercontent.com/YDXXT1I6tCKr45MV02rsRmq6XPyEPva7dzbACKBaKPn-q7issvbsHVJosA9tXwrBgQuq",		
+        {
+            "title": "Toolbox Pro",
+            "subTitle": "All-in-One: PDF Tools, Finance, Health, AI, Games & Utilities in one app!",
+            "icon": "https://play-lh.googleusercontent.com/kXTlQb1ak0LIlS-nFEu-jP_YM_n9ziEO4S0ocAlnK_MV7PGtQ0uU696C8lnxmiH5iCb1DmvVOcep6gstk3po=w240-h480-rw",
             "url": "https://play.google.com/store/apps/details?id=com.blogspot.busyboxapp.busybox"
         }
     ]
