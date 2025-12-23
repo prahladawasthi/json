@@ -66,7 +66,6 @@
     "edistrictList": [
     ],
     "homePageBtn": [
-        
     ],
     "homePageImgBtn": [
         {
@@ -109,6 +108,1238 @@
             "aspectRatio": "2.6"
         }
     ],
+    "contactNumbers": {
+        "districts": [
+            {
+                "name": "Agra",
+                "name_hi": "आगरा",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417580"
+                    },
+                    {
+                        "designation": "sdm",
+                        "designation_name": "Sub Divisional Magistrate",
+                        "designation_name_hi": "उप जिलाधिकारी",
+                        "tehsil": "Waha",
+                        "tehsil_hi": "वाहा",
+                        "mobile": "9454417666"
+                    },
+                    {
+                        "designation": "sdm",
+                        "designation_name": "Sub Divisional Magistrate",
+                        "designation_name_hi": "उप जिलाधिकारी",
+                        "tehsil": "Etmadpur",
+                        "tehsil_hi": "एटमादपुर",
+                        "mobile": "9454417667"
+                    },
+                    {
+                        "designation": "sdm",
+                        "designation_name": "Sub Divisional Magistrate",
+                        "designation_name_hi": "उप जिलाधिकारी",
+                        "tehsil": "Sadar",
+                        "tehsil_hi": "सदर",
+                        "mobile": "9454419027"
+                    },
+                    {
+                        "designation": "sdm",
+                        "designation_name": "Sub Divisional Magistrate",
+                        "designation_name_hi": "उप जिलाधिकारी",
+                        "tehsil": "Fatehabad",
+                        "tehsil_hi": "फतेहाबाद",
+                        "mobile": "9454417668"
+                    },
+                    {
+                        "designation": "sdm",
+                        "designation_name": "Sub Divisional Magistrate",
+                        "designation_name_hi": "उप जिलाधिकारी",
+                        "tehsil": "Kheragarh",
+                        "tehsil_hi": "खेरागढ़",
+                        "mobile": "9454417669"
+                    },
+                    {
+                        "designation": "sdm",
+                        "designation_name": "Sub Divisional Magistrate",
+                        "designation_name_hi": "उप जिलाधिकारी",
+                        "tehsil": "Kiraoli",
+                        "tehsil_hi": "किरौली",
+                        "mobile": "9454417670"
+                    },
+                    {
+                        "designation": "tehsildar",
+                        "designation_name": "Tehsildar",
+                        "designation_name_hi": "तहसीलदार",
+                        "tehsil": "Waha",
+                        "tehsil_hi": "वाहा",
+                        "mobile": "9454417673"
+                    },
+                    {
+                        "designation": "tehsildar",
+                        "designation_name": "Tehsildar",
+                        "designation_name_hi": "तहसीलदार",
+                        "tehsil": "Etmadpur",
+                        "tehsil_hi": "एटमादपुर",
+                        "mobile": "9454417674"
+                    },
+                    {
+                        "designation": "tehsildar",
+                        "designation_name": "Tehsildar",
+                        "designation_name_hi": "तहसीलदार",
+                        "tehsil": "Fatehabad",
+                        "tehsil_hi": "फतेहाबाद",
+                        "mobile": "9454417675"
+                    },
+                    {
+                        "designation": "tehsildar",
+                        "designation_name": "Tehsildar",
+                        "designation_name_hi": "तहसीलदार",
+                        "tehsil": "Khergarh",
+                        "tehsil_hi": "खेरगढ़",
+                        "mobile": "9454417676"
+                    },
+                    {
+                        "designation": "tehsildar",
+                        "designation_name": "Tehsildar",
+                        "designation_name_hi": "तहसीलदार",
+                        "tehsil": "Kirawali",
+                        "tehsil_hi": "किरावली",
+                        "mobile": "9454417677"
+                    },
+                    {
+                        "designation": "tehsildar",
+                        "designation_name": "Tehsildar",
+                        "designation_name_hi": "तहसीलदार",
+                        "tehsil": "Sadar",
+                        "tehsil_hi": "सदर",
+                        "mobile": "9454417672"
+                    }
+                ]
+            },
+            {
+                "name": "Aligarh",
+                "name_hi": "अलीगढ़",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417746"
+                    },
+                    {
+                        "designation": "tehsildar",
+                        "designation_name": "Tehsildar",
+                        "designation_name_hi": "तहसीलदार",
+                        "tehsil": "Kol",
+                        "tehsil_hi": "कोल",
+                        "mobile": "9454417656"
+                    },
+                    {
+                        "designation": "tehsildar",
+                        "designation_name": "Tehsildar",
+                        "designation_name_hi": "तहसीलदार",
+                        "tehsil": "Atrauli",
+                        "tehsil_hi": "अतरौली",
+                        "mobile": "9454417757"
+                    },
+                    {
+                        "designation": "tehsildar",
+                        "designation_name": "Tehsildar",
+                        "designation_name_hi": "तहसीलदार",
+                        "tehsil": "Iglas",
+                        "tehsil_hi": "इगलास",
+                        "mobile": "9454417658"
+                    },
+                    {
+                        "designation": "tehsildar",
+                        "designation_name": "Tehsildar",
+                        "designation_name_hi": "तहसीलदार",
+                        "tehsil": "Khair",
+                        "tehsil_hi": "खैर",
+                        "mobile": "9454417659"
+                    },
+                    {
+                        "designation": "tehsildar",
+                        "designation_name": "Tehsildar",
+                        "designation_name_hi": "तहसीलदार",
+                        "tehsil": "Gabhana",
+                        "tehsil_hi": "गभाना",
+                        "mobile": "9454417660"
+                    }
+                ]
+            },
+            {
+                "name": "Prayagraj",
+                "name_hi": "प्रयागराज",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417810"
+                    },
+                    {
+                        "designation": "tehsildar",
+                        "designation_name": "Tehsildar",
+                        "designation_name_hi": "तहसीलदार",
+                        "tehsil": "Sadar",
+                        "tehsil_hi": "सदर",
+                        "mobile": "9454417822"
+                    },
+                    {
+                        "designation": "tehsildar",
+                        "designation_name": "Tehsildar",
+                        "designation_name_hi": "तहसीलदार",
+                        "tehsil": "Soraon",
+                        "tehsil_hi": "सोरांव",
+                        "mobile": "9454417823"
+                    },
+                    {
+                        "designation": "tehsildar",
+                        "designation_name": "Tehsildar",
+                        "designation_name_hi": "तहसीलदार",
+                        "tehsil": "Phoolpur",
+                        "tehsil_hi": "फूलपुर",
+                        "mobile": "9454417824"
+                    },
+                    {
+                        "designation": "tehsildar",
+                        "designation_name": "Tehsildar",
+                        "designation_name_hi": "तहसीलदार",
+                        "tehsil": "Handiya",
+                        "tehsil_hi": "हंडिया",
+                        "mobile": "9454417825"
+                    },
+                    {
+                        "designation": "tehsildar",
+                        "designation_name": "Tehsildar",
+                        "designation_name_hi": "तहसीलदार",
+                        "tehsil": "Karchhana",
+                        "tehsil_hi": "करछना",
+                        "mobile": "9454417826"
+                    },
+                    {
+                        "designation": "tehsildar",
+                        "designation_name": "Tehsildar",
+                        "designation_name_hi": "तहसीलदार",
+                        "tehsil": "Bara",
+                        "tehsil_hi": "बारा",
+                        "mobile": "9454417827"
+                    },
+                    {
+                        "designation": "tehsildar",
+                        "designation_name": "Tehsildar",
+                        "designation_name_hi": "तहसीलदार",
+                        "tehsil": "Meza",
+                        "tehsil_hi": "मेजा",
+                        "mobile": "9454417828"
+                    },
+                    {
+                        "designation": "tehsildar",
+                        "designation_name": "Tehsildar",
+                        "designation_name_hi": "तहसीलदार",
+                        "tehsil": "Koraon",
+                        "tehsil_hi": "कोरांव",
+                        "mobile": "9454417829"
+                    }
+                ]
+            },
+            {
+                "name": "Lucknow",
+                "name_hi": "लखनऊ",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9415005003"
+                    },
+                    {
+                        "designation": "sdm",
+                        "designation_name": "Sub Divisional Magistrate",
+                        "designation_name_hi": "उप जिलाधिकारी",
+                        "tehsil": "Sadar",
+                        "tehsil_hi": "सदर",
+                        "mobile": "9454416490"
+                    },
+                    {
+                        "designation": "sdm",
+                        "designation_name": "Sub Divisional Magistrate",
+                        "designation_name_hi": "उप जिलाधिकारी",
+                        "tehsil": "Mohanlalganj",
+                        "tehsil_hi": "मोहनलालगंज",
+                        "mobile": "9454416491"
+                    },
+                    {
+                        "designation": "sdm",
+                        "designation_name": "Sub Divisional Magistrate",
+                        "designation_name_hi": "उप जिलाधिकारी",
+                        "tehsil": "Malihabad",
+                        "tehsil_hi": "मलिहाबाद",
+                        "mobile": "9454416492"
+                    },
+                    {
+                        "designation": "sdm",
+                        "designation_name": "Sub Divisional Magistrate",
+                        "designation_name_hi": "उप जिलाधिकारी",
+                        "tehsil": "Bakshi Ka Talab",
+                        "tehsil_hi": "बख्शी का तालाब",
+                        "mobile": "9454416493"
+                    },
+                    {
+                        "designation": "tehsildar",
+                        "designation_name": "Tehsildar",
+                        "designation_name_hi": "तहसीलदार",
+                        "tehsil": "Sadar",
+                        "tehsil_hi": "सदर",
+                        "mobile": "9454416494"
+                    },
+                    {
+                        "designation": "tehsildar",
+                        "designation_name": "Tehsildar",
+                        "designation_name_hi": "तहसीलदार",
+                        "tehsil": "Mohanlalganj",
+                        "tehsil_hi": "मोहनलालगंज",
+                        "mobile": "9454416495"
+                    },
+                    {
+                        "designation": "tehsildar",
+                        "designation_name": "Tehsildar",
+                        "designation_name_hi": "तहसीलदार",
+                        "tehsil": "Malihabad",
+                        "tehsil_hi": "मलिहाबाद",
+                        "mobile": "9454416496"
+                    },
+                    {
+                        "designation": "tehsildar",
+                        "designation_name": "Tehsildar",
+                        "designation_name_hi": "तहसीलदार",
+                        "tehsil": "Bakshi Ka Talab",
+                        "tehsil_hi": "बख्शी का तालाब",
+                        "mobile": "9454416497"
+                    }
+                ]
+            },
+            {
+                "name": "Kanpur Nagar",
+                "name_hi": "कानपुर नगर",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417625"
+                    },
+                    {
+                        "designation": "sdm",
+                        "designation_name": "Sub Divisional Magistrate",
+                        "designation_name_hi": "उप जिलाधिकारी",
+                        "tehsil": "Sadar",
+                        "tehsil_hi": "सदर",
+                        "mobile": "9454416438"
+                    },
+                    {
+                        "designation": "sdm",
+                        "designation_name": "Sub Divisional Magistrate",
+                        "designation_name_hi": "उप जिलाधिकारी",
+                        "tehsil": "Ghatampur",
+                        "tehsil_hi": "घाटमपुर",
+                        "mobile": "9454416439"
+                    },
+                    {
+                        "designation": "tehsildar",
+                        "designation_name": "Tehsildar",
+                        "designation_name_hi": "तहसीलदार",
+                        "tehsil": "Sadar",
+                        "tehsil_hi": "सदर",
+                        "mobile": "9454416440"
+                    },
+                    {
+                        "designation": "tehsildar",
+                        "designation_name": "Tehsildar",
+                        "designation_name_hi": "तहसीलदार",
+                        "tehsil": "Ghatampur",
+                        "tehsil_hi": "घाटमपुर",
+                        "mobile": "9454416441"
+                    }
+                ]
+            },
+            {
+                "name": "Varanasi",
+                "name_hi": "वाराणसी",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417650"
+                    },
+                    {
+                        "designation": "sdm",
+                        "designation_name": "Sub Divisional Magistrate",
+                        "designation_name_hi": "उप जिलाधिकारी",
+                        "tehsil": "Sadar",
+                        "tehsil_hi": "सदर",
+                        "mobile": "9454417040"
+                    },
+                    {
+                        "designation": "sdm",
+                        "designation_name": "Sub Divisional Magistrate",
+                        "designation_name_hi": "उप जिलाधिकारी",
+                        "tehsil": "Pindra",
+                        "tehsil_hi": "पिंड्रा",
+                        "mobile": "9454417039"
+                    },
+                    {
+                        "designation": "tehsildar",
+                        "designation_name": "Tehsildar",
+                        "designation_name_hi": "तहसीलदार",
+                        "tehsil": "Sadar",
+                        "tehsil_hi": "सदर",
+                        "mobile": "9454417042"
+                    },
+                    {
+                        "designation": "tehsildar",
+                        "designation_name": "Tehsildar",
+                        "designation_name_hi": "तहसीलदार",
+                        "tehsil": "Pindra",
+                        "tehsil_hi": "पिंड्रा",
+                        "mobile": "9454417041"
+                    }
+                ]
+            },
+            {
+                "name": "Ambedkar Nagar",
+                "name_hi": "अम्बेडकरनगर",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417610"
+                    }
+                ]
+            },
+            {
+                "name": "Amethi",
+                "name_hi": "अमेठी",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454418892"
+                    }
+                ]
+            },
+            {
+                "name": "Amroha",
+                "name_hi": "अमरोहा",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417642"
+                    }
+                ]
+            },
+            {
+                "name": "Auraiya",
+                "name_hi": "औरैया",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417621"
+                    }
+                ]
+            },
+            {
+                "name": "Azamgarh",
+                "name_hi": "आजमगढ़",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417592"
+                    }
+                ]
+            },
+            {
+                "name": "Badaun",
+                "name_hi": "बदांयू",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417596"
+                    }
+                ]
+            },
+            {
+                "name": "Baghpat",
+                "name_hi": "बागपत",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417633"
+                    }
+                ]
+            },
+            {
+                "name": "Bahraich",
+                "name_hi": "बहराइच",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417606"
+                    }
+                ]
+            },
+            {
+                "name": "Ballia",
+                "name_hi": "बलिया",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417593"
+                    }
+                ]
+            },
+            {
+                "name": "Balrampur",
+                "name_hi": "बलरामपुर",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417607"
+                    }
+                ]
+            },
+            {
+                "name": "Banda",
+                "name_hi": "बांदा",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417602"
+                    }
+                ]
+            },
+            {
+                "name": "Barabanki",
+                "name_hi": "बाराबंकी",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417611"
+                    }
+                ]
+            },
+            {
+                "name": "Bareilly",
+                "name_hi": "बरेली",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417595"
+                    }
+                ]
+            },
+            {
+                "name": "Basti",
+                "name_hi": "बस्ती",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417599"
+                    }
+                ]
+            },
+            {
+                "name": "Bijnor",
+                "name_hi": "बिजनौर",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417641"
+                    }
+                ]
+            },
+            {
+                "name": "Bulandshahr",
+                "name_hi": "बुलन्दशहर",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454419072"
+                    }
+                ]
+            },
+            {
+                "name": "Chandauli",
+                "name_hi": "चंदौली",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417647"
+                    }
+                ]
+            },
+            {
+                "name": "Chitrakoot",
+                "name_hi": "चित्रकूट",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417603"
+                    }
+                ]
+            },
+            {
+                "name": "Deoria",
+                "name_hi": "देवरिया",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417614"
+                    }
+                ]
+            },
+            {
+                "name": "Etah",
+                "name_hi": "एटा",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417585"
+                    }
+                ]
+            },
+            {
+                "name": "Etawah",
+                "name_hi": "इटावा",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417622"
+                    }
+                ]
+            },
+            {
+                "name": "Ayodhya",
+                "name_hi": "अयोध्या",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417612"
+                    }
+                ]
+            },
+            {
+                "name": "Farrukhabad",
+                "name_hi": "फर्रूखाबाद",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417623"
+                    }
+                ]
+            },
+            {
+                "name": "Fatehpur",
+                "name_hi": "फतेहपुर",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417589"
+                    }
+                ]
+            },
+            {
+                "name": "Firozabad",
+                "name_hi": "फिरोजाबाद",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417581"
+                    }
+                ]
+            },
+            {
+                "name": "Gautam Buddha Nagar",
+                "name_hi": "गौतमबुद्वनगर",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9910193610"
+                    }
+                ]
+            },
+            {
+                "name": "Ghazipur",
+                "name_hi": "गाजीपुर",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417648"
+                    }
+                ]
+            },
+            {
+                "name": "Ghaziabad",
+                "name_hi": "गाजियाबाद",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "8800235640"
+                    }
+                ]
+            },
+            {
+                "name": "Gonda",
+                "name_hi": "गोण्डा",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417608"
+                    }
+                ]
+            },
+            {
+                "name": "Gorakhpur",
+                "name_hi": "गोरखपुर",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417615"
+                    }
+                ]
+            },
+            {
+                "name": "Hamirpur",
+                "name_hi": "हमीरपुर",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417604"
+                    }
+                ]
+            },
+            {
+                "name": "Hathras",
+                "name_hi": "हाथरस",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417586"
+                    }
+                ]
+            },
+            {
+                "name": "Hapur",
+                "name_hi": "हापुड़",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "945444-9861"
+                    }
+                ]
+            },
+            {
+                "name": "Hardoi",
+                "name_hi": "हरदोई",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "945441-7627"
+                    }
+                ]
+            },
+            {
+                "name": "Jalaun",
+                "name_hi": "जलौन",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417619"
+                    }
+                ]
+            },
+            {
+                "name": "Jaunpur",
+                "name_hi": "जौनपुर",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417649"
+                    }
+                ]
+            },
+            {
+                "name": "Jhansi",
+                "name_hi": "झॉंसी",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417618"
+                    }
+                ]
+            },
+            {
+                "name": "Kannauj",
+                "name_hi": "कन्नौज",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417626"
+                    }
+                ]
+            },
+            {
+                "name": "Kanpur Dehat",
+                "name_hi": "कानपुर देहात",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417624"
+                    }
+                ]
+            },
+            {
+                "name": "Kasganj",
+                "name_hi": "कासगंज",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417587"
+                    }
+                ]
+            },
+            {
+                "name": "Kaushambi",
+                "name_hi": "कौशाम्बी",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417590"
+                    }
+                ]
+            },
+            {
+                "name": "Kushinagar",
+                "name_hi": "कुशीनगर",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417616"
+                    }
+                ]
+            },
+            {
+                "name": "Kheri",
+                "name_hi": "खीरी",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417629"
+                    }
+                ]
+            },
+            {
+                "name": "Lalitpur",
+                "name_hi": "ललितपुर",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417620"
+                    }
+                ]
+            },
+            {
+                "name": "Mahoba",
+                "name_hi": "महोबा",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417605"
+                    }
+                ]
+            },
+            {
+                "name": "Maharajganj",
+                "name_hi": "महाराजगंज",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417617"
+                    }
+                ]
+            },
+            {
+                "name": "Mainpuri",
+                "name_hi": "मैनपुरी",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417582"
+                    }
+                ]
+            },
+            {
+                "name": "Mathura",
+                "name_hi": "मथुरा",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417583"
+                    }
+                ]
+            },
+            {
+                "name": "Mau",
+                "name_hi": "मऊ",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417594"
+                    }
+                ]
+            },
+            {
+                "name": "Mirzapur",
+                "name_hi": "मिर्जापुर",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417638"
+                    }
+                ]
+            },
+            {
+                "name": "Meerut",
+                "name_hi": "मेरठ",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417637"
+                    }
+                ]
+            },
+            {
+                "name": "Moradabad",
+                "name_hi": "मुरादाबाद",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417643"
+                    }
+                ]
+            },
+            {
+                "name": "Muzaffarnagar",
+                "name_hi": "मुजफ्फरनगर",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417645"
+                    }
+                ]
+            },
+            {
+                "name": "Pilibhit",
+                "name_hi": "पीलीभीत",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417597"
+                    }
+                ]
+            },
+            {
+                "name": "Pratapgarh",
+                "name_hi": "प्रतापगढ्",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417591"
+                    }
+                ]
+            },
+            {
+                "name": "Raebareli",
+                "name_hi": "रायबरेली",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417630"
+                    }
+                ]
+            },
+            {
+                "name": "Rampur",
+                "name_hi": "रामपुर",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417644"
+                    }
+                ]
+            },
+            {
+                "name": "Saharanpur",
+                "name_hi": "सहारनपुर",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417646"
+                    }
+                ]
+            },
+            {
+                "name": "Sambhal",
+                "name_hi": "सम्भल",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454416862"
+                    }
+                ]
+            },
+            {
+                "name": "Sant Kabir Nagar",
+                "name_hi": "संतकबीरनगर",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417600"
+                    }
+                ]
+            },
+            {
+                "name": "Sant Ravidas Nagar",
+                "name_hi": "संतरविदास नगर",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417639"
+                    }
+                ]
+            },
+            {
+                "name": "Shahjahanpur",
+                "name_hi": "शांहजहांपुर",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417598"
+                    }
+                ]
+            },
+            {
+                "name": "Shamli",
+                "name_hi": "शामली",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454418995"
+                    }
+                ]
+            },
+            {
+                "name": "Shravasti",
+                "name_hi": "श्रावस्ती",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417609"
+                    }
+                ]
+            },
+            {
+                "name": "Siddharth Nagar",
+                "name_hi": "सिद्वार्थ नगर",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417601"
+                    }
+                ]
+            },
+            {
+                "name": "Sitapur",
+                "name_hi": "सीतापुर",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417631"
+                    }
+                ]
+            },
+            {
+                "name": "Sonbhadra",
+                "name_hi": "सोनभद्र",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417640"
+                    }
+                ]
+            },
+            {
+                "name": "Sultanpur",
+                "name_hi": "सुल्तानपुर",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417613"
+                    }
+                ]
+            },
+            {
+                "name": "Unnao",
+                "name_hi": "उन्नाव",
+                "contacts": [
+                    {
+                        "designation": "adm",
+                        "designation_name": "Additional District Magistrate (Finance & Revenue)",
+                        "designation_name_hi": "अपर जिलाधिकारी (वित्त एवं राजस्व)",
+                        "mobile": "9454417632"
+                    }
+                ]
+            }
+        ]
+    },
     "supportedApps": [
         {
             "title": "Chidiya Ud",
