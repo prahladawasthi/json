@@ -1,5 +1,5 @@
 {
-    "version": 1.1,
+    "version": 1.2,
     "questions": [
         {
             "id": "general_hindi_1",
@@ -7200,6 +7200,3006 @@
             ],
             "correctOptionIndex": 0,
             "subject": "Rural Development"
+        },
+        {
+            "id": "general_hindi_151",
+            "text": "राजा सेवक को कम्बल देता है, वाक्य में रेखांकित पद में कौन-सा कारक है?",
+            "options": [
+                "सम्बन्ध कारक",
+                "सम्प्रदान कारक",
+                "कर्ता कारक",
+                "कर्म कारक"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Hindi"
+        },
+        {
+            "id": "general_hindi_152",
+            "text": "तुलसी और सूर क्रमशः अवधी और ब्रजभाषा के श्रेष्ठ कवि हैं। (वाक्य शुद्धि चयन)",
+            "options": [
+                "तुलसी और सूर क्रमशः अवधी और ब्रजभाषा के श्रेष्ठ कवि हैं।",
+                "तुलसी अवधी के श्रेष्ठ कवि और ब्रजभाषा के सूर हैं।",
+                "तुलसी अवधी के श्रेष्ठ कवि हैं और सूर ब्रजभाषी हैं।",
+                "तुलसी और सूर अवधी और ब्रजभाषी के श्रेष्ठ कवि हैं।"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "General Hindi"
+        },
+        {
+            "id": "general_hindi_153",
+            "text": "वाक्य का चयन कीजिए:",
+            "options": [
+                "जीवन और साहित्य का घनिष्ठ सम्बन्ध है।",
+                "जीवन और साहित्य का निकट सम्बन्ध है।",
+                "जीवन और साहित्य का घोर सम्बन्ध है।",
+                "जीवन और साहित्य का अगाध सम्बन्ध है।"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "General Hindi"
+        },
+        {
+            "id": "general_hindi_154",
+            "text": "\"खिसियानी बिल्ली खंभा नोचे\" मुहावरे का अर्थ है:",
+            "options": [
+                "किसी बात पर शर्मिंदा होकर क्रोध करना",
+                "अपनी शर्म छिपाने के लिए व्यर्थ झुंझलाना",
+                "अपने से बड़ों पर क्रोध करना",
+                "कायरतापूर्ण व्यवहार करना"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "General Hindi"
+        },
+        {
+            "id": "general_hindi_155",
+            "text": "\"काठ की हाँडी बार-बार नहीं चढ़ती\" लोकोक्ति का अर्थ है:",
+            "options": [
+                "छल-कपट का व्यवहार हमेशा नहीं चलता",
+                "लकड़ी का बर्तन अग्नि से जल सकता है",
+                "दुर्भाग्य की मार बार-बार नहीं होती",
+                "बुरे दिन हमेशा नहीं रहते"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "General Hindi"
+        },
+        {
+            "id": "general_hindi_156",
+            "text": "रिक्त स्थान की पूर्ति: उसका हृदय इतना कोमल है कि मित्र तो क्या वह अपने ______ को भी चोट नहीं पहुँचा सकता।",
+            "options": [
+                "प्रतिरोधी",
+                "शत्रु",
+                "सहयोगी",
+                "विपक्षी"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Hindi"
+        },
+        {
+            "id": "general_hindi_157",
+            "text": "रिक्त स्थान की पूर्ति: देश-रक्षा के लिए प्रत्येक नागरिक को ______ रहना चाहिए।",
+            "options": [
+                "उद्यत",
+                "उद्धृत",
+                "प्रबुद्ध",
+                "सम्बद्ध"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "General Hindi"
+        },
+        {
+            "id": "general_hindi_158",
+            "text": "\"कृश\" शब्द का विलोम चुनें:",
+            "options": [
+                "भव",
+                "विटप",
+                "हृष्ट-पुष्ट",
+                "केश"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Hindi"
+        },
+        {
+            "id": "general_hindi_159",
+            "text": "\"अल्पज्ञ\" शब्द का विलोम चुनें:",
+            "options": [
+                "कृतज्ञ",
+                "सर्वज्ञ",
+                "अभिज्ञ",
+                "अवज्ञ"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Hindi"
+        },
+        {
+            "id": "general_hindi_160",
+            "text": "\"अरविंद\" शब्द का पर्यायवाची शब्द बताइए।",
+            "options": [
+                "गुलाब",
+                "कल्पवृक्ष",
+                "केवड़ा",
+                "कमल"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Hindi"
+        },
+        {
+            "id": "general_hindi_161",
+            "text": "\"खूँटी\" शब्द का बहुवचन बताइए।",
+            "options": [
+                "खूँटियों",
+                "खूंटिया",
+                "खूँटियौं",
+                "खूंटियाँ"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Hindi"
+        },
+        {
+            "id": "general_hindi_162",
+            "text": "अनेकार्थी शब्द 'अज-अजन्मा' का दूसरा अर्थ बताइए।",
+            "options": [
+                "ईश्वर",
+                "आजन्म",
+                "निर्भीक",
+                "आजीवन"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "General Hindi"
+        },
+        {
+            "id": "general_hindi_163",
+            "text": "निम्नलिखित में से कौन-सा शब्द वर्तनी की दृष्टि से शुद्ध है?",
+            "options": [
+                "प्रतिनिधी",
+                "प्रतिनिधि",
+                "प्रतिनीधी",
+                "प्रतिनीधि"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Hindi"
+        },
+        {
+            "id": "general_hindi_164",
+            "text": "वाक्यांश के लिए एक शब्द: \"पर्वत की तलहटी\"",
+            "options": [
+                "उपत्यका",
+                "द्रोण",
+                "बेसिन",
+                "घाटी"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "General Hindi"
+        },
+        {
+            "id": "general_hindi_165",
+            "text": "वाक्यांश के लिए एक शब्द: \"कंजूसी से धन व्यय करने वाला\"",
+            "options": [
+                "अल्पव्ययी",
+                "कृपण",
+                "मसृण",
+                "मितव्ययी"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Hindi"
+        },
+        {
+            "id": "general_hindi_166",
+            "text": "निम्नलिखित में से कौन-सा तद्भव शब्द है?",
+            "options": [
+                "उलूक",
+                "इष्टिका",
+                "कुपुत्र",
+                "अमिय"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Hindi"
+        },
+        {
+            "id": "general_hindi_167",
+            "text": "\"अम्बर-पनघट में डुबो रही, तारा-घट ऊषा-नागरी।\" में कौन-सा अलंकार है?",
+            "options": [
+                "उपमा",
+                "अनुप्रास",
+                "श्लेष",
+                "रूपक"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Hindi"
+        },
+        {
+            "id": "general_hindi_168",
+            "text": "\"निर्धन\" में कौन-सी संधि है?",
+            "options": [
+                "विसर्ग संधि",
+                "अयादि संधि",
+                "यण संधि",
+                "व्यंजन संधि"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "General Hindi"
+        },
+        {
+            "id": "general_hindi_169",
+            "text": "\"देशांतर\" में कौन-सा समास है?",
+            "options": [
+                "द्वंद्व",
+                "कर्मधारय",
+                "बहुव्रीहि",
+                "द्विगु"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Hindi"
+        },
+        {
+            "id": "general_hindi_170",
+            "text": "\"मैं खाना खा चुका था\", इस वाक्य में कौन-सा भूतकालिक भेद है?",
+            "options": [
+                "पूर्ण भूत",
+                "आसन्न भूत",
+                "संदिग्ध भूत",
+                "सामान्य भूत"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "General Hindi"
+        },
+        {
+            "id": "general_hindi_171",
+            "text": "करुण रस का स्थायी भाव क्या है?",
+            "options": [
+                "हास्य",
+                "उत्साह",
+                "शोक",
+                "रति"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Hindi"
+        },
+        {
+            "id": "general_hindi_172",
+            "text": "\"ठठेरा\" शब्द का लिंग परिवर्तित कीजिए।",
+            "options": [
+                "ठठारी",
+                "ठठेरिन",
+                "ठठेरिनी",
+                "ठठेरी"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Hindi"
+        },
+        {
+            "id": "general_hindi_173",
+            "text": "त्रुटि पहचानें: \"विद्यालय में (A) / जलपान को (B) / उत्तम प्रबंध है (C) / कोई त्रुटि नहीं (D)\"",
+            "options": [
+                "विद्यालय में",
+                "जलपान को",
+                "उत्तम प्रबंध है",
+                "कोई त्रुटि नहीं"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Hindi"
+        },
+        {
+            "id": "general_hindi_174",
+            "text": "त्रुटि पहचानें: \"मुझे (A) / रेलगाड़ी में यात्रा करना (B) / अच्छी लगती है (C) / कोई त्रुटि नहीं (D)\"",
+            "options": [
+                "मुझे",
+                "रेलगाड़ी में यात्रा करना",
+                "अच्छी लगती है",
+                "कोई त्रुटि नहीं"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Hindi"
+        },
+        {
+            "id": "general_hindi_175",
+            "text": "निम्नलिखित में से कौन-सा शब्द तत्सम है?",
+            "options": [
+                "आग",
+                "आज",
+                "आँख",
+                "अग्र"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Hindi"
+        },
+        {
+            "id": "mathematics_151",
+            "text": "The perimeter of a triangular field is 540 metres and the ratio of its sides is 5:12:13. What will be the area of this field?",
+            "options": [
+                "9720 sq. metre",
+                "9320 sq. metre",
+                "9450 sq. metre",
+                "9560 sq. metre"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_152",
+            "text": "The sum of three numbers is 392. If the ratio of first number to second number is 2:3 and the ratio of second number to third number is 5:8, then the third number is:",
+            "options": [
+                "120",
+                "176",
+                "192",
+                "162"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_153",
+            "text": "What least fraction must be subtracted from the square root of 930.25 so that the result is a whole number?",
+            "options": [
+                "1/2",
+                "1/6",
+                "4/3",
+                "2/3"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_154",
+            "text": "300 gm of sugar solution has 40% sugar in it. How much sugar should be added to make it 50% in the solution?",
+            "options": [
+                "40 gm",
+                "60 gm",
+                "25 gm",
+                "45 gm"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_155",
+            "text": "The radius of a wheel is 21 cm. How many rounds will it take to cover the distance of 792 metres?",
+            "options": [
+                "300",
+                "400",
+                "600",
+                "200"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_156",
+            "text": "The prices of a scooter and a moped are in the ratio of 9:5. If a scooter costs ₹ 4,200 more than a moped, then the price of the moped is:",
+            "options": [
+                "₹ 5,250",
+                "₹ 5,700",
+                "₹ 6,300",
+                "₹ 3,350"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_157",
+            "text": "Which fraction should be added to the sum of 5 3/4, 4 4/5 and 7 3/8 to make the result a whole number?",
+            "options": [
+                "1/20",
+                "1/40",
+                "3/40",
+                "1/10"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_158",
+            "text": "If 27^x = 9/3^x, then what is the value of 1/x^4?",
+            "options": [
+                "16",
+                "4",
+                "10",
+                "8"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_159",
+            "text": "If the circumference of a circle is 18.6 cm more than its diameter, then what is the diameter of the circle?",
+            "options": [
+                "7.84 cm",
+                "8.68 cm",
+                "8.84 cm",
+                "7.54 cm"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_160",
+            "text": "The HCF and LCM of two numbers are 12 and 2448 respectively. If the difference of the numbers is 60, then the sum of the numbers is:",
+            "options": [
+                "284",
+                "248",
+                "204",
+                "348"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_161",
+            "text": "A man buys 10 articles for ₹ 8 and sells them at the rate of ₹ 1.25 per article. His gain percent is:",
+            "options": [
+                "19 1/2 %",
+                "50%",
+                "56 1/4 %",
+                "20%"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_162",
+            "text": "The perimeter of a top surface of a rectangular table is 28 m and its area is 48 m^2. What is the length of the hypotenuse of the table?",
+            "options": [
+                "12 m",
+                "12.5 m",
+                "5 m",
+                "10 m"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_163",
+            "text": "The price of a car is increased by 30% before the budget and in the budget it is increased again by 10%. The total percentage increase in the price of the car is:",
+            "options": [
+                "41%",
+                "44%",
+                "43%",
+                "42%"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_164",
+            "text": "A sum of money doubles itself in 10 years at simple interest. What is the rate of interest?",
+            "options": [
+                "12%",
+                "10%",
+                "25%",
+                "14%"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_165",
+            "text": "The difference between a number obtained by increasing a certain number by 8% and that obtained by diminishing it by 3% is 407. The original number is:",
+            "options": [
+                "3600",
+                "3700",
+                "3400",
+                "3500"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_166",
+            "text": "The perimeter of a triangle is 30 cm and its area is 30 cm^2. If the length of the largest side of the triangle is 13 cm, then what is the smallest side of the triangle?",
+            "options": [
+                "3 cm",
+                "5 cm",
+                "6 cm",
+                "4 cm"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_167",
+            "text": "If the interest on a sum of money be 1 paisa per rupee per month, what is the rate per cent per annum?",
+            "options": [
+                "15%",
+                "10 1/2 %",
+                "12%",
+                "10%"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_168",
+            "text": "In Triangle ABC, if Angle A = 90 deg, a = 25 cm, b = 7 cm, then what is the value of tan B?",
+            "options": [
+                "7/24",
+                "24/7",
+                "24/25",
+                "7/25"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_169",
+            "text": "The standard deviation of a set of 50 observations is 8. If each observation is multiplied by 2, then the value of standard deviation will be:",
+            "options": [
+                "4",
+                "8",
+                "16",
+                "2"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_170",
+            "text": "A man travelled 2/11 of his journey by train, 17/22 by car and walked the remaining 1 kilometre. How far did he go?",
+            "options": [
+                "22 km",
+                "24 km",
+                "33 km",
+                "27 km"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_171",
+            "text": "For what value of x will the mode of the following data be 27? 25, 26, 27, 23, 27, 26, 24, x, 27, 26, 25, 25",
+            "options": [
+                "25",
+                "26",
+                "27",
+                "24"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_172",
+            "text": "A man is twice as fast as a woman and a woman is twice as fast as a boy. If all of them i.e., a man, a woman and a boy can finish a work together in 4 days, in how many days will a boy do it alone?",
+            "options": [
+                "14 days",
+                "28 days",
+                "7 days",
+                "21 days"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_173",
+            "text": "While computing mean of grouped data, we assume the frequencies are:",
+            "options": [
+                "centred at the class marks of the classes",
+                "centred at the upper limits of the classes",
+                "centred at the lower limits of the classes",
+                "evenly distributed over all the classes"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_174",
+            "text": "The sum of mean and median of 1, 6, 8, 3, 2 is:",
+            "options": [
+                "7",
+                "10",
+                "12",
+                "6"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_175",
+            "text": "In a mixture of 60 litres, the ratio of acid and water is 2:1. What amount of water must be added to make the ratio of acid and water as 1:2?",
+            "options": [
+                "52 litres",
+                "60 litres",
+                "72 litres",
+                "44 litres"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "general_knowledge_151",
+            "text": "The minimum age limit for becoming a candidate for Lok Sabha elections is:",
+            "options": [
+                "20 years",
+                "30 years",
+                "25 years",
+                "18 years"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_152",
+            "text": "Soft Bank, ______ and Foxconn Technology Group have formed a joint venture, SBG Cleantech which will invest around $20 billion over 10 years into green energy projects.",
+            "options": [
+                "Bharti Enterprises",
+                "Adani Limited",
+                "Tata Group",
+                "Reliance Industries"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_153",
+            "text": "Oxygen in our blood is transported by a protein named:",
+            "options": [
+                "keratin",
+                "collagen",
+                "myoglobin",
+                "haemoglobin"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_154",
+            "text": "Which country won the Copa America 2015?",
+            "options": [
+                "Brazil",
+                "Peru",
+                "Chile",
+                "Argentina"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_155",
+            "text": "The Direct Action Day on August 16, 1946 was observed by the:",
+            "options": [
+                "Sikh League",
+                "Hindu League",
+                "Muslim League",
+                "Christian League"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_156",
+            "text": "The Chauri-Chaura incident took place on:",
+            "options": [
+                "5 May, 1922",
+                "13 March, 1922",
+                "5 February, 1922",
+                "3 March, 1922"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_157",
+            "text": "The most electronegative element among the following is:",
+            "options": [
+                "Bromine",
+                "Fluorine",
+                "Oxygen",
+                "Sodium"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_158",
+            "text": "What does NPP stand for?",
+            "options": [
+                "National Population Project",
+                "National Population Policy",
+                "National Population Production",
+                "National Population Programme"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_159",
+            "text": "India's highest annual rainfall is reported at:",
+            "options": [
+                "Chamba, Himachal Pradesh",
+                "Namchi, Sikkim",
+                "Churu, Rajasthan",
+                "Mawsynram, Meghalaya"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_160",
+            "text": "In the fourth week of June 2015, a pact on waste management was signed between two entrepreneurs and several civic bodies in:",
+            "options": [
+                "Assam",
+                "Gujarat",
+                "Maharashtra",
+                "Kerala"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_161",
+            "text": "Who was selected recently as the president of International Cricket Council (in 2015)?",
+            "options": [
+                "N. Srinivasan",
+                "Zaheer Abbas",
+                "Mustafa Kamal",
+                "Jagmohan Dalmiya"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_162",
+            "text": "What was the main aim of Civil Disobedience Movement?",
+            "options": [
+                "Against salt tax",
+                "Against August statement",
+                "Against Round Table Conference",
+                "The reactionist approach of Winston Churchill"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_163",
+            "text": "The property of a substance to absorb moisture from air on exposure is called:",
+            "options": [
+                "Efflorescence",
+                "Deliquescence",
+                "Desiccation",
+                "Osmosis"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_164",
+            "text": "What is international migration?",
+            "options": [
+                "Movement of people from one village to another",
+                "Movement of people between/among countries",
+                "Movement of people from urban to rural areas",
+                "Movement of people within a country"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_165",
+            "text": "The Southernmost point of peninsular India, Kanyakumari is situated:",
+            "options": [
+                "South of the Equator",
+                "South of the Tropic of Capricorn",
+                "North of the Equator",
+                "North of Tropic of Cancer"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_166",
+            "text": "The place where the last Mughal emperor Bahadurshah Zafar died was:",
+            "options": [
+                "Delhi",
+                "Rangoon",
+                "Gwalior",
+                "Agra"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_167",
+            "text": "Development expenditure of the Central Government does not include:",
+            "options": [
+                "expenditure on economic services",
+                "expenditure on social and community services",
+                "grant to States",
+                "defence expenditure"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_168",
+            "text": "What was the name given for the rescue operations conducted by the Indian Government during Nepal Earthquake Tragedy?",
+            "options": [
+                "Operation Maitri",
+                "Operation Nepal",
+                "Operation Abhaya",
+                "Operation Sahay"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_169",
+            "text": "Who among the following has a Cabinet rank?",
+            "options": [
+                "The Attorney General of India",
+                "The Leader of the Opposition",
+                "The Governor of the Reserve Bank of India",
+                "The Comptroller and Auditor General of India"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_170",
+            "text": "The refineries at Mathura, Digboi and Panipat are set up by:",
+            "options": [
+                "Hindustan Petroleum Corporation Ltd.",
+                "Bharat Petroleum Corporation Ltd.",
+                "Crude Distillation unit of Madras Refineries Ltd.",
+                "Indian Oil Corporation Ltd."
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_171",
+            "text": "Which of the following committees suggested to incorporate Fundamental Duties in the Constitution?",
+            "options": [
+                "Swaran Singh Committee",
+                "Malhotra Committee",
+                "Narsimhan Committee",
+                "Raghavan Committee"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_172",
+            "text": "Pulses are a good source of:",
+            "options": [
+                "Fats",
+                "Proteins",
+                "Vitamins",
+                "Carbohydrates"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_173",
+            "text": "It is easier to roll a stone up a sloping road than to lift it vertically upwards because:",
+            "options": [
+                "work done in lifting the stone is equal to rolling it.",
+                "work done in rolling the stone is less than in lifting it.",
+                "work done in both is same but the rate of doing work is less in rolling.",
+                "work done in rolling the stone is more than in lifting it."
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_174",
+            "text": "What is known as the \"Soul of the Constitution\"?",
+            "options": [
+                "Fundamental Rights",
+                "Directive Principles of State Policy",
+                "National Flag",
+                "Preamble"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_175",
+            "text": "The Satpatha Brahmana and Taitriya Brahmana are Brahmana texts of:",
+            "options": [
+                "Yajurveda",
+                "Samaveda",
+                "Atharvaveda",
+                "Rigveda"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "rural_development_151",
+            "text": "What is Uttar Pradesh's rank among the States of India in terms of area?",
+            "options": [
+                "Third",
+                "Fourth",
+                "Fifth",
+                "Second"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "Rural Development"
+        },
+        {
+            "id": "rural_development_152",
+            "text": "What is the level of annual family income set in the Ninth Five-Year Plan (1997-2002), for BPL in rural areas?",
+            "options": [
+                "₹ 18,000",
+                "₹ 25,000",
+                "₹ 28,000",
+                "₹ 20,000"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "Rural Development"
+        },
+        {
+            "id": "rural_development_153",
+            "text": "MGNREGA was launched in Uttar Pradesh in which year?",
+            "options": [
+                "2006",
+                "2007",
+                "2008",
+                "2005"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "Rural Development"
+        },
+        {
+            "id": "rural_development_154",
+            "text": "The social forestry programme aims at large-scale tree plantation in all the following areas except:",
+            "options": [
+                "in degraded forest reserves",
+                "on common lands unsuitable for cropping",
+                "in urban industrial estates",
+                "along roads and railway tracks"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "Rural Development"
+        },
+        {
+            "id": "rural_development_155",
+            "text": "Where are the major rail locomotive plants located in Uttar Pradesh?",
+            "options": [
+                "Kanpur region",
+                "Aligarh region",
+                "Fatehpur region",
+                "Mughalsarai region"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "Rural Development"
+        },
+        {
+            "id": "rural_development_156",
+            "text": "Which division is considered as the hub of the world's finest carpet industries?",
+            "options": [
+                "Devipatan",
+                "Aligarh",
+                "Azamgarh",
+                "Mirzapur"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "Rural Development"
+        },
+        {
+            "id": "rural_development_157",
+            "text": "What is meant by Jamabandi?",
+            "options": [
+                "Cloth copy of Patwari's Map",
+                "Cultivation record",
+                "Mapping sheet",
+                "Rights of Land Records"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "Rural Development"
+        },
+        {
+            "id": "rural_development_158",
+            "text": "Which website has been designed and developed to keep the financial health of the State of Uttar Pradesh and to bring transparency into Government transactions?",
+            "options": [
+                "Srishti",
+                "NIC",
+                "Arthashastra",
+                "Koshvani"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "Rural Development"
+        },
+        {
+            "id": "rural_development_159",
+            "text": "Which classical dance form originated in Uttar Pradesh?",
+            "options": [
+                "Bharat Natyam",
+                "Kuchipudi",
+                "Ghoomar",
+                "Kathak"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "Rural Development"
+        },
+        {
+            "id": "rural_development_160",
+            "text": "Under the National Rural Drinking Water Programme (NRDWP), by 2022 every rural person in the country should have access to how many litres per capita per day of water within their household premises or at a horizontal or vertical distance of not more than 50 metres from their household?",
+            "options": [
+                "70",
+                "80",
+                "100",
+                "60"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "Rural Development"
+        },
+        {
+            "id": "rural_development_161",
+            "text": "As per the Census of India 2011, the population density per square kilometer of Uttar Pradesh is:",
+            "options": [
+                "720",
+                "829",
+                "920",
+                "620"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "Rural Development"
+        },
+        {
+            "id": "rural_development_162",
+            "text": "In November 2014, the Uttar Pradesh government made a provision of ₹ ______ crores for construction of toilets in rural areas under Swachh Bharat Mission (rural).",
+            "options": [
+                "315",
+                "556",
+                "685",
+                "123"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "Rural Development"
+        },
+        {
+            "id": "rural_development_163",
+            "text": "How many major divisions does Uttar Pradesh have along with 75 districts?",
+            "options": [
+                "23",
+                "27",
+                "32",
+                "18"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "Rural Development"
+        },
+        {
+            "id": "rural_development_164",
+            "text": "In which year was the Uttar Pradesh Roadside Land Control Act passed?",
+            "options": [
+                "1947",
+                "1952",
+                "1956",
+                "1945"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "Rural Development"
+        },
+        {
+            "id": "rural_development_165",
+            "text": "What is the frequency of checks expected to be done under the Mid-day Meal Programme, for monitoring of cleanliness in cooking, serving and consumption?",
+            "options": [
+                "Fortnightly",
+                "Daily",
+                "Quarterly",
+                "Weekly"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "Rural Development"
+        },
+        {
+            "id": "rural_development_166",
+            "text": "What is the percentage unit cost and maximum amount of subsidy available under Ambedkar Vishesh Rozgar Yojana (AVRY) for general category beneficiaries?",
+            "options": [
+                "33%, ₹ 10,000",
+                "25%, ₹ 7,500",
+                "33%, ₹ 7,500",
+                "25%, ₹ 10,000"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "Rural Development"
+        },
+        {
+            "id": "rural_development_167",
+            "text": "What percentage of seats must be reserved for women in a gram panchayat?",
+            "options": [
+                "20%",
+                "33%",
+                "50%",
+                "10%"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "Rural Development"
+        },
+        {
+            "id": "rural_development_168",
+            "text": "Which one among the following serves as the subordinate judicial service of the State of Uttar Pradesh?",
+            "options": [
+                "The district court of Etawah",
+                "The district court of Chandauli",
+                "The district court of Pilibhit",
+                "The district court of Banda"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "Rural Development"
+        },
+        {
+            "id": "rural_development_169",
+            "text": "During British rule which official did the registration of land in Uttar Pradesh?",
+            "options": [
+                "Kazi",
+                "Governor",
+                "Clerk",
+                "Lekhapal"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "Rural Development"
+        },
+        {
+            "id": "rural_development_170",
+            "text": "How many seats in the Rajya Sabha are from Uttar Pradesh?",
+            "options": [
+                "31",
+                "62",
+                "29",
+                "40"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "Rural Development"
+        },
+        {
+            "id": "rural_development_171",
+            "text": "Which scheme was launched with a view to benefit BPL families who have been left out of the BPL lists?",
+            "options": [
+                "Prime Minister Rozgar Yojana",
+                "Samajwadi Pension Scheme",
+                "Mukhya Mantri Mahamaya Gareeb Arthik Madad Yojana",
+                "Samajwadi Awaas Yojana"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "Rural Development"
+        },
+        {
+            "id": "rural_development_172",
+            "text": "Which type of mills does Uttar Pradesh have in the highest number?",
+            "options": [
+                "Sugar",
+                "Rice",
+                "Steel rolling",
+                "Cloth"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "Rural Development"
+        },
+        {
+            "id": "rural_development_173",
+            "text": "The full form of SGSY is:",
+            "options": [
+                "Swarnjayanti Gramin Seva Yojana",
+                "Swarnjayanti Gram Swarozgar Yojana",
+                "Swarnjayanti Gram Sadak Yojana",
+                "Swarnjayanti Gram Suraksha Yojana"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "Rural Development"
+        },
+        {
+            "id": "rural_development_174",
+            "text": "The sex ratio in Uttar Pradesh has moved from 898 in year 2001 to ______ in year 2011.",
+            "options": [
+                "922",
+                "925",
+                "930",
+                "912"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "Rural Development"
+        },
+        {
+            "id": "rural_development_175",
+            "text": "One bigha in Central India is equal to how many hectares?",
+            "options": [
+                "0.3058 hectare",
+                "0.2529 hectare",
+                "0.4425 hectare",
+                "0.2025 hectare"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "Rural Development"
+        },
+        {
+            "id": "general_intelligence_1",
+            "text": "यदि PRICE को कूट में SVNIL लिखते हैं, तो उसी कूट में COST को कैसे लिखेंगे?",
+            "options": [
+                "FXSZ",
+                "FSXZ",
+                "FSWY",
+                "FTWZ"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Intelligence"
+        },
+        {
+            "id": "general_intelligence_2",
+            "text": "यदि '×' का अर्थ है भाग, '−' का अर्थ है जमा, '÷' का अर्थ है गुणा तथा '+' का अर्थ है घटा, तो (14−6÷18)×6 का मान क्या है?",
+            "options": [
+                "107",
+                "17",
+                "104",
+                "15"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Intelligence"
+        },
+        {
+            "id": "general_intelligence_3",
+            "text": "यदि '−' का अर्थ है भाग, '+' का अर्थ है गुणा, '÷' का अर्थ है घटा तथा '×' का अर्थ है जमा, तो 20−5+6÷4×6 का मान है:",
+            "options": [
+                "26",
+                "35",
+                "16",
+                "32"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "General Intelligence"
+        },
+        {
+            "id": "general_intelligence_4",
+            "text": "यदि '+' का अर्थ है भाग, '÷' का अर्थ है गुणा, '×' का अर्थ है घटा तथा '−' का अर्थ है जमा, तो (120+6×10)−10÷5 का मान क्या है?",
+            "options": [
+                "125",
+                "135",
+                "75",
+                "105"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Intelligence"
+        },
+        {
+            "id": "general_intelligence_5",
+            "text": "PERPENDICULARITY शब्द के अक्षरों का प्रयोग करके निम्न में से कौन-सा शब्द नहीं बनाया जा सकता?",
+            "options": [
+                "REPAINT",
+                "TYPIER",
+                "DICTIONARY",
+                "TYPICAL"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Intelligence"
+        },
+        {
+            "id": "general_intelligence_6",
+            "text": "NATURALIZATION शब्द के अक्षरों का प्रयोग करके निम्न में से कौन-सा शब्द नहीं बनाया जा सकता?",
+            "options": [
+                "TURN",
+                "NATION",
+                "NATURAL",
+                "RURAL"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Intelligence"
+        },
+        {
+            "id": "general_intelligence_7",
+            "text": "IMPERISHABLE शब्द के अक्षरों का प्रयोग करके निम्न में से कौन-सा शब्द नहीं बनाया जा सकता?",
+            "options": [
+                "IMPERIAL",
+                "PERISH",
+                "PERSON",
+                "ABLE"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Intelligence"
+        },
+        {
+            "id": "general_intelligence_8",
+            "text": "निम्न श्रृंखला की विलुप्त कड़ी का पता लगाएँ: ABZY, CDXW, EFVU, ?",
+            "options": [
+                "MALB",
+                "KCJD",
+                "IHGF",
+                "GHTS"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Intelligence"
+        },
+        {
+            "id": "general_intelligence_9",
+            "text": "निम्न श्रृंखला की विलुप्त कड़ी का पता लगाएँ: ZAB, YCD, XEF, ?",
+            "options": [
+                "WGH",
+                "IUV",
+                "JST",
+                "KQR"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "General Intelligence"
+        },
+        {
+            "id": "general_intelligence_10",
+            "text": "निम्न श्रृंखला की विलुप्त कड़ी का पता लगाएँ: CEHL, DFIM, EGJN, ?",
+            "options": [
+                "KLPO",
+                "IJRQ",
+                "FHKO",
+                "LMON"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Intelligence"
+        },
+        {
+            "id": "general_intelligence_11",
+            "text": "विलुप्त संख्या की पूर्ति करें (मैट्रिक्स में प्रश्न चिह्न के स्थान पर):",
+            "options": [
+                "15",
+                "12",
+                "9",
+                "18"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Intelligence"
+        },
+        {
+            "id": "general_intelligence_12",
+            "text": "विलुप्त संख्या की पूर्ति करें (वृत्त आरेख में प्रश्न चिह्न के स्थान पर):",
+            "options": [
+                "5",
+                "7",
+                "9",
+                "3"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Intelligence"
+        },
+        {
+            "id": "general_intelligence_13",
+            "text": "विलुप्त संख्या की पूर्ति करें (स्टार आरेख में प्रश्न चिह्न के स्थान पर):",
+            "options": [
+                "594",
+                "459",
+                "949",
+                "549"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Intelligence"
+        },
+        {
+            "id": "general_intelligence_14",
+            "text": "प्रश्न आकृति की दर्पण आकृति क्या होगी यदि दर्पण XY पर रखा हो?",
+            "options": [
+                "आकृति A",
+                "आकृति B",
+                "आकृति C",
+                "आकृति D"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Intelligence"
+        },
+        {
+            "id": "general_intelligence_15",
+            "text": "प्रश्न आकृति की दर्पण आकृति क्या होगी यदि दर्पण XY पर रखा हो?",
+            "options": [
+                "आकृति A",
+                "आकृति B",
+                "आकृति C",
+                "आकृति D"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Intelligence"
+        },
+        {
+            "id": "general_intelligence_16",
+            "text": "कौन-सी उत्तर आकृति में प्रश्न आकृति के विशिष्ट तत्त्व विद्यमान हैं?",
+            "options": [
+                "आकृति A",
+                "आकृति B",
+                "आकृति C",
+                "आकृति D"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Intelligence"
+        },
+        {
+            "id": "general_intelligence_17",
+            "text": "किसी पासे की चार स्थितियाँ नीचे दर्शाई गई हैं। यदि पासे की ऊपर की संख्या 2 है, तो पासे की निचली संख्या का पता लगाएँ:",
+            "options": [
+                "6",
+                "4",
+                "3",
+                "1"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "General Intelligence"
+        },
+        {
+            "id": "general_intelligence_18",
+            "text": "केले तथा नारियल के पेड़ की ऊँचाई एकसमान है। आम का पेड़, खजूर के पेड़ से छोटा है। अमरूद का पेड़, आम के पेड़ से छोटा है लेकिन केले के पेड़ से बड़ा है। सबसे ऊँचा पेड़ कौन-सा है?",
+            "options": [
+                "आम",
+                "केला",
+                "नारियल",
+                "खजूर"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Intelligence"
+        },
+        {
+            "id": "general_intelligence_19",
+            "text": "दो भाइयों की आयु के बीच का अंतर उतना ही है जितना उनके माता-पिता की आयु का अंतर है। बड़े भाई की आयु 25 वर्ष है। छोटे भाई के जन्म के समय उनकी माँ की आयु 32 वर्ष थी। यदि पिता की आयु माँ की आयु से 5 वर्ष अधिक हो, तो पिता की आयु उसके बड़े बेटे के जन्म के समय क्या थी?",
+            "options": [
+                "55 वर्ष",
+                "32 वर्ष",
+                "31 वर्ष",
+                "57 वर्ष"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Intelligence"
+        },
+        {
+            "id": "general_intelligence_20",
+            "text": "यदि किसी मास के 11वें दिन शनिवार हो, तो उसी मास की 27 तारीख को कौन-सा दिन आएगा?",
+            "options": [
+                "सोमवार",
+                "शनिवार",
+                "शुक्रवार",
+                "रविवार"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "General Intelligence"
+        },
+        {
+            "id": "general_intelligence_21",
+            "text": "कुछ पुस्तकें एक पंक्ति में लगी हैं। दायीं ओर से 21वीं पुस्तक और बायीं ओर से 28वीं पुस्तक के बीच 5 पुस्तकें हैं। पुस्तकों की कुल संख्या 42 से अधिक है। पुस्तकों की कुल संख्या ज्ञात करें।",
+            "options": [
+                "44",
+                "49",
+                "52",
+                "54"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Intelligence"
+        },
+        {
+            "id": "general_intelligence_22",
+            "text": "123456789 और 987654321 में महत्तम सामान्य भाजक है:",
+            "options": [
+                "5",
+                "3",
+                "9",
+                "9 से अधिक"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Intelligence"
+        },
+        {
+            "id": "general_intelligence_23",
+            "text": "एक यांत्रिक दादा घड़ी इस समय 7 घण्टा 40 मिनट 6 सेकन्ड दिखा रही है। मान लिया जाय कि यह हरेक घण्टे में 4 सेकन्ड खो देती है, तो ठीक 6½ घण्टे बाद यह घड़ी क्या समय दिखायेगी?",
+            "options": [
+                "14 घण्टा 9 मिनट 40 सेकन्ड",
+                "14 घण्टा 10 मिनट 6 सेकन्ड",
+                "14 घण्टा 9 मिनट 38 सेकन्ड",
+                "14 घण्टा 10 मिनट 42 सेकन्ड"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "General Intelligence"
+        },
+        {
+            "id": "general_intelligence_24",
+            "text": "यदि RECOMMENDATION को कूट में COMMENDATIONER लिखते हैं, तो उसी कूट में REMUNERATION को कैसे लिखेंगे?",
+            "options": [
+                "MUNERATIORNE",
+                "MUNERATIONRE",
+                "MUNERATIONER",
+                "MUNERATIOENR"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Intelligence"
+        },
+        {
+            "id": "general_intelligence_25",
+            "text": "यदि कूट में TAMILNADU को 387241859 लिखते हैं, तो उसी कूट में DALMIA को कैसे लिखेंगे?",
+            "options": [
+                "548728",
+                "587428",
+                "584278",
+                "584728"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Intelligence"
+        },
+        {
+            "id": "general_knowledge_176",
+            "text": "उत्तर प्रदेश का प्रथम राज्यपाल इनमें से कौन था?",
+            "options": [
+                "के० एम० मुंशी",
+                "सरोजिनी नायडू",
+                "सुचेता कृपलानी",
+                "वी० वी० गिरि"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_177",
+            "text": "वर्ष 1965 में निम्नलिखित में से किस कृषि उपज के लिए न्यूनतम समर्थन मूल्य (एम० एस० पी०) पहली बार घोषित किया गया?",
+            "options": [
+                "कपास",
+                "तम्बाकू",
+                "धान",
+                "गेहूँ"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_178",
+            "text": "'ऑपरेशन संकट मोचन' किससे संबंधित है?",
+            "options": [
+                "बाढ़ राहत कार्य",
+                "दक्षिणी सूडान से भारतीयों को सुरक्षित निकालना",
+                "राष्ट्रीय आपदा प्रबंधन",
+                "उपर्युक्त में से कोई नहीं"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_179",
+            "text": "इनमें से किन्हें भारतीय प्रतिस्पर्धा आयोग (सी० सी० आइ०) का नया अध्यक्ष बनाया गया है? (2016 के संदर्भ में)",
+            "options": [
+                "डी० के० सिक्री",
+                "अमिताभ कान्त",
+                "अशोक चावला",
+                "धनेन्द्र कुमार"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_180",
+            "text": "'पोकेमॉन गो', जो हाल ही में बड़ी सुर्खियों में रहा, किससे संबंधित है?",
+            "options": [
+                "फुटबॉल लीग",
+                "मोबाइल गेम",
+                "विद्युत्-चालित कार",
+                "अंतरिक्ष अभियान"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_181",
+            "text": "यूनाइटेड प्रॉर्विस कब उत्तर प्रदेश बना?",
+            "options": [
+                "1937",
+                "1947",
+                "1950",
+                "1952"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_182",
+            "text": "किस मुगल बादशाह ने इलाहाबाद को अपनी राजधानी बनाया?",
+            "options": [
+                "अकबर",
+                "शाह आलम",
+                "(A) और (B) दोनों",
+                "इनमें से कोई नहीं"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_183",
+            "text": "जयचंद के विश्वासघात के कारण पृथ्वीराज चौहान की पराजय हुई। कालांतर में जयचंद कहाँ और कब मारा गया?",
+            "options": [
+                "तराई, 1192",
+                "चंदावर, 1193",
+                "कन्नौज, 1194",
+                "उपर्युक्त में से कोई नहीं"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_184",
+            "text": "कन्नौज से पूर्व हर्षवर्धन कहाँ का शासक था?",
+            "options": [
+                "कौशाम्बी",
+                "कुशीनगर",
+                "श्रावस्ती",
+                "थानेश्वर"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_185",
+            "text": "उत्तर प्रदेश में वह कौन-सा एकमात्र क्षेत्र है जहाँ ताँबा पाया जाता है?",
+            "options": [
+                "बाँदा",
+                "मिर्जापुर",
+                "ललितपुर",
+                "बुलंदशहर"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_186",
+            "text": "उत्तर प्रदेश में नींबू प्रधानतः कहाँ उगाया जाता है?",
+            "options": [
+                "सहारनपुर और मेरठ",
+                "फतेहपुर और प्रतापगढ़",
+                "लखनऊ और हरदोई",
+                "इलाहाबाद और वाराणसी"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_187",
+            "text": "निम्नलिखित में से कौन-सी दाल न्यूनतम समर्थन मूल्य (एम० एस० पी०) के अंतर्गत सम्मिलित नहीं है?",
+            "options": [
+                "अरहर",
+                "मसूर",
+                "उड़द",
+                "मूंग"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_188",
+            "text": "'सकल घरेलू प्रसन्नता' की अवधारणा विकसित की गई है:",
+            "options": [
+                "स्वीडन द्वारा",
+                "भूटान द्वारा",
+                "ऑस्ट्रिया द्वारा",
+                "भारत द्वारा"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_189",
+            "text": "पंजाब के किस गाँव ने हॉकी के सर्वाधिक ओलम्पिक खिलाड़ी दिए हैं?",
+            "options": [
+                "फ़गवाड़ा",
+                "बटाला",
+                "मुकेरियां",
+                "संसारपुर"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_190",
+            "text": "विश्व की सबसे तेज चलने वाली ट्रेन है:",
+            "options": [
+                "शिनकानसेन (जापान)",
+                "जर्मन आइ० सी० ई०-3",
+                "फ्रांसीसी टी० जी० वी०",
+                "शंघाई की मागलेव"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_191",
+            "text": "बस्तर, एक आदिवासी जिला, किस राज्य में है?",
+            "options": [
+                "मध्य प्रदेश",
+                "छत्तीसगढ़",
+                "झारखण्ड",
+                "ओडिशा"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_192",
+            "text": "'यारी है ईमान मेरा, यार मेरी जिंदगी' - भारत-अफगान मैत्री का यह गाना किस फिल्म में फिल्माया गया है?",
+            "options": [
+                "दोस्ती",
+                "बॉर्डर",
+                "जंजीर",
+                "उपकार"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_193",
+            "text": "\"आपको कॉलेज जाना चाहिए और अपने मस्तिष्क को ज्ञान से परिपूर्ण करना चाहिए।\" यह किसका कथन है?",
+            "options": [
+                "एंजेला मर्केल",
+                "मिशेल ओबामा",
+                "महाश्वेता देवी",
+                "नीता अंबानी"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_194",
+            "text": "बेटों वाली विधवा किसके द्वारा लिखी गई लघु कथा है?",
+            "options": [
+                "कमलेश्वर",
+                "प्रेमचंद",
+                "इश्मत चुगताई",
+                "खलील जिब्रान"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_195",
+            "text": "'पंचगव्य' में निम्नलिखित में से क्या सम्मिलित नहीं किया जाता?",
+            "options": [
+                "गाय का दूध",
+                "गाय का गोबर",
+                "गाय का घी",
+                "तुलसी"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_196",
+            "text": "हाल ही के अफ्रीकी देशों के दौरे में भारतीय प्रधानमंत्री नरेन्द्र मोदी ने किस देश के राष्ट्रपति के साथ ड्रम (नगाड़ा) बजाया?",
+            "options": [
+                "केन्या",
+                "दक्षिणी अफ्रीका",
+                "मोज़ाम्बिक",
+                "तंजानिया"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_197",
+            "text": "निम्नलिखित में से किस देश की प्रजनन दर विश्व में सर्वाधिक है?",
+            "options": [
+                "अंगोला",
+                "माली",
+                "सोमालिया",
+                "नाइजीरिया"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_198",
+            "text": "इनमें से कौन नेपाल की प्रथम महिला राष्ट्रपति हैं?",
+            "options": [
+                "सुशीला करकी",
+                "विद्या देवी भण्डारी",
+                "ओनसारी घर्ती मगार",
+                "इनमें से कोई नहीं"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_199",
+            "text": "यूनाइटेड किंगडम (इंग्लैन्ड) के वर्तमान प्रधानमंत्री (2016 में) हैं:",
+            "options": [
+                "डेविड कैमरून",
+                "अंड्रीया लेडसम",
+                "एंजेला ईगल",
+                "थेरेसा मे"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_200",
+            "text": "विश्व का विशालतम न्यायिक प्राधिकरण है:",
+            "options": [
+                "अंतर्राष्ट्रीय न्यायिक अदालत",
+                "इलाहाबाद हाई कोर्ट",
+                "भारत का सुप्रीम कोर्ट",
+                "यू० एन० सी० एल० ओ० एस० (सामुद्रिक)"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_201",
+            "text": "निम्नलिखित में से कौन-सा उपज न्यूनतम समर्थन मूल्य (एम० एस० पी०) के अंतर्गत नहीं आता?",
+            "options": [
+                "तम्बाकू",
+                "कोपरा",
+                "सब्जी/फल",
+                "पटसन"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_202",
+            "text": "इनमें से कौन जापान का वर्तमान सम्राट है, जिसने स्वास्थ्य कारणों से पदमुक्त होने की इच्छा प्रकट की है?",
+            "options": [
+                "हिरोहितो",
+                "अकिहितो",
+                "नारुहितो",
+                "इनमें से कोई नहीं"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_203",
+            "text": "हाथ से मैला उठाने के कार्य को भारत में कबसे प्रतिबंधित किया गया है?",
+            "options": [
+                "1947",
+                "1952",
+                "1990",
+                "1993"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_204",
+            "text": "विश्व जनसंख्या दिवस मनाया जाता है:",
+            "options": [
+                "1 जुलाई को",
+                "8 जुलाई को",
+                "11 जुलाई को",
+                "25 जुलाई को"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_205",
+            "text": "'मिट्टी का स्वास्थ्य परिपत्र' के संबंध में क्या सत्य है?",
+            "options": [
+                "यह निःशुल्क प्राप्त होता है",
+                "यह अधिक उपज के लिए मिट्टी की गुणवत्ता वृद्धि हेतु जानकारी देता है",
+                "यह फसल के आवश्यकता अनुसार उर्वरक की सही मात्रा की जानकारी देता है",
+                "उपर्युक्त सभी"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_206",
+            "text": "वर्ष 2011 की जनगणना के अनुसार भारत में वयोवृद्ध महिला नागरिकों की संख्या है:",
+            "options": [
+                "103 मिलियन",
+                "93 मिलियन",
+                "53 मिलियन",
+                "51 मिलियन"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_207",
+            "text": "भारत विश्व का विशालतम लोकतांत्रिक प्रजातंत्र है। इसकी प्रथम लोक सभा कब आयोजित की गई थी?",
+            "options": [
+                "16 अगस्त, 1947",
+                "27 जनवरी, 1950",
+                "13 मई, 1952",
+                "15 जून, 1952"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_208",
+            "text": "'पोटला पैलेस', जो कि एक सतमंजिला भवन है, किससे संबंधित है?",
+            "options": [
+                "जोधपुर के महाराणा",
+                "दलाई लामा",
+                "हिमाचल प्रदेश के राजा वीरभद्र",
+                "बाजीराव-मस्तानी"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_209",
+            "text": "रंगभेद के कारण महात्मा गाँधी को किस वर्ष दक्षिणी अफ्रीका के पीटरमरिट्जबर्ग रेलवे स्टेशन में प्रथम श्रेणी के रेल-डिब्बे से सामान सहित बाहर फेंक दिया गया था?",
+            "options": [
+                "1890",
+                "1891",
+                "1892",
+                "1893"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_210",
+            "text": "यूरो फुटबॉल चैम्पियनशिप, 2016 में किस टीम को हराकर पुर्तगाल ने चैम्पियनशिप जीती?",
+            "options": [
+                "जर्मनी",
+                "स्पेन",
+                "फ्रांस",
+                "पोलैन्ड"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_211",
+            "text": "निम्नलिखित में से कौन-सा 'ज़रीब' का हिस्सा है?",
+            "options": [
+                "फीता",
+                "छल्ला",
+                "गट्ठा",
+                "उपर्युक्त सभी"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_212",
+            "text": "एक एकड़ ज़मीन बराबर होती है:",
+            "options": [
+                "4840 वर्ग गज़ के",
+                "10 वर्ग ज़रीब के",
+                "0.40467 हेक्टेयर के",
+                "उपर्युक्त सभी"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_213",
+            "text": "किस प्राचीन साम्राज्य में महिलाएँ कुश्ती में भाग लेती थीं?",
+            "options": [
+                "बहमनी साम्राज्य",
+                "विजयनगर साम्राज्य",
+                "चोल साम्राज्य",
+                "उपर्युक्त में से कोई नहीं"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_214",
+            "text": "इनमें से कौन-सा मुगल बादशाह शराब को छूता तक नहीं था?",
+            "options": [
+                "अकबर",
+                "शाहजहाँ",
+                "जहाँगीर",
+                "औरंगजेब"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_215",
+            "text": "भक्ति आंदोलन को उत्तर भारत में लाने का श्रेय इनमें से किसको जाता है?",
+            "options": [
+                "रामानुज",
+                "मध्वाचार्य",
+                "रामानंद",
+                "रामदास"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_216",
+            "text": "रिओ ओलम्पिक में भाग लेने वाली भारतीय हॉकी टीम का कप्तान इनमें से कौन है? (2016 के संदर्भ में)",
+            "options": [
+                "सरदार सिंह",
+                "आकाशदीप सिंह",
+                "हरमनप्रीत सिंह",
+                "श्रीजेश"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_217",
+            "text": "महात्मा गाँधी द्वारा भारतीय राष्ट्रीय काँग्रेस के कितने अधिवेशनों का सभापतित्व किया गया?",
+            "options": [
+                "तीन",
+                "दो",
+                "एक",
+                "एक भी नहीं"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_218",
+            "text": "निम्नलिखित में से किस देश ने '1 अप्रैल से 31 मार्च' की अवधि को अपना वित्तीय वर्ष नहीं बनाया?",
+            "options": [
+                "जापान",
+                "न्यूज़ीलैन्ड",
+                "अमरीका",
+                "कनाडा"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_219",
+            "text": "टर्मिनल डॉप्लर रेडार (टी० डी० आरे०) किसलिए प्रयुक्त किया जाता है?",
+            "options": [
+                "मौसम की भविष्यवाणी",
+                "खराब मौसम में हवाई जहाजों को उतारने में",
+                "भूकंप का मापांकन",
+                "गहरे समुद्र में मार्गनिर्देशन"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_220",
+            "text": "निम्नलिखित देशों में से किसकी विश्व में न्यूनतम प्रजनन दर है?",
+            "options": [
+                "सिंगापुर",
+                "दक्षिण कोरिया",
+                "ताइवान",
+                "लटविया"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_221",
+            "text": "अंतरिक्ष में प्रथम पुष्पित पुष्प है:",
+            "options": [
+                "जीनिआ",
+                "अर्नाल्डी",
+                "रैफलसिया",
+                "उपर्युक्त में से कोई नहीं"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_222",
+            "text": "भारत के राष्ट्रपति द्वारा इनमें से किन्हें 51वाँ ज्ञानपीठ पुरस्कार प्रदान किया गया है?",
+            "options": [
+                "अशोक वाजपेयी",
+                "पुष्पेश पंत",
+                "मृणाल पाण्डे",
+                "रघुवीर चौधरी"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_223",
+            "text": "किस भारतीय राज्य सरकार ने कुत्ते के माँस पर प्रतिबंध लगाने की प्रक्रिया प्रारम्भ की है?",
+            "options": [
+                "नागालैन्ड",
+                "ओडिशा",
+                "मणिपुर",
+                "अरुणाचल प्रदेश"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_224",
+            "text": "निम्नलिखित में से कौन-सा भारत का सर्वाधिक घनी आबादी वाला शहर है?",
+            "options": [
+                "कल्यान",
+                "हैदराबाद",
+                "कानपुर",
+                "विजयवाड़ा"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_knowledge_225",
+            "text": "उत्तर प्रदेश की राजधानी लखनऊ की साक्षरता दर क्या है? (2011 जनगणना)",
+            "options": [
+                "56%",
+                "71%",
+                "84%",
+                "89%"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Knowledge"
+        },
+        {
+            "id": "general_science_1",
+            "text": "निम्नलिखित विकल्पों में से कौन-सा सही ढंग से ग्रहों के उनके आकार के अवरोही क्रम को दर्शाता है?",
+            "options": [
+                "मंगल, पृथ्वी, शनि, बुध",
+                "बृहस्पति, यूरेनस, शनि, शुक्र",
+                "यूरेनस, पृथ्वी, मंगल, बुध",
+                "शनि, बृहस्पति, पृथ्वी, शुक्र"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Science"
+        },
+        {
+            "id": "general_science_2",
+            "text": "आर्द्रता किससे मापी जाती है?",
+            "options": [
+                "हाइड्रोमीटर",
+                "बैरोमीटर",
+                "हाइग्रोमीटर",
+                "थर्मामीटर"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Science"
+        },
+        {
+            "id": "general_science_3",
+            "text": "निम्नलिखित में से किस सागर का जल सर्वाधिक खारा है?",
+            "options": [
+                "अराल सागर",
+                "लाल सागर",
+                "बाल्टिक सागर",
+                "मृत सागर"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Science"
+        },
+        {
+            "id": "general_science_4",
+            "text": "जहाँ ऋतु के अनुसार पेड़ों से पत्तियाँ झड़ जाती हैं, उन्हें कहते हैं:",
+            "options": [
+                "सदाबहार वन",
+                "शंकुधारी वन",
+                "पर्णपाती वन",
+                "उपर्युक्त में से कोई नहीं"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Science"
+        },
+        {
+            "id": "general_science_5",
+            "text": "किसी विशेष भौगोलिक क्षेत्र में पाये जाने वाले पशु-साम्राज्य को कहते हैं:",
+            "options": [
+                "फ्लोरा",
+                "फॉना",
+                "बायोस्फियर",
+                "उपर्युक्त में से कोई नहीं"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Science"
+        },
+        {
+            "id": "general_science_6",
+            "text": "निम्नलिखित में से कौन-सा एक उर्वरक खनिज नहीं है?",
+            "options": [
+                "नाइट्रेट",
+                "फॉस्फेट",
+                "टंग्स्टन",
+                "पोटाश"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Science"
+        },
+        {
+            "id": "general_science_7",
+            "text": "क्लीन एनर्जी मिनिस्टेरियल कॉन्फरेन्सों का आयोजन हुआ था: (i) 2010-वाशिंगटन में, 2012- लंदन में, 2013-मेरिडा में, (ii) 2013-नई दिल्ली में, 2014-सिओल में, 2016-लंदन में, (iii) 2011-आबू धाबी में, 2012- लंदन में, 2015-मेरिडा में, 2016-इस्लामाबाद में, (iv) 2010-वाशिंगटन में, 2012- लंदन में, 2014-सैन फ्रांसिस्को में। सही विकल्प चुनें।",
+            "options": [
+                "(i) और (iii) सही हैं",
+                "केवल (ii) सही है",
+                "केवल (iv) सही है",
+                "उपर्युक्त में से कोई नहीं"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Science"
+        },
+        {
+            "id": "general_science_8",
+            "text": "विश्व का सबसे बड़ा द्वीप है:",
+            "options": [
+                "बोर्नियो",
+                "अण्डमान और निकोबार",
+                "ग्रीनलैन्ड",
+                "सिंगापुर"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Science"
+        },
+        {
+            "id": "general_science_9",
+            "text": "एक घंटे के समयांतर में देशांतरीय दूरी होगी:",
+            "options": [
+                "15°",
+                "30°",
+                "45°",
+                "60°"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "General Science"
+        },
+        {
+            "id": "general_science_10",
+            "text": "धुंध, जो नमी के बड़े कर्णो से बना है, कहलाता है:",
+            "options": [
+                "कुहरा",
+                "ओस",
+                "बादल",
+                "उपर्युक्त में से कोई नहीं"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "General Science"
+        },
+        {
+            "id": "general_science_11",
+            "text": "तेज हवाओं द्वारा किस प्रकार की मिट्टी उड़कर आती है और जमा हो जाती है?",
+            "options": [
+                "पीली मिट्टी",
+                "लाल मिट्टी",
+                "काली मिट्टी",
+                "बलुई मिट्टी"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Science"
+        },
+        {
+            "id": "general_science_12",
+            "text": "जल-स्थानांतरण के सिद्धान्त की खोज व उसका प्रतिपादन इनमें से किसने किया?",
+            "options": [
+                "न्यूटन",
+                "आर्किमिडीज़",
+                "जॉन डाल्टन",
+                "केप्लर"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Science"
+        },
+        {
+            "id": "general_science_13",
+            "text": "टूटकर गिरते हुए पिण्डों के सिद्धान्त की खोज किसने की?",
+            "options": [
+                "आर्किमिडीज़",
+                "गैलीलियो",
+                "डार्विन",
+                "अलबर्ट आइंस्टाइन"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Science"
+        },
+        {
+            "id": "general_science_14",
+            "text": "इंसुलिन की खोज किसने की?",
+            "options": [
+                "एफ० बैंटिंग",
+                "अलेक्जेंडर फ्लेमिंग",
+                "रॉबर्ट कोच",
+                "डॉ० रोनाल्ड रॉस"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "General Science"
+        },
+        {
+            "id": "general_science_15",
+            "text": "निम्नलिखित में से कौन-सा भौतिक राशि अन्य से भिन्न है?",
+            "options": [
+                "कार्य",
+                "गतिज ऊर्जा",
+                "बल",
+                "स्थितिज ऊर्जा"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Science"
+        },
+        {
+            "id": "general_science_16",
+            "text": "नदी का बहता हुआ जल किस प्रकार का ऊर्जा संवहन करता है?",
+            "options": [
+                "गुरुत्वीय",
+                "स्थितिज",
+                "विद्युत्",
+                "गतिज"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Science"
+        },
+        {
+            "id": "general_science_17",
+            "text": "रक्त है:",
+            "options": [
+                "अम्लीय",
+                "क्षारीय",
+                "परिवर्तनीय",
+                "उदासीन"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Science"
+        },
+        {
+            "id": "general_science_18",
+            "text": "विडाल परीक्षण (Widal test) किसके लिए किया जाता है?",
+            "options": [
+                "हैजा",
+                "मलेरिया",
+                "टाइफॉइड",
+                "पीत-ज्वर"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Science"
+        },
+        {
+            "id": "general_science_19",
+            "text": "मोटर वाहन की बैटरी में कौन-सा अम्ल प्रयोग होता है?",
+            "options": [
+                "HCl",
+                "HF",
+                "HNO3",
+                "H2SO4"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "General Science"
+        },
+        {
+            "id": "general_science_20",
+            "text": "निम्नलिखित में से कौन-सा तरल पदार्थ सर्वाधिक ज्वलनशील है?",
+            "options": [
+                "मोबिल ऑइल",
+                "पारा",
+                "पेट्रोल",
+                "मिट्टी का तेल"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Science"
+        },
+        {
+            "id": "general_science_21",
+            "text": "पृथ्वी पर सर्वाधिक शीत तापमान पूर्वी अंटार्कटिका में कितना रिकॉर्ड किया गया है?",
+            "options": [
+                "-53.2°C",
+                "-83.2°C",
+                "-93.2°C",
+                "-95.2°C"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Science"
+        },
+        {
+            "id": "general_science_22",
+            "text": "पृथ्वी का विषुवतीय व्यास है:",
+            "options": [
+                "12756 km",
+                "13560 km",
+                "13900 km",
+                "14657 km"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "General Science"
+        },
+        {
+            "id": "general_science_23",
+            "text": "समुद्र के पानी में द्रवीभूत मुख्य लवणों की पहचान कीजिए: (i) सोडियम क्लोराइड (NaCl), (ii) सोडियम सल्फेट (Na2SO4), (iii) कैल्सियम कार्बोनेट (CaCO3), (iv) पोटैशियम सल्फेट (K2SO4)",
+            "options": [
+                "(i) और (ii)",
+                "(i), (ii) और (iii)",
+                "(i), (ii), (iii) और (iv)",
+                "उपर्युक्त में से कोई नहीं"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Science"
+        },
+        {
+            "id": "general_science_24",
+            "text": "'टेरा रोसा' शब्द का तात्पर्य है:",
+            "options": [
+                "पीली मिट्टी से",
+                "लाल मिट्टी से",
+                "एक द्वीप से",
+                "उपर्युक्त में से कोई नहीं"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "General Science"
+        },
+        {
+            "id": "general_science_25",
+            "text": "वर्ष का सबसे लम्बा दिन है:",
+            "options": [
+                "20 अप्रैल",
+                "15 मई",
+                "21 जून",
+                "30 अगस्त"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "General Science"
+        },
+        {
+            "id": "mathematics_176",
+            "text": "पाँच खुमानियों का औसत भार 200 g है। यदि दो और खुमानियों को शामिल कर दिया जाए, तो औसत भार 210 g हो जाता है। दोनों नए खुमानियों का औसत भार होगा:",
+            "options": [
+                "230 g",
+                "235 g",
+                "240 g",
+                "420 g"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_177",
+            "text": "यदि 0.25 और 0.75 के योग को 0.5 और 0.3 के अंतर से विभाजित करें, तो परिणाम होगा:",
+            "options": [
+                "0.5",
+                "2",
+                "5",
+                "10"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_178",
+            "text": "एक आयताकार मैदान का क्षेत्रफल 1200 वर्ग m है। यदि उसकी लम्बाई 40 m है, तो उसकी लम्बाई और चौड़ाई का अनुपात होगा:",
+            "options": [
+                "3:4",
+                "4:3",
+                "2:1",
+                "5:2"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_179",
+            "text": "गोपिका 4.0 cm रेखा को 4.1 cm नापती है। नाप में गलती का प्रतिशत है:",
+            "options": [
+                "2.5",
+                "2.0",
+                "0.1",
+                "1.0"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_180",
+            "text": "यदि 4 व्यक्ति किसी कार्य को 3 दिन में करते हैं, तो 3 व्यक्ति उसी कार्य को कितने दिनों में करेंगे?",
+            "options": [
+                "1",
+                "5",
+                "2",
+                "4"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_181",
+            "text": "दशमलव प्रणाली में द्विआधारी संख्या 11011 कितने के बराबर है?",
+            "options": [
+                "27",
+                "25",
+                "20",
+                "21"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_182",
+            "text": "यदि राजदीप ₹80,000 में एक मोटर साइकिल खरीदकर उसे ₹60,000 में बेचता है, तो उसका हानि प्रतिशत होगा:",
+            "options": [
+                "25",
+                "50",
+                "40",
+                "33 1/3"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_183",
+            "text": "20 पुस्तकें बेचने पर राजेश को 4 पुस्तकों के विक्रय मूल्य के बराबर लाभ होता है। उसका लाभ प्रतिशत होगा:",
+            "options": [
+                "10",
+                "20",
+                "25",
+                "15"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_184",
+            "text": "330 m की दूरी तय करने के लिए 100 cm व्यास वाला पहिया कितना चक्कर लगाएगा?",
+            "options": [
+                "92",
+                "89",
+                "90",
+                "105"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_185",
+            "text": "किसी बेलन का आयतन 1540 cm³ है। यदि उसकी ऊँचाई 10 cm है, तो उसके आधार की त्रिज्या होगी:",
+            "options": [
+                "9 cm",
+                "5 cm",
+                "7 cm",
+                "3 cm"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_186",
+            "text": "यदि किसी शंकु के वक्र तल का क्षेत्रफल 4070 cm² और उसका व्यास 70 cm है, तो उसकी तिरछी ऊँचाई होगी:",
+            "options": [
+                "10 cm",
+                "27 cm",
+                "40 cm",
+                "37 cm"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_187",
+            "text": "एक समकोण समद्विबाहु त्रिभुज का क्षेत्रफल 200 cm² है। उसके कर्ण की लम्बाई होगी:",
+            "options": [
+                "20√2 cm",
+                "10√6 cm",
+                "20√6 cm",
+                "√2 cm"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_188",
+            "text": "एक फल विक्रेता 24 आम पर 1 आम मुफ्त देता है। वह ग्राहक को छूट प्रदान करता है:",
+            "options": [
+                "12%",
+                "4%",
+                "1%",
+                "4 1/6%"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_189",
+            "text": "कॉफी की कीमत 15% बढ़ाने पर उसकी बिक्री 15% कम हो गई। आय पर इसका कुल प्रभाव क्या होगा?",
+            "options": [
+                "शून्य",
+                "2.25% वृद्धि",
+                "2.25% कमी",
+                "15% कमी"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_190",
+            "text": "एक नल किसी टंकी को 16 मिनट में भर सकता है तथा दूसरा नल उसे 24 मिनट में खाली कर सकता है। यदि टंकी 2/3 पहले से भरी है और दोनों नलों को एकसाथ खोल दिया जाए, तो टंकी कितने मिनट में भर जाएगी?",
+            "options": [
+                "48 मिनट",
+                "24 मिनट",
+                "16 मिनट",
+                "8 मिनट"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_191",
+            "text": "स्थिर जल में नाव की गति 22 kmph है। यदि प्रवाह की दिशा में उसकी गति 24 kmph है, तो प्रवाह के विपरीत उसकी गति होगी:",
+            "options": [
+                "20 kmph",
+                "22 kmph",
+                "24 kmph",
+                "26 kmph"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_192",
+            "text": "दस प्रेक्षणों का माध्य 53 है। गलती से एक प्रेक्षण में 45 को 54 लिखा गया, परिवर्तित सही माध्य होगा:",
+            "options": [
+                "47.60",
+                "52.10",
+                "52.90",
+                "53.90"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_193",
+            "text": "एक महिला की आयु उसके पति की आयु से 4 वर्ष कम है तथा उसकी पुत्री की आयु से तीन गुनी है। यदि 6 वर्ष बाद पुत्री की आयु 20 वर्ष हो जाएंगी, तो पिता की वर्तमान आयु है:",
+            "options": [
+                "48 वर्ष",
+                "40 वर्ष",
+                "46 वर्ष",
+                "42 वर्ष"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_194",
+            "text": "100 के बराबर या उससे कम उन सभी प्राकृतिक संख्याओं का योग क्या है, जो 3 के गुणज है?",
+            "options": [
+                "1683",
+                "3367",
+                "5050",
+                "10100"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_195",
+            "text": "एक कूलर 5 किश्तों में बेचा गया। हर किश्त पूर्ववर्ती किश्त से दोगुनी है। यदि पहली किश्त ₹300 है, तो कूलर की कीमत है:",
+            "options": [
+                "8,600",
+                "9,000",
+                "9,300",
+                "9,600"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_196",
+            "text": "किसी संख्या को दो भागों में बाँट दिया गया, जिनका अनुपात 3 : 4 है। यदि पहला भाग 18 है, तो दूसरा भाग होगा:",
+            "options": [
+                "20",
+                "30",
+                "24",
+                "25"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_197",
+            "text": "5 संख्याओं का अंकगणितीय माध्य 27 है। यदि उनमें से एक संख्या हटा दी जाए, तो माध्य 25 हो जाता है। हटाई गई संख्या है:",
+            "options": [
+                "25",
+                "30",
+                "35",
+                "40"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_198",
+            "text": "उत्कर्ष की आयु उसके पुत्र विमर्श से छः गुनी है। चार वर्ष बाद उसकी उम्र विमर्श से चार गुनी होगी। दोनों की वर्तमान आयु है:",
+            "options": [
+                "24 वर्ष तथा 4 वर्ष",
+                "30 वर्ष तथा 5 वर्ष",
+                "36 वर्ष तथा 6 वर्ष",
+                "60 वर्ष तथा 10 वर्ष"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_199",
+            "text": "पाँच स्कूली बच्चों के पास कुल ₹253 जेबखर्च के हैं। 7 की दर से वे प्रत्येक कैन्डी क्रय कर लेते हैं। अब उनके पास जेबखर्च की औसत राशि बचती है:",
+            "options": [
+                "43.60",
+                "57.60",
+                "49.20",
+                "218"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_200",
+            "text": "शोभा बेंगालुरु से मैसूर की दूरी 50 kmph की गति से तय करती है और 60 kmph की गति से वापस लौटती है। उसकी समग्र यात्रा में औसत गति थी:",
+            "options": [
+                "10 kmph",
+                "55 kmph",
+                "54 6/11 kmph",
+                "110 kmph"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_201",
+            "text": "फतेहपुर और बांदा का साक्षरता प्रतिशत क्रमशः 52 और 46 है। दोनों जिलों का सम्मिलित साक्षरता प्रतिशत होगा:",
+            "options": [
+                "49",
+                "92",
+                "98",
+                "उपर्युक्त में से कोई नहीं"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_202",
+            "text": "एक दुकानदार किसी वस्तु की कीमत में 20% की वृद्धि करता है और फिर 20% का बट्टा देता है। उसका लाभ प्रतिशत होगा:",
+            "options": [
+                "80",
+                "0",
+                "4",
+                "-4"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_203",
+            "text": "एक कक्षा में दो अनुभाग हैं। अनुभाग A में 30 विद्यार्थी और अनुभाग B में 20 विद्यार्थी हैं। गणित की परीक्षा में दोनों अनुभागों का माध्य अंक 40 है। दोनों अनुभागों के प्राप्त कुल अंकों का अंतर होगा:",
+            "options": [
+                "0",
+                "8",
+                "-400",
+                "400"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_204",
+            "text": "एक थैले में ₹1, 50 पैसे और 25 पैसे के सिक्कों के मूल्यवर्ग में 55 शामिल हैं। सिक्के क्रमशः 1:2:3 के अनुपात में हैं। 50 पैसे के सिक्कों की संख्या कितनी होगी?",
+            "options": [
+                "41",
+                "42",
+                "40",
+                "38"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_205",
+            "text": "एक कंटेनर में 80 L दूध था। इस कंटेनर से 8 L दूध निकालकर उसी मात्रा में पानी भर दिया जाता है। इस प्रक्रिया को पुनः दो बार दोहराया जाता है। कंटेनर में अब कितना दूध है?",
+            "options": [
+                "58.32 L",
+                "42.79 L",
+                "56.50 L",
+                "उपर्युक्त में से कोई नहीं"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_206",
+            "text": "यदि sin x = cos y हो तथा कोण x और कोण y न्यूनकोण हों, तो x और y के बीच क्या सम्बन्ध है?",
+            "options": [
+                "x - y = π/2",
+                "x + y = 3π/2",
+                "x + y = π/2",
+                "x + y = π/4"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_207",
+            "text": "इतिहास में अधिकतम अभ्यर्थियों को किस सीमा में अंक प्राप्त हुए? (दिए गए सारणी के आधार पर)",
+            "options": [
+                "20-29",
+                "30-39",
+                "40-49",
+                "50-59"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_208",
+            "text": "अभ्यर्थियों का निष्पादन अंग्रेजी में बेहतर रहा। यह:",
+            "options": [
+                "सत्य है",
+                "असत्य है",
+                "अंशतः सत्य है",
+                "कह नहीं सकते"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_209",
+            "text": "किस अंक-सीमा में अभ्यर्थियों की संख्या समान है?",
+            "options": [
+                "20-29",
+                "30-39",
+                "50-59",
+                "उपर्युक्त में से कोई नहीं"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_210",
+            "text": "इतिहास में 50 से कम अंक पाने वाले अभ्यर्थियों का प्रतिशत है:",
+            "options": [
+                "25",
+                "50",
+                "75",
+                "100"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_211",
+            "text": "इतिहास में 30-49 के बीच अंक पाने वाले अभ्यर्थियों का अनुपात है:",
+            "options": [
+                "0.19",
+                "0.55",
+                "0.53",
+                "0.55"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_212",
+            "text": "15 m × 20 m के आयताकार मैदान के बीच में गड़े खम्बे से एक गाय 7 m लम्बी रस्सी से बंधी है। मैदान का कितना प्रतिशत क्षेत्रफल गाय की पहुँच से परे है?",
+            "options": [
+                "14 1/3",
+                "48 2/3",
+                "51 1/3",
+                "85 2/3"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_213",
+            "text": "44 cm परिमाप के एक वर्ग और 44 cm परिधि के एक वृत्त में किसका क्षेत्रफल अधिक है और कितना?",
+            "options": [
+                "वर्ग, 33 cm²",
+                "वृत्त, 33 cm²",
+                "वृत्त, 495 cm²",
+                "वर्ग, 495 cm²"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_214",
+            "text": "12 cm भुजा वाले एक समबाहु त्रिभुज का क्षेत्रफल (वर्ग cm में) कितना होगा?",
+            "options": [
+                "36",
+                "36√3",
+                "108",
+                "188√6"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_215",
+            "text": "1500 कर्मचारियों वाली एक फर्म में 300 को वेतन-वृद्धि मिली, 100 की पदोन्नति हुई तथा 50 को दोनों लाभ मिले। कितने कर्मचारियों को कोई लाभ नहीं मिला?",
+            "options": [
+                "50",
+                "250",
+                "1150",
+                "1400"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_216",
+            "text": "500 उपभोक्ताओं में 250 उपभोक्ताओं ने उत्पाद A पसंद किये और 275 ने उत्पाद B को पसंद किया। कम-से-कम कितने लोगों ने दोनों उत्पादों को पसंद किया?",
+            "options": [
+                "275",
+                "4",
+                "16",
+                "25"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_217",
+            "text": "किसी वृत्त में एक समांतर-चतुर्भुज ABCD बनाया जाता है। यह ABCD होगा:",
+            "options": [
+                "समलम्ब",
+                "समचतुर्भुज",
+                "वर्ग",
+                "आयत"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_218",
+            "text": "किसी समचतुर्भुज के विकर्ण 15 cm और 20 cm हैं। इसका क्षेत्रफल (वर्ग cm में) होगा:",
+            "options": [
+                "75",
+                "150",
+                "300",
+                "625"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_219",
+            "text": "3√x - 5√y में से 2√x + 3√y घटाने से प्राप्त होगा:",
+            "options": [
+                "8√y - √x",
+                "√x - 8√y",
+                "√x + 8√y",
+                "-√x - 8√y"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_220",
+            "text": "x² - 16x = 0 का गैर-शून्य मूल होगा:",
+            "options": [
+                "-16",
+                "4",
+                "16",
+                "256"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_221",
+            "text": "-2, -1, 0, 1, 2 में वर्गों के योग तथा घनों के योग का अनुपात होगा:",
+            "options": [
+                "0",
+                "5/9",
+                "9/5",
+                "अनंत"
+            ],
+            "correctOptionIndex": 3,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_222",
+            "text": "हरात्मक श्रेणी का उदाहरण है:",
+            "options": [
+                "7, 10, 13, 16",
+                "1, 1/4, 1/7, 1/10",
+                "3, 1/3, 1/27",
+                "2, 4, 6, 9"
+            ],
+            "correctOptionIndex": 1,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_223",
+            "text": "यदि 10 मित्र एक-दूसरे से हाथ मिलाते हैं, तो कुल कितनी बार हाथ मिलेंगे?",
+            "options": [
+                "45",
+                "50",
+                "60",
+                "100"
+            ],
+            "correctOptionIndex": 0,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_224",
+            "text": "दस भुजाओं वाले किसी बहुभुज में कुल विकर्ण होंगे:",
+            "options": [
+                "10",
+                "20",
+                "35",
+                "45"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "id": "mathematics_225",
+            "text": "(√5 + √3)² - (√5 - √3)² को सरल करने से प्राप्त होगा:",
+            "options": [
+                "0",
+                "2√15",
+                "4√15",
+                "6"
+            ],
+            "correctOptionIndex": 2,
+            "subject": "Mathematics"
         }
     ]
 }
