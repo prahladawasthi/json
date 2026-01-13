@@ -89,7 +89,7 @@
       "en_word": "Frisbee",
       "hi_word": "फ्लाइंग डिस्क",
       "icon": "🥏",
-      "val": "1",
+      "val": "1"
     },
     {"en_word": "Banana", "hi_word": "केला", "icon": "🍌", "val": "-1"},
     {"en_word": "Swallow", "hi_word": "अबाबील", "icon": "🐦", "val": "1"},
@@ -114,7 +114,7 @@
       "en_word": "Space Shuttle",
       "hi_word": "अंतरिक्ष शटल",
       "icon": "🚀",
-      "val": "1",
+      "val": "1"
     },
     {"en_word": "Perfume", "hi_word": "इत्र", "icon": "🧴", "val": "-1"},
     {"en_word": "Kite Bird", "hi_word": "चील", "icon": "🦅", "val": "1"},
@@ -131,13 +131,13 @@
       "en_word": "Hang Glider",
       "hi_word": "हैंग ग्लाइडर",
       "icon": "🪂",
-      "val": "1",
+      "val": "1"
     },
     {
       "en_word": "Basketball",
       "hi_word": "बास्केटबॉल",
       "icon": "🏀",
-      "val": "-1",
+      "val": "-1"
     },
     {"en_word": "Magpie", "hi_word": "नीलकंठ", "icon": "🐦", "val": "1"},
     {"en_word": "Newspaper", "hi_word": "अख़बार", "icon": "📰", "val": "-1"},
@@ -161,7 +161,7 @@
       "en_word": "Zeppelin",
       "hi_word": "जर्मन गुब्बारा",
       "icon": "🎈",
-      "val": "1",
+      "val": "1"
     },
     {"en_word": "Sandwich", "hi_word": "सैंडविच", "icon": "🥪", "val": "-1"},
     {"en_word": "Heron", "hi_word": "बगुला", "icon": "🐦", "val": "1"},
@@ -180,7 +180,7 @@
       "en_word": "Hummingbird",
       "hi_word": "गुंजन पक्षी",
       "icon": "🐦",
-      "val": "1",
+      "val": "1"
     },
     {"en_word": "Coin", "hi_word": "सिक्का", "icon": "🪙", "val": "-1"},
     {"en_word": "Vampire", "hi_word": "पिशाच", "icon": "🧛", "val": "1"},
@@ -199,7 +199,7 @@
       "en_word": "Hot Air Balloon",
       "hi_word": "गर्म हवा का गुब्बारा",
       "icon": "🎈",
-      "val": "1",
+      "val": "1"
     },
     {"en_word": "Jug", "hi_word": "जग", "icon": "🏺", "val": "-1"},
     {"en_word": "Seagull", "hi_word": "गंगा-चिल्ली", "icon": "🐦", "val": "1"},
@@ -240,7 +240,7 @@
       "en_word": "Capsicum",
       "hi_word": "शिमला मिर्च",
       "icon": "🫑",
-      "val": "-1",
+      "val": "-1"
     },
     {"en_word": "Kayak", "hi_word": "कश्ती", "icon": "🚣", "val": "-1"},
     {"en_word": "Beaver", "hi_word": "ऊदबिलाव", "icon": "🦫", "val": "-1"},
@@ -257,7 +257,7 @@
       "en_word": "Palm Tree",
       "hi_word": "ताड़ का पेड़",
       "icon": "🌴",
-      "val": "-1",
+      "val": "-1"
     },
     {"en_word": "Peach", "hi_word": "आड़ू", "icon": "🍑", "val": "-1"},
     {"en_word": "Brain", "hi_word": "दिमाग", "icon": "🧠", "val": "-1"},
@@ -334,7 +334,7 @@
       "en_word": "Police Car",
       "hi_word": "पुलिस गाड़ी",
       "icon": "🚓",
-      "val": "-1",
+      "val": "-1"
     },
     {"en_word": "Abacus", "hi_word": "अबैकस", "icon": "🧮", "val": "-1"},
     {"en_word": "Volleyball", "hi_word": "वॉलीबॉल", "icon": "🏐", "val": "-1"},
@@ -359,7 +359,7 @@
       "en_word": "Auto Rickshaw",
       "hi_word": "ऑटो रिक्शा",
       "icon": "🛺",
-      "val": "-1",
+      "val": "-1"
     },
     {"en_word": "Mic", "hi_word": "माइक", "icon": "🎤", "val": "-1"},
     {"en_word": "Dog", "hi_word": "कुत्ता", "icon": "🐕", "val": "-1"},
@@ -369,7 +369,7 @@
       "en_word": "Stethoscope",
       "hi_word": "स्टेथोस्कोप",
       "icon": "🩺",
-      "val": "-1",
+      "val": "-1"
     },
     {"en_word": "Cactus", "hi_word": "नागफनी", "icon": "🌵", "val": "-1"},
     {"en_word": "Desert", "hi_word": "रेगिस्तान", "icon": "🏜️", "val": "-1"},
@@ -380,13 +380,13 @@
       "en_word": "Hockey Stick",
       "hi_word": "हॉकी स्टिक",
       "icon": "🏑",
-      "val": "-1",
+      "val": "-1"
     },
     {
       "en_word": "Boxing Glove",
       "hi_word": "मुक्केबाजी दस्ताने",
       "icon": "🥊",
-      "val": "-1",
+      "val": "-1"
     },
     {"en_word": "Cherry", "hi_word": "चेरी", "icon": "🍒", "val": "-1"},
     {"en_word": "Violin", "hi_word": "वायलिन", "icon": "🎻", "val": "-1"},
@@ -434,7 +434,7 @@
       "en_word": "Seahorse",
       "hi_word": "समुद्री घोड़ा",
       "icon": "🪸",
-      "val": "-1",
+      "val": "-1"
     },
     {"en_word": "Boot", "hi_word": "बूट", "icon": "👢", "val": "-1"},
     {"en_word": "Hippo", "hi_word": "दरियाई घोड़ा", "icon": "🦛", "val": "-1"},
@@ -447,7 +447,7 @@
       "en_word": "Tennis Ball",
       "hi_word": "टेनिस गेंद",
       "icon": "🎾",
-      "val": "-1",
+      "val": "-1"
     },
     {"en_word": "Alien", "hi_word": "विदेशी", "icon": "👽", "val": "-1"},
     {"en_word": "Slipper", "hi_word": "चप्पल", "icon": "🩴", "val": "-1"},
@@ -482,7 +482,7 @@
       "en_word": "Motorcycle",
       "hi_word": "मोटरसाइकिल",
       "icon": "🏍️",
-      "val": "-1",
+      "val": "-1"
     },
     {"en_word": "Ladder", "hi_word": "सीढ़ी", "icon": "🪜", "val": "-1"},
     {"en_word": "Donut", "hi_word": "डोनट", "icon": "🍩", "val": "-1"},
@@ -496,7 +496,7 @@
       "en_word": "Nail Polish",
       "hi_word": "नेल पॉलिश",
       "icon": "💅",
-      "val": "-1",
+      "val": "-1"
     },
     {"en_word": "Saw", "hi_word": "आरी", "icon": "🪚", "val": "-1"},
     {"en_word": "Jeans", "hi_word": "जींस", "icon": "👖", "val": "-1"},
@@ -534,7 +534,7 @@
       "en_word": "Strawberry",
       "hi_word": "स्ट्रॉबेरी",
       "icon": "🍓",
-      "val": "-1",
+      "val": "-1"
     },
     {"en_word": "Grapes", "hi_word": "अंगूर", "icon": "🍇", "val": "-1"},
     {"en_word": "Club", "hi_word": "चिड़िया", "icon": "♣️", "val": "-1"},
@@ -598,7 +598,7 @@
       "en_word": "Thermometer",
       "hi_word": "थर्मामीटर",
       "icon": "🌡️",
-      "val": "-1",
+      "val": "-1"
     },
     {"en_word": "Hammer", "hi_word": "हथौड़ा", "icon": "🔨", "val": "-1"},
     {"en_word": "Bone", "hi_word": "हड्डी", "icon": "🦴", "val": "-1"},
@@ -617,7 +617,7 @@
       "en_word": "Microscope",
       "hi_word": "सूक्ष्मदर्शी",
       "icon": "🔬",
-      "val": "-1",
+      "val": "-1"
     },
     {"en_word": "Alligator", "hi_word": "घड़ियाल", "icon": "🐊", "val": "-1"},
     {"en_word": "Guitar", "hi_word": "गिटार", "icon": "🎸", "val": "-1"},
